@@ -1,0 +1,11 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+Title: Cycling the Wirral Way.
+status: draft
+Date: 2014-02-21
+Tags: [cycling]
+Category: blog
+
+#+END_HTML

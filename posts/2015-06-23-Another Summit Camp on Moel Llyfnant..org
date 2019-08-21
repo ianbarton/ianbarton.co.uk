@@ -1,0 +1,12 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+Title: Another Moel Llyfnant Summit Camp.
+Summary:
+Date: 2015-06-23
+Tags: [mountaineering, backpacking]
+Category: blog
+#+END_HTML
+
+Some test text.

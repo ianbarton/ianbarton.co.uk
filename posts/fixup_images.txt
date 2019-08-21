@@ -1,0 +1,7 @@
+fixup_images.txt~:2013-05-12-are-we-nearly-there-yet.org: width="200" alt="Raspberry Pi DLNA Server." title="Raspberry Pi DLNA Server." src="/images/mediapi/thumb.mediapi.jpg" /></a>
+fixup_images.txt~:2013-07-20-Arenigs-Overnighter.org: width="200" alt="Cotton grass on Arenig Fawr." title="Cotton grass on Arenig Fawr." src="/images/2013-07_arenigs/thumb.IMG_7650.JPG" /></a>
+fixup_images.txt~:2013-07-20-Arenigs-Overnighter.org: width="200" alt="Tarns on South ridge of Arenig Fawr." title="Tarns on South ridge of Arenig Fawr." src="/images/thumb.2013-07_arenigs/IMG_7672.JPG" /></a>
+fixup_images.txt~:2013-07-20-Arenigs-Overnighter.org: width="200" alt="Summit camp on Moel Llyfnant." title="Summit camp on Moel Llyfnant." src="/images/2013-07_arenigs/thumb.IMG_7674.JPG" /></a>
+fixup_images.txt~:2013-07-20-Arenigs-Overnighter.org: width="200" alt="Sunset over Snowdon." title="Sunset over Snowdon." src="/images/2013-07_arenigs/thumb.IMG_7704.JPG" /></a>
+fixup_images.txt~:2013-07-20-Arenigs-Overnighter.org: width="200" alt="Just before the sunrise over Arenig Fawr." title="Just before the sunrise over Arenig Fawr." src="/images/2013-07_arenigs/thumb.IMG_7715.JPG" /></a>
+fixup_images.txt~:2013-07-20-Arenigs-Overnighter.org: width="200" alt="Moel Llyfnant from the forestry track." title="Moel Llyfnant from the forestry track." src="/images/2013-07_arenigs/thumb.IMG_7741.JPG" /></a>
