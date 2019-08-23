@@ -1,17 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2010-09-03
-Title: Casio Protrek Triple Sensor Watch
-Layout: post
-Summary: "Review of the Casio Protrek triple sensor watch."
-Tags: [gear]
-Category: blog
-Comments: true
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Casio Protrek Watch
+.. slug: 2010-09-03-casio-protrek-watch
+.. date: 2010-09-03 17:50:25 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I needed to buy a new watch and I wanted to get one that had altimeter
 and compass functions in addition to the "normal" watch stuff. I did
 quite a lot of research and it came down to a choice between the Casio

@@ -1,17 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2010-06-02
-Title: Traverse of the Glyders from Capel Curig to Nant Peris.
-Layout: post
-excerpt: "A traverse of the Glyders from Capel Curig to Nant Peris."
-Category: blog
-Comments: true
-Tags: [mountaineering, trips]
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Traverse Of The Glyders From Capel Curig To Nant Peris
+.. slug: 2010-06-02-traverse-of-the-glyders-from-capel-curig-to-nant-peris
+.. date: 2010-06-02 17:47:41 UTC
+.. tags: mountaineering
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 * A Traverse of the Glyders from Capel Curig to Nant Peris.
 I have traversed the Glyders a few times starting at Ogwen
 and descending to into Capel Curig. Back in 1980 I started in Nant

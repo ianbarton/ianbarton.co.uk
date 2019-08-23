@@ -1,19 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2012-03-05
-Title: Carneddau Overnighter
-Layout: post
-Summary: "An Overnight camp on Pen yr Helgi Du, followed by a cold wet
-descent."
-Tags: [mountaineering]
-Category: blog
-Comments: true
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Carneddau Overnighter
+.. slug: 2012-03-05-carneddau-overnighter
+.. date: 2012-03-05 17:53:20 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I had wanted to do an overnight trip since Christmas. I had planned to
 spend at least one night camping high in the snow. Unfortunately, this
 year the winter seems to have come and gone with almost no serious

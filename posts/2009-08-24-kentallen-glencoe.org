@@ -1,16 +1,17 @@
-#+TITLE: Cycling Around Lake Vyrnwy.
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Date: 2009-08-24
-Layout: post
-Summary: The Oban to Fort William Cycle trail seems to be one of the best kept secrets in Scotland.
-Title: Kentallen to Glencoe.
-Category: blog
-Tags: [cycling]
+#+BEGIN_COMMENT
+.. title: Kentallen Glencoe
+.. slug: 2009-08-24-kentallen-glencoe
+.. date: 2009-08-24 17:45:04 UTC
+.. tags: cycling
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
-#+END_HTML
+*
+
+
 
 #+BEGIN_HTML
 <div class="photofloatr">

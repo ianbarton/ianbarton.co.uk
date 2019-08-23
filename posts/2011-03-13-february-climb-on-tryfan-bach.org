@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2011-03-13
-Title: February Climb on Tryfan Bach
-Layout: post
-Tags: [mountaineering, trips]
-Summary: "Climbing with the children on Tryfan Bach."
-Category: blog
-Comments: true
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: February Climb On Tryfan Bach
+.. slug: 2011-03-13-february-climb-on-tryfan-bach
+.. date: 2011-03-13 17:51:24 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 It's hard to find things to do in the February school half term
 week. The weather is usually bad, at least as far as doing anything
 outside with children is concerned and the hours of daylight are

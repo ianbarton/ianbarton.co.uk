@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Linux.
-#+BEGIN_HTML
-Date: 2009-03-13
-Layout:  post
-Title: A Walk in the Berwyns.
-Comments: true
-Category: blog
-Tags: [mountaineering, trips]
-
-#+END_HTML
-
-
+#+BEGIN_COMMENT
+.. title: A Walk In The Berwyns
+.. slug: 2009-03-13-a_walk_in_the_berwyns
+.. date: 2009-03-13 17:44:53 UTC
+.. tags: mountaineering, walks
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I have wanted to visit the Berwyns for some time. Although we live
 quite close and I have been to Snowdonia  many times, I have never
 walked in there. Reading through the Nuttall's book the Cadair

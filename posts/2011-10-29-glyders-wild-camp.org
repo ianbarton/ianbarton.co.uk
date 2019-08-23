@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2011-10-29
-Title: Glyders Wild Camp
-Layout: post
-Summary: "Scramble on the west face of Tryfan and a Wild Camp on the Glyders."
-Tags: [mountaineering, trips, backpacking]
-Category: blog
-Comments: true
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Glyders Wild Camp
+.. slug: 2011-10-29-glyders-wild-camp
+.. date: 2011-10-29 17:52:51 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 ** Day One - a Scramble on Tryfan.
 
 You can see more photos from the trip [[file:./tryfan-glyders-photos.html][here]] .

@@ -1,17 +1,13 @@
-#+TITLE: Cycling Around Lake Vyrnwy.
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
-#+BEGIN_HTML
-Date: 2009-10-30
-Layout: post
-Title: Skiddaw.
-Comments: true
-Category: blog
-Tags: [mountaineering,trips]
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Skiddaw
+.. slug: 2009-10-30-skiddaw
+.. date: 2009-10-30 17:45:13 UTC
+.. tags: mountaineering
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 We often go to the Lake District in the October half term for a short
 break. At that time of year the hours of daylight are short and the

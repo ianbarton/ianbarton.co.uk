@@ -1,19 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+INFOJS_OPT: view:info toc:t ltoc:nil
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Splashing About in the Arans.
-#+BEGIN_HTML
-Date: 2012-07-21
-Layout: post
-template: map
-gpx: 2012-07-19_Arans.gpx
-Title: Splashing About in the Arans.
-Comments: true
-Category: blog
-Tags: [mountaineering, backpacking]
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Splashing About In The Arans
+.. slug: 2012-07-21-splashing-about-in-the-arans
+.. date: 2012-07-21 17:54:13 UTC
+.. tags: mountaineering, trip report
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 On Wednesday MWIS was promising 70% chance of clear summits on the
 Thursday and Friday. After months of rain, this looked like a chance

@@ -1,17 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Traverse of the Carneddau.
-#+BEGIN_HTML
-Date: 2014-05-15
-Layout: post
-Title: Traverse of the Carneddau from Cwm Eigiau.
-Comments: true
-Category: blog
-Tags: [mountaineering, backpacking]
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Carneddau
+.. slug: 2014-05-16-carneddau
+.. date: 2014-05-16 17:57:20 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 #+BEGIN_HTML
 <!-- PELICAN_BEGIN_SUMMARY -->

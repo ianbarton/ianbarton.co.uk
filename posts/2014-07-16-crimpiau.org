@@ -1,16 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: An Evening Walk Over Crimpiau.
-Date: 2014-07-14
-Layout: post
-Comments: true
-Tags: [mountaineering]
-Category: blog
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Crimpiau
+.. slug: -crimpiau
+.. date: 2014-07-16 17:57:50 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 #+BEGIN_HTML
 <!-- PELICAN_BEGIN_SUMMARY -->

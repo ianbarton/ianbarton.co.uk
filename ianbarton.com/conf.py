@@ -14,25 +14,25 @@ import time
 # ! Option (a) is used when you don't want that setting translated.
 # ! Option (b) is used for settings that are different in different languages.
 
+NIKOLA_SHOW_TRACEBACKS=1
 
 # Data about this site
-BLOG_AUTHOR = "Ian Barton"  # (translatable)
-BLOG_TITLE = "ianbarton.com"  # (translatable)
+BLOG_AUTHOR = "Ian Barton."  # (translatable)
+BLOG_TITLE = "Ian's Mountaineering Blog."  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://ianbarton.com/"
+SITE_URL = "https://ianbarton.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http://ianbarton.com/"
-BLOG_EMAIL = "ian@ianbarton.net"
-BLOG_DESCRIPTION = "Ian's Blog"  # (translatable)
+# BASE_URL = "https://ianbarton.co.uk/"
+BLOG_EMAIL = "ian@ianbarton.co.uk"
+BLOG_DESCRIPTION = "Ian's Mountaineering Blog."  # (translatable)
 
 # Nikola is multilingual!
 #
 # Currently supported languages are:
 #
 # en        English
-# af        Afrikaans
 # ar        Arabic
 # az        Azerbaijani
 # bg        Bulgarian
@@ -54,7 +54,6 @@ BLOG_DESCRIPTION = "Ian's Blog"  # (translatable)
 # hi        Hindi
 # hr        Croatian
 # hu        Hungarian
-# ia        Interlingua
 # id        Indonesian
 # it        Italian
 # ja        Japanese [NOT jp]
@@ -136,13 +135,51 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
-NAVIGATION_LINKS = {
-    DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
-    ),
-}
+# NAVIGATION_LINKS = {
+#     DEFAULT_LANG: (
+#         ("/archive.html", "Archive"),
+#         ("/categories/", "Tags"),
+#         ("/rss.xml", "RSS feed"),
+#     ),
+# }
+
+
+# NAVIGATION_LINKS = {
+#     DEFAULT_LANG: (
+#         ("/index.html", "Home"),
+#         ("/pages/about", "About"),
+#         ("/archive.html", "Archives"),
+#         ("/categories/index.html", "Tags"),
+#         ("/rss.xml", "RSS feed"),
+#     (
+#         (
+#             ('https://apple.com/', 'Apple'),
+#             ('https://orange.com/', 'Orange'),
+#         ),
+#         'Fruits'
+#     )
+
+#     ),
+# }
+
+
+# NAVIGATION_LINKS = {
+#     DEFAULT_LANG: (
+#         ("/index.html", "Home"),
+#         ("/pages/about", "About"),
+#         ("/archive.html", "Archives"),
+#         ("/categories/index.html", "Tags"),
+#         ("/rss.xml", "RSS feed"),
+#     (
+#         (
+#             ('https://apple.com/', 'Apple'),
+#             ('https://orange.com/', 'Orange'),
+#         ),
+#         'Fruits'
+#     )
+
+#     ),
+# }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
@@ -152,7 +189,9 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
+# THEME = "bootstrap3"
 THEME = "bootblog4"
+# THEME = "bnw"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -177,7 +216,38 @@ THEME_CONFIG = {
         # Strip HTML from featured post text.
         'featured_strip_html': False,
         # Contents of the sidebar, If empty, the sidebar is not displayed.
-        'sidebar': ''
+        'sidebar':
+
+  """ <div class="sidebar-module sidebar-module-inset">
+<h4>Search </h4>
+<!-- Google custom search -->
+<form method="get" action="https://www.google.com/search" class="navbar-form navbar-right" role="search">
+<div class="form-group">
+<input type="text" name="q" class="form-control" placeholder="Search">
+</div>
+<button type="submit" class="btn btn-primary">
+	<span class="glyphicon glyphicon-search"></span>
+</button>
+<input type="hidden" name="sitesearch" value="%s">
+</form>
+<!-- End of custom search -->
+
+  <h4><a href="/pages/about/index.html">About.</a></h4>
+
+</div>
+
+<div class="sidebar-module">
+
+  <h4>Links</h4>
+  <ol class="list-unstyled">
+    <li><a href="/categories/index.html">Tags</a></li>
+    <li><a href="/archive.html">Archive</a></li>
+    <li><a href="http://getbootstrap.com/examples/blog/">Bootstrap Blog Theme</a></li>
+    <li><a href="https://getnikola.com/">Nikola</a></li>
+  </ol>
+</div>
+
+"""
     }
 }
 
@@ -220,12 +290,15 @@ POSTS = (
     ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
     ("posts/*.html", "posts", "post.tmpl"),
+    ("posts/*.org", "posts", "post.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "pages", "page.tmpl"),
     ("pages/*.md", "pages", "page.tmpl"),
     ("pages/*.txt", "pages", "page.tmpl"),
     ("pages/*.html", "pages", "page.tmpl"),
+    ("pages/*.org", "pages", "page.tmpl"),
+    ("stories/*.org", "stories", "story.tmpl"),
 )
 
 
@@ -270,7 +343,7 @@ TIMEZONE = "Europe//London"
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
 # Default is:
-# FILES_FOLDERS = {'files': ''}
+FILES_FOLDERS = {'files': ''}
 # Which means copy 'files' into 'output'
 
 # One or more folders containing code listings to be processed and published on
@@ -295,6 +368,7 @@ COMPILERS = {
     "wiki": ('.wiki',),
     "ipynb": ('.ipynb',),
     "html": ('.html', '.htm'),
+    "orgmode": ('.org',),
     # PHP files are rendered the usual way (i.e. with the full templates).
     # The resulting files have .php extensions, making it possible to run
     # them without reconfiguring your server to recognize them.
@@ -367,7 +441,7 @@ COMPILERS = {
 # and displayed underneath the tag list or index page’s title.
 # TAG_DESCRIPTIONS = {
 #    DEFAULT_LANG: {
-#        "blogging": "Meta-blog posts about blogging.",
+#        "blogging": "Meta-blog posts about blogging about blogging.",
 #        "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
 #    },
 # }
@@ -440,7 +514,7 @@ CATEGORY_OUTPUT_FLAT_HIERARCHY = False
 # and displayed underneath the category list or index page’s title.
 # CATEGORY_DESCRIPTIONS = {
 #    DEFAULT_LANG: {
-#        "blogging": "Meta-blog posts about blogging.",
+#        "blogging": "Meta-blog posts about blogging about blogging.",
 #        "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
 #    },
 # }
@@ -557,7 +631,6 @@ FRONT_INDEX_HEADER = {
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / index.html
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / DAY / index.html
-# (translatable)
 # ARCHIVE_PATH = ""
 # ARCHIVE_FILENAME = "archive.html"
 
@@ -634,7 +707,7 @@ REDIRECTIONS = []
 # https://getnikola.com/handbook.html#deploying-to-github
 # You will need to configure the deployment branch on GitHub.
 GITHUB_SOURCE_BRANCH = 'src'
-GITHUB_DEPLOY_BRANCH = 'master'
+GITHUB_DEPLOY_BRANCH = 'gh-pages'
 
 # The name of the remote where you wish to push to, using github_deploy.
 GITHUB_REMOTE_NAME = 'origin'
@@ -733,11 +806,11 @@ GITHUB_COMMIT_SOURCE = True
 # "source/" and the results will be located in
 # "OUTPUT_PATH/relative_destination/gallery_name"
 # Default is:
-# GALLERY_FOLDERS = {"galleries": "galleries"}
+GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
-# THUMBNAIL_SIZE = 180
-# MAX_IMAGE_SIZE = 1280
-# USE_FILENAME_AS_TITLE = True
+THUMBNAIL_SIZE = 180
+MAX_IMAGE_SIZE = 1280
+USE_FILENAME_AS_TITLE = False
 # EXTRA_IMAGE_EXTENSIONS = []
 #
 # If set to False, it will sort by filename instead. Defaults to True
@@ -802,9 +875,11 @@ GITHUB_COMMIT_SOURCE = True
 # (the thumbnail has ``.thumbnail`` added before the file extension by default,
 # but a different naming template can be configured with IMAGE_THUMBNAIL_FORMAT).
 
+
+#IMAGE_FOLDERS = {}
 IMAGE_FOLDERS = {'images': 'images'}
 # IMAGE_THUMBNAIL_SIZE = 400
-# IMAGE_THUMBNAIL_FORMAT = '{name}.thumbnail{ext}'
+IMAGE_THUMBNAIL_FORMAT = '{name}.thumbnail{ext}'
 
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates
@@ -882,7 +957,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # )
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
-# INDEX_TEASERS = False
+INDEX_TEASERS = True
 
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
@@ -960,7 +1035,7 @@ RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS
 
 # To use comments, you can choose between different third party comment
 # systems.  The following comment systems are supported by Nikola:
-#   disqus, facebook, intensedebate, isso, muut, commento
+#   disqus, facebook, intensedebate, isso, livefyre, muut
 # You can leave this option blank to disable comments.
 COMMENT_SYSTEM = ""
 # And you also need to add your COMMENT_SYSTEM_ID which
@@ -1045,7 +1120,7 @@ PRETTY_URLS = True
 # feature yet, it's faster and the output looks better.
 # USE_KATEX = False
 
-# KaTeX auto-render settings. If you want support for the $.$ syntax (which may
+# KaTeX auto-render settings. If you want support for the $.$ syntax (wihch may
 # conflict with running text!), just use this config:
 # KATEX_AUTO_RENDER = """
 # delimiters: [
@@ -1061,15 +1136,14 @@ PRETTY_URLS = True
 # IPYNB_CONFIG = {}
 # With the following example configuration you can use a custom jinja template
 # called `toggle.tpl` which has to be located in your site/blog main folder:
-# IPYNB_CONFIG = {'Exporter': {'template_file': 'toggle'}}
+# IPYNB_CONFIG = {'Exporter':{'template_file': 'toggle'}}
 
 # What Markdown extensions to enable?
 # You will also get gist, nikola and podcast because those are
 # done in the code, hope you don't mind ;-)
 # Note: most Nikola-specific extensions are done via the Nikola plugin system,
 #       with the MarkdownExtension class and should not be added here.
-# Defaults are markdown.extensions.(fenced_code|codehilite|extra)
-# markdown.extensions.meta is required for Markdown metadata.
+# The default is ['fenced_code', 'codehilite']
 MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.codehilite', 'markdown.extensions.extra']
 
 # Options to be passed to markdown extensions (See https://python-markdown.github.io/reference/)
@@ -1145,7 +1219,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # Or a DuckDuckGo search: https://duckduckgo.com/search_box.html
 # Default is no search form.
 # (translatable)
-# SEARCH_FORM = ""
+# SEARCH_FORM = "https://www.google.com/cse/"
 #
 # This search form works for any site and looks good in the "site" theme where
 # it appears on the navigation bar:
@@ -1261,6 +1335,10 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # They make it possible for you to attach media to Tweets that link
 # to your content.
 #
+# IMPORTANT:
+# Please note, that you need to opt-in for using Twitter Cards!
+# To do this please visit https://cards-dev.twitter.com/validator
+#
 # Uncomment and modify to following lines to match your accounts.
 # Images displayed come from the `previewimage` meta tag.
 # You can specify the card type by using the `card` parameter in TWITTER_CARD.
@@ -1275,7 +1353,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # Bundle JS and CSS into single files to make site loading faster in a HTTP/1.1
 # environment but is not recommended for HTTP/2.0 when caching is used.
 # Defaults to True.
-# USE_BUNDLES = True
+USE_BUNDLES = True
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
@@ -1335,9 +1413,60 @@ WARN_ABOUT_TAG_METADATA = False
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+#GLOBAL_CONTEXT = {}
 
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+
+THEME_CONFIG = {
+    DEFAULT_LANG: {
+        # Show the latest featured post in a large box, with the previewimage as its background.
+        'featured_large': True,
+        # Show the first (remaining) two featured posts in small boxes.
+        'featured_small': True,
+        # Show featured posts on mobile.
+        'featured_on_mobile': True,
+        # Show image in `featured_large` on mobile.
+        # `featured_small` displays them only on desktop.
+        'featured_large_image_on_mobile': False,
+        # Strip HTML from featured post text.
+        'featured_strip_html': True,
+        # Contents of the sidebar, If empty, the sidebar is not displayed.
+        'sidebar':
+
+    """ <div class="sidebar-module sidebar-module-inset">
+<h4>Search </h4>
+<!-- Google custom search -->
+<form method="get" action="https://www.google.com/search" class="navbar-form navbar-right" role="search">
+<div class="form-group">
+<input type="text" name="q" class="form-control" placeholder="Search">
+</div>
+<button type="submit" class="btn btn-primary">
+	<span class="glyphicon glyphicon-search"></span>
+</button>
+<input type="hidden" name="sitesearch" value="%s">
+</form>
+<!-- End of custom search -->
+
+
+  <h4><a href="/pages/about/index.html">About.</a></h4>
+
+</div>
+<div class="sidebar-module">
+
+
+  <h4>Links</h4>
+  <ol class="list-unstyled">
+    <li><a href="/categories/index.html">Tags</a></li>
+    <li><a href="/archive.html">Archive</a></li>
+    <li><a href="http://getbootstrap.com/examples/blog/">Bootstrap Blog Theme</a></li>
+    <li><a href="https://getnikola.com/">Nikola</a></li>
+  </ol>
+</div>
+"""
+
+    }
+}

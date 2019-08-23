@@ -1,14 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: Moel Famau to Moel Arthur and Back
-Date: 2013-02-17
-Tags:  [mountaineering, trips]
-Category: blog
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Moel Famau
+.. slug: 2013-02-18-Moel_Famau
+.. date: 2013-02-18 17:55:40 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 My son is doing the Duke of Edinburgh Bronze Award this year. He had
 a training day at Moel Famau, so I thought I would take the
 opportunity to go for a walk. The weather was looking good, with

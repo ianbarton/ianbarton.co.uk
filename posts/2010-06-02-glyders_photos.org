@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Photos from My Traverse of the Glyders.
-#+BEGIN_HTML
-Date: 2010-06-02
-Layout:  post
-Title: Glyders Backpack Photos.
-Summary: Photos from Traverse of the Glyders (June 2010).
-Comments: false
-Tags: [mountaineering, trips, backpacking]
-Category: blog
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Glyders Photos
+.. slug: 2010-06-02-glyders_photos
+.. date: 2010-06-02 17:47:30 UTC
+.. tags: mountaineering, walks, photos
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 To read about the walk click [[file:traverse-of-the-glyders-from-capel-curig-to-nant-peris.org][here]] . Hover your mouse over the photo to see
 the caption.
 

@@ -1,19 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2010-09-02
-Title: Hammock.
-Layout: post
-Summary: "Lightweight silk hammock made from parachute silk from
-Backpackinglight."
-Tags: [gear]
-Category: blog
-Comments: true
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Hammock
+.. slug: 2010-09-02-hammock
+.. date: 2010-09-02 17:50:11 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 The girls have been pestering me for months to buy a hammock. By
 accident I noticed that the [[http://www.backpackinglight.co.uk][backpackinglight]] web site had a
 special promotion on lightweight [[http://www.backpackinglight.co.uk/product29.asp?PageID%3D41][silk]] hammocks. I ordered one and with

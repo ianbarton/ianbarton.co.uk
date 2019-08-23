@@ -1,16 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: Montane Prism Jacket, Trousers and Gilet.
-Date: 2014-01-05
-Tags: [mountaineering, gear, review]
-Category: blog
-
-
-#+END_HTML
-
-
+#+BEGIN_COMMENT
+.. title: Montane Prism
+.. slug: 2014-01-05-Montane-Prism
+.. date: 2014-01-05 17:56:56 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 This review is all about a trio of Montane Prisms!
 
 * Prism Jacket.

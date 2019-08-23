@@ -1,15 +1,16 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: A Summit Camp on Glasgwm.
-Layout: post
-Comments: true
-Date: 2014-07-05
-Tags: [mountaineering, backpacking]
-Category: blog
+#+BEGIN_COMMENT
+.. title: Glasgwm
+.. slug: 2014-07-08-Glasgwm
+.. date: 2014-07-08 17:57:41 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
-#+END_HTML
+*
+
 
 #+BEGIN_HTML
 <!-- PELICAN_BEGIN_SUMMARY -->

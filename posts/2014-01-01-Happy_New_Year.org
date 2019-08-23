@@ -1,14 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: Happy New Year!
-Layout: post
-Date: 2014-01-01
-Tags: [blog]
-Category: blog
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Happy New Year
+.. slug: 2014-01-01-Happy_New_Year
+.. date: 2014-01-01 17:56:46 UTC
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 A New Year and time for some changes. This blog has got something of
 a mixture of technology related posts and posts about the outdoors. I

@@ -1,17 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2012-04-22
-Title: Moel Siabod - Summit Camp
-Layout: post
-Summary: "Quick overnight trip. Snatched in a brief window of good weather."
-Tags: [mountaineering, trips]
-Category: blog
-Comments: true
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Moel Siabod Summit Camp
+.. slug: 2012-04-22-moel-siabod-summit-camp
+.. date: 2012-04-22 17:53:55 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I had planned to go for a walk in North Wales, but the [[http://www.mwis.org.uk][MWIS]] forecast
 wasn't too good. There was supposed to be a good chance of clear
 summits, but with hail showers possibly merging into longer periods of

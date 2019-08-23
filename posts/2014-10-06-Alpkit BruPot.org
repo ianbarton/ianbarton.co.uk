@@ -1,12 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: Alpkit BruPot Review.
-Date: 2014-10-06
-Tags: [backpacking]
-Category: blog
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Alpkit Brupot
+.. slug: 2014-10-06-Alpkit BruPot
+.. date: 2014-10-06 17:58:55 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 #+BEGIN_HTML
 <!-- PELICAN_BEGIN_SUMMARY -->

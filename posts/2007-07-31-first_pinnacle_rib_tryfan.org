@@ -1,18 +1,17 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+INFOJS_OPT: view:info toc:t ltoc:nil
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: First Pinnacle Rib.
-#+BEGIN_HTML
-Date: 2007-07-31
-Layout: post
-Title: First Pinnacle Rib Tryfan.
-Summary: After the wettest June and July that anyone can remember the sun finally came out in the last few days of July.
-Comments: true
-Category: blog
-Tags: [mountaineering, trips]
+#+BEGIN_COMMENT
+.. title: First Pinnacle Rib Tryfan
+.. slug: 2007-07-31-first_pinnacle_rib_tryfan
+.. date: 2007-07-31 17:44:43 UTC
+.. tags: mountaineering
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
-#+END_HTML
+*
+
+
 
 #+BEGIN_HTML
 <div class="photofloatr">

@@ -1,16 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: Tour of Britain
-Layout: post
-Date: 2013-09-18
-Tags: [cycling]
-Category: blog
-
-#+END_HTML
-
-
+#+BEGIN_COMMENT
+.. title: Tour Of Britain
+.. slug: 2013-09-22-Tour-of-Britain
+.. date: 2013-09-22 17:56:36 UTC
+.. tags: cycling
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 #+BEGIN_HTML
 <!-- PELICAN_BEGIN_SUMMARY -->
 

@@ -1,17 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+INFOJS_OPT: view:info toc:t ltoc:nil
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Crowberry Left Fork.
-#+BEGIN_HTML
-Date: 1985-01-01
-Layout: post
-Title: Left Fork of Crowberry Gully.
-Comments: true
-Category: blog
-Tags: [mountaineering, WinterClimbing]
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Crowberry Left Fork
+.. slug: 1985-01-01_crowberry_left_fork
+.. date: 1985-01-01 17:43:00 UTC
+.. tags:
+.. category:
+.. link:
+.. description: mountaineering, winterclimbing
+.. type: text
+#+END_COMMENT
 It was the end of February and the weather had been superb for weeks
 (if you wanted to go Winter climbing). Taking advantage of these all
 too rare conditions we were off to Scotland for a week, but there was

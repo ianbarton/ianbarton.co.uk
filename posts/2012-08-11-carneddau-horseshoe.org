@@ -1,19 +1,16 @@
-#+DRAWERS: SETUP NOTES PROPERTIES
-#+STARTUP: content indent hidestars
-#+TITLE: Carneddau Horseshoe from Cwm Eigiau
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil d:nil
+#+BEGIN_COMMENT
+.. title: Carneddau Horseshoe
+.. slug: 2012-08-11-carneddau-horseshoe
+.. date: 2012-08-11 17:54:24 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
-#+BEGIN_HTML
-Date: 2012-08-11
-Summary: A two day backpack around the Carneddau from Cwm Eigiau.
-Title: Carneddau Horseshoe from Cwm Eigiau
-Comments: true
-template: map
-Tags: [mountaineering, backpacking]
-gpx: 2012-08-09_carnedds.gpx
-Category: blog
+*
 
-#+END_HTML
 
 :NOTES:
 OM Post.

@@ -1,14 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+BEGIN_HTML
-Date: 2010-08-16
-Title: Not the Cyfrwy Arete Cadair Idris
-Comments: true
-Tags: [mountaineering]
-Category: blog
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Cyfrwy Arete Cadair Idris
+.. slug: 2010-08-16-cyfrwy-arete-cadair-idris
+.. date: 2010-08-16 17:50:02 UTC
+.. tags: mountaineering
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 After weeks of poor weather the forecast was good for a couple of
 days. The children were keen to go camping, so I suggested going to
 the Cwmrhwyddfor Farm camp site near Tal y Llyn, off the A487

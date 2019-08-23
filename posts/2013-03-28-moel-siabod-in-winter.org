@@ -1,13 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+BEGIN_HTML
-Title: A Winter's Day on Moel Siabod.
-Date: 2013-03-28
-Tags: [mountaineering, trips]
-Category: blog
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Moel Siabod In Winter
+.. slug: 2013-03-28-moel-siabod-in-winter
+.. date: 2013-03-28 17:55:48 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I had wanted to do an overnight trip to North Wales for some time. I
 am not keen on camping in the Winter months, as there is so little
 daylight and I don't really want to spend 12-14hrs in the

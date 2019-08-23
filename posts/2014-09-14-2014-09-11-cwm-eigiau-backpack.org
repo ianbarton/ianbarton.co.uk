@@ -1,14 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Title: Cwm Eigiau Backpack.
-Date: 2014-09-11
-Tags: [backpacking]
-Category: blog
-Summary: A two day trip from Cwm Eigiau over Pen Llithrig yr Wrach, Pen yr Helgi Du and Carnedd Llewelyn. Returning via Gledrffordd. Featuring a sunrise time lapse using my new GoPro.
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Cwm Eigiau Backpack
+.. slug: 2014-09-11-cwm-eigiau-backpack
+.. date: 2014-09-14 17:58:37 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 
 ** Day One Llyn Eigiau to Carnedd Llewelyn .

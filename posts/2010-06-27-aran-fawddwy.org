@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Linux.
-#+BEGIN_HTML
-Date: 2010-06-27
-Layout:  post
-Title: Aran Fawddwy.
-Summary: "A circular walk over Aran Fawddwy (June 2010)"
-Comments: true
-Category: blog
-Tags: [mountaineering, trips]
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Aran Fawddwy
+.. slug: 2010-06-27-aran-fawddwy
+.. date: 2010-06-27 17:48:24 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 This was the day of the England versus West Germany World Cup match,
 so it seemed like a good idea to go for a walk. I couldn't persuade
 anyone else to come out with me so decided the visit Cwm Cywarch,

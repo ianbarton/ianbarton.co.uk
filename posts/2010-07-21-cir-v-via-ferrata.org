@@ -1,17 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Via Ferrata Cir V.
-#+BEGIN_HTML
-Date: 2010-07-21
-Layout: post
-Title: Via Ferrata Cir V.
-Summary: "Via Ferrata Cir V from Val Gardena (July 2010)."
-Comments: true
-Tags: [mountaineering, dolomites, trips]
-Category: blog
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Cir V Via Ferrata
+.. slug: 2010-07-21-cir-v-via-ferrata
+.. date: 2010-07-21 17:48:54 UTC
+.. tags: mountaineering, alps
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 This summer we went on a family holiday to Val Gardena, in the Italian
 Dolomites. This was our first visit to the Dolomites I was keen to
 climb a Via Ferrata. Two of of the children wanted to come with me, so

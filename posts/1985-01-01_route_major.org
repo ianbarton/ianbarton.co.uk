@@ -1,17 +1,14 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+INFOJS_OPT: view:info toc:t ltoc:nil
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Various Mountaineering Scribblings.
-#+BEGIN_HTML
-Date: 1985-01-01
-Layout: mountaineering
-Title: Route Major, Mont Blanc.
-Comments: true
-Category: blog
-Tags: [mountaineering, alps]
+#+BEGIN_COMMENT
+.. title: Route Major
+.. slug: 1985-01-01_route_major
+.. date: 1985-01-01 17:43:44 UTC
+.. tags: mountaineering, alps
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
-#+END_HTML
 The Summer of 1986 was a good one in the Alps, with a long
 period of settled weather early in the season. I was camping at
 Pierre d’Orthaz opposite to the infamous Snell’s Field. Unlike

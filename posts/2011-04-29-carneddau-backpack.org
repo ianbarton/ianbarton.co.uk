@@ -1,17 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Carneddau Backpack.
-#+BEGIN_HTML
-Date: 2011-04-29
-Layout:  mountaineering
-Title: Carneddau - a Two Day Trip.
-Comments: true
-Tags: [mountaineering]
-Category: blog
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Carneddau Backpack
+.. slug: 2011-04-29-carneddau-backpack
+.. date: 2011-04-29 17:51:33 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 It was the week of the Royal Wedding, which I wasn't interested in
 watching. The weather, which had been warm and sunny for weeks, looked
 as though it would hold out for at least two more days, so I decided

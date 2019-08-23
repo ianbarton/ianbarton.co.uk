@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2010-07-31
-Title: Meindl Softline Ultra Boots
-Layout: post
-Summary: "A new pair of walking boots."
-Tags: [gear]
-Category: blog
-Comments: true
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Meindl Softline Ultra Boots
+.. slug: 2010-07-31-meindl-softline-ultra-boots
+.. date: 2010-07-31 17:49:16 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 Normally I go walking either in my trainers, or in a cheap and
 comfortable pair of hi-Tec boots. However, this summer we had decided
 to visit the Dolomites and I wanted something that I could use on the

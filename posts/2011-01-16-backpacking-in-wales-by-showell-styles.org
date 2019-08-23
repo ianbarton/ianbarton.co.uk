@@ -1,17 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2011-01-16
-Title: Backpacking in Wales by Showell Styles
-Layout: post
-Summary: "A review of Showell Styles Backpacking in Wales."
-Tags: [mountaineering]
-Category: blog
-Comments: true
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Backpacking In Wales By Showell Styles
+.. slug: 2011-01-16-backpacking-in-wales-by-showell-styles
+.. date: 2011-01-16 17:50:45 UTC
+.. tags: review, book
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 [[http://en.wikipedia.org/wiki/Showell_Styles][Showell Styles]] (known to his friends as "Pip") was a prolific author
 with over 160 published books. I think that I first became aware of

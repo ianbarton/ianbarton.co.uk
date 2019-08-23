@@ -1,13 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title:Review - My Decathlon Triban 500SE Road Bike.
-Date: 2015-03-02
-Tags: [cycling]
-Category: blog
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Decathlon Triban 500se
+.. slug: 2015-03-02-decathlon-triban-500SE
+.. date: 2015-03-02 17:59:07 UTC
+.. tags: cycling, review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 Last year I bought a Giant Defy 2. However, I didn't want to ride it
 through all the mud and salt in the winter months, so decided to buy a
 cheap bike to use in winter. I did quite a bit of research and decided

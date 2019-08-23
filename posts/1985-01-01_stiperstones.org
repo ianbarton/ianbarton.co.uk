@@ -1,13 +1,11 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Linux.
-#+BEGIN_HTML
-Date: 1985-01-01
-Layout:  mountaineering
-Title: The Stiperstones.
-Category: blog
-Tags: [mountaineering]
-Comments: true
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Stiperstones
+.. slug: 1985-01-01_stiperstones
+.. date: 1985-01-01 17:44:08 UTC
+.. tags: walks
+.. category:
+.. link:
+.. status: draft
+.. description:
+.. type: text
+#+END_COMMENT

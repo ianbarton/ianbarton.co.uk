@@ -1,16 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Linux.
-#+BEGIN_HTML
-Date: 1985-01-01
-Layout: mountaineering
-Title: Zero and Point Five Gullies Ben Nevis.
-Category: blog
-Tags: [mountaineering, WinterClimbing]
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Zero And Point Five Ben Nevis
+.. slug: 1985-01-01_zero_and_point_five_ben_nevis
+.. date: 1985-01-01 17:44:30 UTC
+.. tags: mountaineering, winterclimbing
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 When I first started climbing Zero and Point Five gullies were still regarded as serious and committing climbs and still had relatively few ascents. However, by the early 1980's they were being climbed regularly.
 
 I climbed Point Five with Marian and Pippa from

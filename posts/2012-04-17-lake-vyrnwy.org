@@ -1,16 +1,13 @@
-#+TITLE: Cycling Around Lake Vyrnwy.
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Date: 2012-04-17
-Layout: post
-Title: Cycling Round Lake Vyrnwy.
-Tags: [cycling]
-Category: blog
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Lake Vyrnwy
+.. slug: 2012-04-17-lake-vyrnwy
+.. date: 2012-04-17 17:53:45 UTC
+.. tags: cycling
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 Lake Vyrnwy is an ideal route for children. Although the road around
 the lake is open to traffic, its winding nature and the presence of
 many other cyclists keeps motorists speeds down. The total distance

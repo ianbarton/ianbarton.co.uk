@@ -1,19 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2012-02-10
-Title: Solar Maximum and Minimum Thermometer
-Layout: post
-Summary: "A cheap Solar powered maximum and minimum thermometer."
-Tags: [gear]
-Category: blog
-Comments: true
-
-#+END_HTML
-
-
+#+BEGIN_COMMENT
+.. title: Solar Maximum And Minimum Thermometer
+.. slug: 2012-02-10-solar-maximum-and-minimum-thermometer
+.. date: 2012-02-10 17:53:11 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I have often wondered how cold it got inside and outside my tent
 during the night. My Casio Protrek watch has a thermometer. However,
 this has a couple of disadvantages. Firstly the sensor is on the side

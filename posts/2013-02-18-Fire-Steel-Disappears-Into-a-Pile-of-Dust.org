@@ -1,15 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: My Fire Steel Crumbles to Dust.
-Date: 2013-02-17
-Tags: [gear]
-Category: blog
-
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Fire Steel Disappears Into A Pile Of Dust
+.. slug: 2013-02-18-Fire-Steel-Disappears-Into-a-Pile-of-Dust
+.. date: 2013-02-18 17:55:32 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 After my walk over Moel Famau and Moel Arthur I was looking forward
 to making a hot drink. My brew kit lives permanently in the boot of
 the truck, so I don't forget to take it with me! I unpacked my Primus

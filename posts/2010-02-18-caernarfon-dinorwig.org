@@ -1,16 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+INFOJS_OPT: view:info toc:t ltoc:nil
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Coastal Cycle Ride from Caernarfon.
-#+BEGIN_HTML
-Date: 2010-02-18
-Layout: post
-Title: Coastal Cycle Ride from Caernarfon.
-Tags: [cycling]
-Category: blog
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Caernarfon Dinorwig
+.. slug: 2010-02-18-caernarfon-dinorwig
+.. date: 2010-02-18 17:46:27 UTC
+.. tags: cycling
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 This week we have spent a few days in North Wales. We were very lucky
 with the weather - it was cold and clear. Following a day walking we
 wanted to do a short cycle ride. The children wanted it to be traffic

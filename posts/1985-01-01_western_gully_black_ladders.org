@@ -1,16 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+INFOJS_OPT: view:info toc:t ltoc:nil
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Western Gully Black Ladders.
-#+BEGIN_HTML
-Date: 1985-01-01
-Layout: mountaineering
-Title: Western Gully, Black Ladders.
-Category: blog
-Tags: [mountaineering, WinterClimbing]
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Western Gully Black Ladders
+.. slug: 1985-01-01_western_gully_black_ladders
+.. date: 1985-01-01 17:44:18 UTC
+.. tags:
+.. category: mountaineering, winterclimbing
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 "This is going to be a straight forward climb with no epics
 or benightments. I’ve done the route before, it’s grade IV and we
 are going to make a really early start, so there is no chance of

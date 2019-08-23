@@ -1,13 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: C2C Day Two - Penrith to Allenheads.
-Date: 2014-08-13
-Tags: [cycling, c2c]
-Category: blog
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: C2c Day Two
+.. slug: 2014-08-23-C2C-Day-Two
+.. date: 2014-08-23 17:58:18 UTC
+.. tags: cycling
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 #+BEGIN_HTML
 <!-- PELICAN_BEGIN_SUMMARY -->

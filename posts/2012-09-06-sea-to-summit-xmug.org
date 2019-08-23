@@ -1,16 +1,13 @@
-#+TITLE: Cycling Around Lake Vyrnwy.
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
-#+BEGIN_HTML
-Date: 2012-09-06
-Layout: post
-Title: Sea to Summit X-Mug
-Comments: true
-Category: blog
-Tags: [mountaineering, gear, review]
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Sea To Summit Xmug
+.. slug: 2012-09-06-sea-to-summit-xmug
+.. date: 2012-09-06 17:54:44 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 I managed to crack my plastic mug and was about to buy another one
 when I decided to investigate the alternatives. I don't like metal

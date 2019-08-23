@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2011-08-07
-Title: Inov8 Roclite 295 Trail Shoes.
-Layout: post
-Summary: "A new pair of shoes for general wear and mountain walking."
-Tags: [gear]
-Category: blog
-Comments: true
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Inov8 Roclite 295
+.. slug: 2011-08-07-inov8-roclite-295
+.. date: 2011-08-07 17:52:13 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I spend most of my time wearing trainers. Over the last couple of
 years I have bought various Karrimor trainers/trail shoes from
 Sportsdirect. These have been OK for just knocking about in, but not

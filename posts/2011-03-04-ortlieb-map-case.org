@@ -1,20 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-
-#+BEGIN_HTML
-Date: 2011-03-04
-Title: Ortlieb Map Case.
-Layout: post
-Tags: [gear]
-Summary: "A review of the Ortlieb map case. Made from flexible and very
-strong material"
-Category: blog
-Comments: true
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Ortlieb Map Case
+.. slug: 2011-03-04-ortlieb-map-case
+.. date: 2011-03-04 17:51:13 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I have never had a map case before. In fact I always thought of them
 as a bit naff. However, after more than thirty years of stopping to
 get the map out of the top pocket of my rucksack and then struggling

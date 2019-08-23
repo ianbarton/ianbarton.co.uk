@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Date: 2011-08-14
-Title: Wild Country Zephyros 2 on Moel Siabod
-Layout: post
-Summary: "First outing for the new tent on a windy wild camp on Moel Siabod."
-Tags: [mountaineering, trips]
-Category: blog
-Comments: true
-
-#+END_HTML
-
-
+#+BEGIN_COMMENT
+.. title: Zephyros On Moel Siabod
+.. slug: 2011-08-14-zephyros-on-moel-siabod
+.. date: 2011-08-14 17:52:23 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I had wanted to try my Zephyros for some time, but hadn't had an
 opportunity to take it into the mountains. The weather had settled
 into the pattern of recent years, with a dry Spring, but wet and

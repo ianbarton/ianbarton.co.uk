@@ -1,15 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: A Two Day Trip Over Arenig Fawr and Moel Llyfnant.
-Layout: post
-Comments: true
-Date: 2014-06-28
-Tags: [mountaineering, backpacking]
-Category: blog
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Arenigs
+.. slug: 2014-06-28-arenigs
+.. date: 2014-06-28 17:57:29 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 #+BEGIN_HTML
 <!-- PELICAN_BEGIN_SUMMARY -->

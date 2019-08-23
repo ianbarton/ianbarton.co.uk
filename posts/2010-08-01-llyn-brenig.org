@@ -1,17 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+INFOJS_OPT: view:info toc:t ltoc:nil
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Circuit of Llyn Brenig.
-#+BEGIN_HTML
-Date: 2010-08-01
-Layout: post
-Title: Circuit of Llyn Brenig.
-Category: blog
-Tags: [cycling]
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Llyn Brenig
+.. slug: 2010-08-01-llyn-brenig
+.. date: 2010-08-01 17:49:26 UTC
+.. tags: cycling
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 Llyn Brenig is a man made reservoir situated in a large area of
 moorland between Denbigh and the A5. There a many possible rides in
 this area. The one described is a circuit of the lake and is

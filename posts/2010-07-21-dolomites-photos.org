@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Linux.
-#+BEGIN_HTML
-Date: 2010-07-21
-Layout:  post
-Title: Via Ferrata Cir V (Photos).
-Summary: "Photos of the Via Ferrata Cir V from Val Gardena (July 2010)."
-Comments: true
-Category: blog
-Tags: [mountaineering, dolomites, trips]
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Dolomites Photos
+.. slug: 2010-07-21-dolomites-photos
+.. date: 2010-07-21 17:49:06 UTC
+.. tags: photos
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 These photos were taken in July 2010. Click [[file:cir-v-via-ferrata.org][here]] to read more about
 this route.
 

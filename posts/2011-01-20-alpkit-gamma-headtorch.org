@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2011-01-20
-Title: Alpkit Gamma Headtorch
-Layout: post
-Summary: "Review of the Alpkit Gamma."
-Tags: [gear]
-Category: blog
-Comments: true
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Alpkit Gamma Headtorch
+.. slug: 2011-01-20-alpkit-gamma-headtorch
+.. date: 2011-01-20 17:50:53 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I am a bit of a head torch addict. Over the years I have had a number
 of different ones - mostly from Petzl. These include the original
 Petzl Zoom, which used the old flat batteries and an updated version

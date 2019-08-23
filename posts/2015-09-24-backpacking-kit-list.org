@@ -1,17 +1,13 @@
-:SETUP:
-Thu Sep 24 12:52:23 2015
-:END:
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title:
-Summary:
-Date:
-Tags:
-Category: blog
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Backpacking Kit List
+.. slug: 2015-09-24-backpacking-kit-list
+.. date: 2015-09-24 17:59:50 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I haven't included what I would be wearing, which would usually
 include a Rab Vapour Ride Lite jacket. In hot weather this would go
 inside the rucksack. In warm weather I wear Rab Treklite trousers. In

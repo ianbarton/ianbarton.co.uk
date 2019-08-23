@@ -1,14 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: C2C Prologue.
-Date: 2014-08-12
-Tags: [cycling, c2c]
-Category: blog
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: C2c Prologue
+.. slug: 2014-08-24-C2C-Prologue
+.. date: 2014-08-24 17:58:28 UTC
+.. tags: cycling
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 There are a number of Coast to Coast cycle rides in the UK. This
 series of posts is about the ride that starts at either Workington or
 Whitehaven and finishes at Tynemouth or Sunderland. Depending on the

@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2010-08-09
-Title: Manifold Valley Cycle Ride.
-Layout: post
-excerpt: "Cycling along the Manifold Valley trail."
-Tags: [cycling]
-Category: blog
-Comments: true
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Manifold Cycle Ride
+.. slug: 2010-08-09-manifold-cycle-ride
+.. date: 2010-08-09 17:49:50 UTC
+.. tags: cycling
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 The Manifold Valley in Derbyshire has an 8.5 mile cycle trail that
 follows the line of an old railway line through the valley. It's a
 linear ride, so you will end up cycling the trail both ways, but it's

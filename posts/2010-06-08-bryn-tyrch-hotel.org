@@ -1,19 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2010-06-08
-Title: Bryn Tyrch Hotel, Capel Curig.
-Layout: post
-excerpt: "The Bryn Tyrch in Capel Curig, a family friendly hotel with
-a high standard of accommodation and good food."
-Tags: [mountaineering]
-Category: blog
-Comments: true
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Bryn Tyrch Hotel
+.. slug: 2010-06-08-bryn-tyrch-hotel
+.. date: 2010-06-08 17:47:52 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 When I was a small child, in the 1960's, we often stayed at Cobdens in
 Capel Curig. The hotel was then owned by a Mrs Newman, who also owned
 the Tyn y Coed just down the road. I think that she also owned the

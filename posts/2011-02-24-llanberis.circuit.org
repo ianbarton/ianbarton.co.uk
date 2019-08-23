@@ -1,16 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+BEGIN_HTML
-Date: 2011-02-24
-Title: A Circular Ride Around Llanberis.
-Layout: post
-Summary: "A Circular Ride Around Llanberis."
-Tags: [cycling]
-Category: blog
-Comments: true
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Llanberis.Circuit
+.. slug: 2011-02-24-llanberis.circuit
+.. date: 2011-02-24 17:51:03 UTC
+.. tags: cycling
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I found this ride in "BikeFax - The best mountain bike trails in
 Snowdonia". It's probably the easiest ride in the book, but well worth
 doing. It's all on tracks or minor roads and is suitable for all but

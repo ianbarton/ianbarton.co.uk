@@ -1,15 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: Cross Fell
-Date: 2013-05-05
-Tags: [mountaineering, trips]
-Category: blog
-status: draft
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Cross Fell
+.. slug: 2013-04-05_cross_fell
+.. date: 2013-04-05 17:55:56 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I was staying with the family near to Appleby for a few days. The
 cold clear weather of the last few weeks looked set to continue for a
 few more days at least. I wanted to get out and walk up something,

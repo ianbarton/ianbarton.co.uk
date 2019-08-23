@@ -1,15 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Snells Field Chamonix.
-#+BEGIN_HTML
-Date: 1985-01-01
-Layout: mountaineering
-Title: Snells Field Chamonix.
-Category: blog
-Tags: [mountaineering, alps]
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Snells Field Chamonix
+.. slug: 1985-01-01_snells_field_chamonix
+.. date: 1985-01-01 17:43:56 UTC
+.. tags: mountaineering, alps
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 For many years impecunious British Alpinists camped on this field just
 outside Chamonix. It wasn't an official site. The field was owned by
 M. Snell, who owned the Snell Sport shop in Chamonix. From time to

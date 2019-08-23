@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Date: 2012-04-13
-Title: A Trip Over the Moelwyns
-Layout: post
-Summary: "A Short Backpack Over the Moelwyns."
-Tags: [mountaineering]
-Category: blog
-Comments: true
-
-#+END_HTML
-
-
+#+BEGIN_COMMENT
+.. title: A Trip Over The Moelwyns
+.. slug: 2012-04-13-a-trip-over-the-moelwyns
+.. date: 2012-04-13 17:53:28 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 ** Day One - Tanygrisiau to Moelwyn Mawr.
 This was another trip shamelessly nicked from [[http://v-g.me.uk/Trips/T0863/T0863.htm][v-g's]] web site. I was
 hoping to do it with the children, but the weather forecast looked too

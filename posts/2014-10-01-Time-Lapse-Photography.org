@@ -1,12 +1,14 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:4 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: Time Lapse Photography.
-Date: 2014-10-01
-Tags: [photography]
-Category: blog
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Time Lapse Photography
+.. slug: 2014-10-01-Time-Lapse-Photography
+.. date: 2014-10-01-Time-Lapse-Photography
+.. date: 2014-10-01 17:58:46 UTC
+.. tags: photography
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 A couple of years ago my son wanted to do a photography project for
 school. We had recently bought a Canon EOS 550D DSLR, which he was

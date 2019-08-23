@@ -1,16 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Linux.
-#+BEGIN_HTML
-Date: 1985-01-01
-Layout: mountaineering
-Title: The Devil's Kitchen Cwm Idwal.
-Comments: true
-Category: blog
-Tags: [mountaineering, WinterClimbing]
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Devils Kitchen Cwm Idwal
+.. slug: 1985-01-01_devils_kitchen_cwm_idwal
+.. date: 1985-01-01 17:43:30 UTC
+.. tags: mountaineering, winterclimbing
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 It was one weekend early in February and I had driven over
 to Wales alone since I was intending to stay for a week and I had

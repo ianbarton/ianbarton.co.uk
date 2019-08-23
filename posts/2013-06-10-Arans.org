@@ -1,23 +1,18 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: An Arans Traverse and Summit Camp on Glasgwm.
-Layout: post
-Date: 2013-06-03
-Tags:  [mountaineering, backpacking, trips]
-Category: blog
-
-#+END_HTML
-
-#+BEGIN_HTML
-<!-- PELICAN_BEGIN_SUMMARY -->
+#+BEGIN_COMMENT
+.. title: Arans
+.. slug: 2013-06-10-Arans
+.. date: 2013-06-10 17:56:07 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 <div class="photofloatl">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Craig Cywarch." href="/images/2013-06-03_arans/IMG_7219.JPG"><img
  width="200" alt="Craig Cywarch." title="Craig Cywarch." src="/images/2013-06-03_arans/thumb.IMG_7219.JPG" /></a>
 </div>
-#+END_HTML
 
 Finally a period of sunny weather. I had wanted to get out for an
 overnight trip, but the weather had put paid to any trips so far this

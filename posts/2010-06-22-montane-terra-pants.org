@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2010-06-22
-Title: Montane Terra Pants.
-Layout: post
-Tags: [gear]
-Category: blog
-Summary: "Montane Terras are lightweight walking-climbing trousers, with several neat features."
-
-Comments: true
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Montane Terra Pants
+.. slug: 2010-06-22-montane-terra-pants
+.. date: 2010-06-22 17:48:06 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I wanted to get some trousers which were cool enough for cycling and
 walking in hot summer weather. I get too hot in my Craghopper Kiwis
 when cycling in warm weather. Also I have to tuck the ends into my

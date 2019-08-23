@@ -1,14 +1,15 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+BEGIN_HTML
-Title: Summit Camp on Moel Llyfnant (Arenigs).
-Date: 2013-07-17
-Comments: true
-Tags: [mountaineering, backpacking, trips]
-Category: blog
+#+BEGIN_COMMENT
+.. title: Arenigs Overnighter
+.. slug: 2013-07-20-Arenigs-Overnighter
+.. date: 2013-07-20 17:56:27 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
-#+END_HTML
+*
 
 
 #+BEGIN_HTML

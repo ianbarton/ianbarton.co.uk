@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2011-05-27
-Title: Adventures in KVM Land
-Layout: post
-Tags: [linux]
-Summary: "Moving my virtual machines from Xen on Debian to KVM on Ubuntu."
-Category: blog
-
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Adventures In Kvm Land
+.. slug: 2011-05-27-adventures-in-kvm-land
+.. date: 2011-05-27 17:52:05 UTC
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 For a couple of years I have been using [[http://wiki.debian.org/Xen][Xen]] on my file server to run
 various Linux virtual computers. Initially I started by running it on
 Ubuntu, but when Ubuntu dropped support for Xen kernels, I moved to

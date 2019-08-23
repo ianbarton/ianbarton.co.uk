@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2011-05-03
-Title: New Thermos Flasks
-Layout: post
-excerpt: "The Thermos Ultimate really does keep your drink hot all day."
-Tags: [gear]
-Category: blog
-Comments: true
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: New Thermos Flasks
+.. slug: 2011-05-03-new-thermos-flasks
+.. date: 2011-05-03 17:51:54 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 Over the years I have had quite a few vacuum flasks. Whilst the ones
 with the glass insides keep the liquid hot for a long time, they are
 rather fragile for outdoor use. There's nothing worse than slogging up

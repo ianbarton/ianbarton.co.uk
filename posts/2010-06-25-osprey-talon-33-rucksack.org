@@ -1,19 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
-
-#+BEGIN_HTML
-Date: 2010-06-25
-Title: Osprey Talon 33 Rucksack
-Layout: post
-Summary: "A lightweight sack suitable for day/alpine use. An excellent
-replacement for my old Karrimor Hot Ice rucksack."
-Tags: [gear]
-Category: blog
-Comments: true
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Osprey Talon 33 Rucksack
+.. slug: 2010-06-25-osprey-talon-33-rucksack
+.. date: 2010-06-25 17:48:15 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 For many years I owned a Karrimor Hot Ice rucksack. Generally, I was
 very happy with it. However, it did have two slight failings: firstly
 it was slightly too small and secondly for something called "Hot Ice"

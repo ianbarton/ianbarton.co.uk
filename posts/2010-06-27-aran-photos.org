@@ -1,18 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Photos from My Aran Fawddwy Walk.
-#+BEGIN_HTML
-Date: 2010-06-27
-Layout:  post
-Title: Photos from My Aran Fawddwy Walk. (June 2010).
-Summary: Photos from my Arans circular walk.
-Comments: false
-Category: blog
-Tags: [mountaineering,  trips]
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Aran Photos
+.. slug: 2010-06-27-aran-photos
+.. date: 2010-06-27 17:48:34 UTC
+.. tags: photos
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 To read about the walk click [[file:aran-fawddwy.html][here]] . Hover your mouse over the photo to see
 the caption.
 

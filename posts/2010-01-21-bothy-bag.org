@@ -1,23 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+INFOJS_OPT: view:info toc:nil ltoc:nil
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Bothy Bags.
-
-
-#+BEGIN_HTML
-Date: 2010-01-21
-Layout: post
-Title: Bothy Bags.
-Category: blog
-Tags: [gear]
-excerpt: "I have only recently discovered bothy bags. For many years I have been
-carrying round my Wild Country Goretex bivvy bag in the winter
-time. I have used it many times for planned bivvies and a few times for
-unplanned ones."
-
-#+END_HTML
-
+#+BEGIN_COMMENT
+.. title: Bothy Bag
+.. slug: 2010-01-21-bothy-bag
+.. date: 2010-01-21 17:45:37 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 I have only recently discovered bothy bags. For many years I have been
 carrying round my Wild Country Goretex bivvy bag in the winter
 time. I have used it many times for planned bivvies and a few times for

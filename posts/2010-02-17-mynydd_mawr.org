@@ -1,19 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+INFOJS_OPT: view:info toc:t ltoc:nil
-#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Mynydd Mawr.
-#+BEGIN_HTML
-Date: 2010-02-17
-Layout: post
-Title: Mynydd Mawr.
-Summary: Mynydd Mawr is an outlier of the Moel Hebog group and is situated between Snowdon and the Nantlle Ridge. It's not very high - 698m or 2269ft, but because of it's position the views from the top are spectacular.
-Category: blog
-Comments: true
-Tags: [mountaineering, trips]
-
-
-
+#+BEGIN_COMMENT
+.. title: Mynydd Mawr
+.. slug: 2010-02-17-mynydd_mawr
+.. date: 2010-02-17 17:46:14 UTC
+.. tags: mountaineering, walks
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 <img src="/images/osm_logo.png" id="Button-Map" width="20"
 height="20" alt="Map" title="OS Map - opens in new window"
 onClick="igbOpenWindow('/maps/m_mawr.html','G0086Map','width=700,height=600')"

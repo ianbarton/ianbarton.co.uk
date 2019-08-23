@@ -1,13 +1,13 @@
-#+STARTUP: showall indent
-#+STARTUP: hidestars
-#+BEGIN_HTML
-Title: Moelwyns Cloud Inversion
-Layout: post
-Tags: [mountaineering, backpacking]
-Comments: true
-Category: blog
-
-#+END_HTML
+#+BEGIN_COMMENT
+.. title: Moelwyns Cloud Inversion
+.. slug: 2013-07-06-moelwyns-cloud-inversion
+.. date: 2013-07-06 17:56:15 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
 
 #+BEGIN_HTML
 <!-- PELICAN_BEGIN_SUMMARY -->
