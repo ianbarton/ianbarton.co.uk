@@ -46,12 +46,16 @@
   <lastmod>2019-08-22T14:53:00Z</lastmod>
  </url>
  <url>
+  <loc>https://ianbarton.com/2019/</loc>
+  <lastmod>2019-08-26T16:14:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://ianbarton.com/archive.html</loc>
-  <lastmod>2019-08-26T11:10:00Z</lastmod>
+  <lastmod>2019-08-26T16:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://ianbarton.com/categories/</loc>
-  <lastmod>2019-08-22T14:53:00Z</lastmod>
+  <lastmod>2019-08-26T16:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://ianbarton.com/categories/alps/</loc>
@@ -60,6 +64,10 @@
  <url>
   <loc>https://ianbarton.com/categories/book/</loc>
   <lastmod>2019-08-22T14:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ianbarton.com/categories/cat_blog/</loc>
+  <lastmod>2019-08-26T16:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://ianbarton.com/categories/cat_mountaineering-winterclimbing/</loc>
@@ -283,7 +291,7 @@
  </url>
  <url>
   <loc>https://ianbarton.com/index-8.html</loc>
-  <lastmod>2019-08-26T11:10:00Z</lastmod>
+  <lastmod>2019-08-26T16:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://ianbarton.com/listings/</loc>
@@ -636,5 +644,9 @@
  <url>
   <loc>https://ianbarton.com/posts/2015-09-24-backpacking-kit-list/</loc>
   <lastmod>2019-08-21T18:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ianbarton.com/posts/2019-08-26-blogmakeover/</loc>
+  <lastmod>2019-08-26T16:14:00Z</lastmod>
  </url>
 </urlset>

@@ -14,6 +14,10 @@
   <lastmod>2019-08-23T09:27:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://ianbarton.com/categories/cat_blog.xml</loc>
+  <lastmod>2019-08-26T16:14:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://ianbarton.com/categories/cat_mountaineering-winterclimbing.xml</loc>
   <lastmod>2019-08-23T09:27:00Z</lastmod>
  </sitemap>
@@ -207,10 +211,10 @@
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.com/rss.xml</loc>
-  <lastmod>2019-08-26T15:25:00Z</lastmod>
+  <lastmod>2019-08-26T16:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.com/sitemap.xml</loc>
-  <lastmod>2019-08-26T15:25:00Z</lastmod>
+  <lastmod>2019-08-26T16:15:00Z</lastmod>
  </sitemap>
 </sitemapindex>

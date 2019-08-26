@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ian's Mountaineering Blog. (Posts about blog)</title><link>https://ianbarton.com/</link><description></description><atom:link href="https://ianbarton.com/categories/cat_blog.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:ian@ianbarton.co.uk"&gt;Ian Barton.&lt;/a&gt; </copyright><lastBuildDate>Mon, 26 Aug 2019 16:14:59 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Blog Makeover.</title><link>https://ianbarton.com/posts/2019-08-26-blogmakeover/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+My blog has languished for a few years. There are a number of reasons: time
+pressure, laziness and a few problems with Pelican. I have decided to use
+Nikola and my static site generator. I have converted the text in all the old
+posts to work with &lt;a href="http://getnikola.com"&gt;Nikola&lt;/a&gt;. However, there is a lot of work to update all the
+embedded photos. At the moment a lot of posts have embedded html which is
+incompatible with Nikola, so raw html and not photos are displayed! I am
+steadily working my through old posts fixing this.
+&lt;/p&gt;</description><guid>https://ianbarton.com/posts/2019-08-26-blogmakeover/</guid><pubDate>Mon, 26 Aug 2019 15:46:46 GMT</pubDate></item></channel></rss>
