@@ -4,6 +4,7 @@
 .. date: 2015-06-23 17:59:38 UTC
 .. tags: mountaineering, tripreport
 .. category:
+.. status: draft
 .. link:
 .. description:
 .. type: text
