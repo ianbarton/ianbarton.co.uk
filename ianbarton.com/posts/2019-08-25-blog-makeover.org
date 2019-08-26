@@ -12,7 +12,7 @@
 My blog has languished for a few years. There are a number of reasons: time
 pressure, laziness and a few problems with Pelican. I have decided to use
 Nikola and my static site generator. I have converted the text in all the old
-posts to work with Nikola. However, there is a lot of work to update all the
+posts to work with [[http://getnikola.com][Nikola]]. However, there is a lot of work to update all the
 embedded photos. At the moment a lot of posts have embedded html which is
 incompatible with Nikola, so raw html and not photos are displayed! I am
 steadily working my through old posts fixing this.
