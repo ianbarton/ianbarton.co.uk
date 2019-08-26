@@ -9,18 +9,9 @@
 .. type: text
 #+END_COMMENT
 
-*
-
-
-
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/img_5602.jpg"  title="Base camp."> <img src="/images/img_5602.jpg" width="300"
-     alt="Base Camp"></a></p>
-  <p>Base Camp at Gwern y gof Uchaf</p>
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Base camp at Gwern y gof Uchaf.</b></p>@@*
+*@@html: <a href="/galleries/img_5602.jpg" class="rounded
+float-left" alt="Base camp at Gwern y gof Uchaf."><img src="/galleries/img_5602.jpg"></a>@@*
 
 After the wettest June and July that anyone can remember the sun finally
 came out in the last few days of July. I had promised John and Ella that we
@@ -94,17 +85,10 @@ work on. Fortunately, there is a nice finger jamming crack in the back of the
 groove and a few stiff pulls with slithering feet brought better holds in
 reach.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/IMG_5631.JPG"  title="Ella on the
-     final pitch."> <img src="/images/IMG_5631.JPG" width="300"
-     alt="Ella on the
-     final pitch."></a></p>
-  <p>Ella on the
-     final pitch.</p>
+*@@html: <p class="caption"><b>Ella on the final pitch.</b></p>@@*
+*@@html: <a href="/galleries/IMG_5631.JPG" class="rounded
+float-left" alt="Ella on the final pitch."><img src="/galleries/IMG_5631.JPG"></a>@@*
 
-</div>
-#+END_HTML
 
 The final pitch is superb. A long airy rib with big holds just where you need
 them. If you haven't had enough, you can finish up Thompson's Chimney to the
@@ -117,14 +101,9 @@ We descended to Bwylch Tryfan and then straight down a horrible scree slope
 to the Cwm. By now my feet were really painful and I hobbled back down to
 the camp site, while John and Ella strode off in front.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/IMG_5639.JPG"  title="Summit of Tryfan."> <img src="/images/IMG_5639.JPG" width="300"
-     alt="Summit of Tryfan"></a></p>
-  <p>Summit next to Adam and Eve</p>
-</div>
-
-#+END_HTML
+*@@html: <p class="caption"><b>Summit next to Adam and Eve.</b></p>@@*
+*@@html: <a href="/galleries/IMG_5639.JPG" class="rounded
+float-left" alt="Summit next to Adam and Eve."><img src="/galleries/IMG_5639.JPG"></a>@@*
 
 We chucked everything in the back of the truck and went back to the
 Bryn Tyrch before driving home. Just to prove that my trainers were

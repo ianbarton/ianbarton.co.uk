@@ -9,19 +9,11 @@
 .. type: text
 #+END_COMMENT
 
-*
+*@@html: <p class="caption"><b>View from the forestry track</b></p>@@*
+*@@html: <a href="/galleries/DSCF0972.JPG" class="rounded
+float-left" alt="View from the forestry track."><img src="/galleries/DSCF0972.JPG"></a>@@*
 
 
-
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a href="/images/DSCF0972.JPG" rel="lightbox" title="View from
-  the forestry track">
-  <img src="/images/DSCF0972.JPG" width="300"
-     alt="View from the forestry track"></a></p>
-  <p>Top of the forestry track</p>
-</div>
-#+END_HTML
 
 The Oban to Fort William Cycle trail seems to be one of the best kept
 secrets in Scotland. I only found out about it because we were staying
@@ -43,14 +35,10 @@ places, but quite navigable on ordinary road bikes. Be warned that the
 "easy" variation involves some 400ft of climbing. However, the views
 more than compensate for the climb!
 
-#+BEGIN_HTML
-<div class="photofloatl">
-  <p><a href="/images/DSCF0978.JPG" rel="lightbox"
-    title="Pap of Glencoe"> <img src="/images/DSCF0978.JPG" width="300"
-     alt="Pap of Glencoe"></a></p>
-  <p>Pap of Glencoe from the forestry track</p>
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Pap of Glencoe </b></p>@@*
+*@@html: <a href="/galleries/DSCF0978.JPG" class="rounded
+float-left" alt="Pap of Glencoe."><img src="/galleries/DSCF0978.JPG"></a>@@*
+
 
 We had to cycle back to Kentallen and I was a bit concerned that the
 children wouldn't want to go back up the forestry track. However, they

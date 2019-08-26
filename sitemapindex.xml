@@ -19,11 +19,11 @@
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.com/categories/cycling.xml</loc>
-  <lastmod>2019-08-23T09:27:00Z</lastmod>
+  <lastmod>2019-08-26T12:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.com/categories/mountaineering.xml</loc>
-  <lastmod>2019-08-24T08:58:00Z</lastmod>
+  <lastmod>2019-08-26T15:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.com/categories/photography.xml</loc>
@@ -43,7 +43,7 @@
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.com/categories/tripreport.xml</loc>
-  <lastmod>2019-08-24T08:58:00Z</lastmod>
+  <lastmod>2019-08-26T15:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.com/categories/walks.xml</loc>
@@ -54,19 +54,163 @@
   <lastmod>2019-08-23T09:27:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://ianbarton.com/galleries/2010-04_moel_siabod/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2010-06-arans/rss.xml</loc>
+  <lastmod>2019-08-26T12:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2010-06-glyders/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2010-08-cadair/rss.xml</loc>
+  <lastmod>2019-08-26T12:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2011-02-tryfan-bach/rss.xml</loc>
+  <lastmod>2019-08-26T12:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2011-05-carned/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2011-08-08_moel_siabod/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2011-08-carned/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2011-10_wales/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2012-03-carned/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2012-04_Moel_Siabod/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2012-04_moelwyns/rss.xml</loc>
+  <lastmod>2019-08-26T12:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2012-05-carned/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2012-07-Arans/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://ianbarton.com/galleries/2012-08-carned/rss.xml</loc>
-  <lastmod>2019-08-23T16:14:00Z</lastmod>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2012-08-ireland/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2012-09-arenigs/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2013-02_moel_famau/rss.xml</loc>
+  <lastmod>2019-08-26T12:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2013-03_moel_siabod/rss.xml</loc>
+  <lastmod>2019-08-26T12:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2013-06-03_arans/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2013-07-moelwyns/rss.xml</loc>
+  <lastmod>2019-08-26T12:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2013-07_arenigs/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2013-09_tour_of_britain/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2014-05-carned/rss.xml</loc>
+  <lastmod>2019-08-26T12:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2014-07-arenigs/rss.xml</loc>
+  <lastmod>2019-08-26T12:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2014-07-crimpiau/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2014-07-glasgwm/rss.xml</loc>
+  <lastmod>2019-08-26T12:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2014-08-C2C/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2014-09-carned/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2014-10-Brukit/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/2015-03_triban/rss.xml</loc>
+  <lastmod>2019-08-26T12:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/cycling/llanberis_circular/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/cycling/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/dolomites/rss.xml</loc>
+  <lastmod>2019-08-26T12:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/hp_microserver/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/kentallen/rss.xml</loc>
+  <lastmod>2019-08-26T12:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.com/galleries/rss.xml</loc>
-  <lastmod>2019-08-23T15:29:00Z</lastmod>
+  <lastmod>2019-08-26T12:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ianbarton.com/galleries/skiddaw/rss.xml</loc>
+  <lastmod>2019-08-26T12:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.com/rss.xml</loc>
-  <lastmod>2019-08-24T08:58:00Z</lastmod>
+  <lastmod>2019-08-26T15:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.com/sitemap.xml</loc>
-  <lastmod>2019-08-24T08:58:00Z</lastmod>
+  <lastmod>2019-08-26T15:25:00Z</lastmod>
  </sitemap>
 </sitemapindex>
