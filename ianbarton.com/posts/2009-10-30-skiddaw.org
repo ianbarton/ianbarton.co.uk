@@ -15,13 +15,9 @@ weather can be dreadful. However, the autumn colours are always worth
 seeing and sometimes you get those cold clear days when you can see
 for miles.
 
-#+BEGIN_HTML
-<div class="photofloatr"> <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/skiddaw/DSCF1056.JPG"
-   title="John and Ella on Skiddaw" ><img
-  src="/images/skiddaw/DSCF1056.JPG" width="200" alt="John and Ella on
-  Skiddaw"/></a></p> <p>John and Ella on Skiddaw</p> </div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>John and Ella on Skiddaw</b></p>@@*
+*@@html: <a href="/galleries/skiddaw/DSCF1056.JPG" class="rounded
+float-left" alt="John and Ella on Skiddaw"><img src="/galleries/skiddaw/DSCF1056.JPG"></a>@@*
 
 This year we were staying at the [[http://www.lairbeckhotel-keswick.co.uk/][Lairbeck Hotel]] in Keswick. This is a
 very friendly small hotel in a Victorian house. The great advantage

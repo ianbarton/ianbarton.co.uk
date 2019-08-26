@@ -26,7 +26,9 @@ out my rucsack it was 11:00am. I set off along the path from the car
 park to the NW leading to Clogwynyren. The plan was to gain the ridge
 somewhere around Foel Fras and continue towards Foel Grach.
 
-*@@html: <a href="/galleries/2012-08-carned/DSCF2759.JPG" class="rounded float-left" alt="Wild pony"><img src="/galleries/2012-08-carned/DSCF2759.JPG"></a>@@*
+*@@html: <p class="caption"><b>Wild pony</b></p>@@*
+*@@html: <a href="/galleries/2012-08-carned/DSCF2759.JPG" title="A title"
+  class="rounded float-left" { alt="Wild pony"><img src="/galleries/2012-08-carned/DSCF2759.JPG"></a>@@*
 
 I reached the bridge over Pant y Griafolen and followed the path to
 where it reached Afon Garreg-wen. The plan was to follow the stream
@@ -44,7 +46,7 @@ before continuing on to Carnedd Gwellian, where I stopped for
 lunch. Ahead of me I could see a cap of cloud over Foel Goch and
 Carnedd Llewelyn, but it looked as though it was slowly lifting. By
 the time I had eaten my lunch Foel Grach was clear.
-
+*@@html: <p class="caption"><b>Path to Foel Grach</b></p>@@*
 *@@html: <a href="/galleries/2012-08-carned/DSCF2765.JPG" class="rounded float-left" alt="Path to Foel Grach"><img src="/galleries/2012-08-carned/DSCF2765.JPG"></a>@@*
 
 
@@ -58,6 +60,7 @@ benches. Whilst it is probably very useful in an emergency, I can't
 imagine wanting to stay there otherwise. It's also quite hard to
 find, being sort of hidden in the slope below the summit.
 
+*@@html: <p class="caption"><b>Refuge on Foel Grach</b></p>@@*
 *@@html: <a href="/galleries/2012-08-carned/DSCF2768.JPG" class="rounded float-left" alt="Refuge on Foel Grach"><img src="/galleries/2012-08-carned/DSCF2768.JPG"></a>@@*
 
 
@@ -74,6 +77,7 @@ to the summit of Pen yr Helgi Du. Behind me I could see a family group
 with two children struggling to find a way down the rock section to
 the col. However, eventually they managed it without incident.
 
+*@@html: <p class="caption"><b>Camp site at Pen yr Helgi Du </b></p>@@*
 *@@html: <a href="/galleries/2012-08-carned/DSCF2794.JPG" class="rounded
 float-left" alt="Campsite Pen yr Helgi Du."><img src="/galleries/2012-08-carned/DSCF2794.JPG"></a>@@*
 
@@ -84,10 +88,9 @@ get cramp in my legs, a sign that I needed to stop to rehydrate and
 eat something. Also I think that the summit of Pen yr Helgi Du is a
 better viewpoint.
 
+*@@html: <p class="caption"><b>Evening light.</b></p>@@*
 *@@html: <a href="/galleries/2012-08-carned/DSCF2806.JPG" class="rounded
-float-left" alt="Evening Light
-on Tryfan and the Glyders."><img src="/galleries/2012-08-carned/DSCF2806.JPG"></a>@@*
-
+*float-left" alt="Evening Light on Tryfan and the Glyders."><img src="/galleries/2012-08-carned/DSCF2806.JPG"></a>@@*
 
 
 There is no reliable water supply on the Carneddau ridge, so all water
@@ -96,6 +99,7 @@ up with me. This is just enough to last me through a hot day with an
 evening meal and a breakfast the next morning, leaving a small amount
 to drink on the route back to the car.
 
+*@@html: <p class="caption"><b>Just before sunrise</b></p>@@*
 *@@html: <a href="/galleries/2012-08-carned/DSCF2817.JPG" class="rounded
 float-left" alt="Just Before Sunrise."><img src="/galleries/2012-08-carned/DSCF2817.JPG"></a>@@*
 
@@ -107,8 +111,9 @@ disappeared behind Carnedd Llewelyn about 8:00pm. There was a bright moon
 and the odd shooting star could be seen, perhaps the precursors to the
 Perseid showers.
 
+*@@html: <p class="caption"><b>Here comes the sun</b></p>@@*
 *@@html: <a href="/galleries/2012-08-carned/DSCF2821.JPG" class="rounded
-float-left" alt="Just Before Sunrise.Here comes the sun."><img src="/galleries/2012-08-carned/DSCF2821.JPG"></a>@@*
+float-left" alt="Here comes the sun."><img src="/galleries/2012-08-carned/DSCF2821.JPG"></a>@@*
 
 
 About 4:00am the next morning I had to get out of the tent to answer a
@@ -120,6 +125,7 @@ cook breakfast, so I could sit outside and enjoy the sunrise. By
 now well above the horizon. I don't like heat, so wanted to get most
 of my walking done before it got too hot.
 
+*@@html: <p class="caption"><b>Looking East</b></p>@@*
 *@@html: <a href="/galleries/2012-08-carned/DSCF2826.JPG" class="rounded
 float-left" alt="Looking East."><img src="/galleries/2012-08-carned/DSCF2826.JPG"></a>@@*
 
@@ -134,6 +140,7 @@ into Cwm Eigiau. It didn't look too hard from above, but I presume
 that there must be hidden difficulties, as it would be the most
 obvious route between Ogwen and Cwm Eigiau.
 
+*@@html: <p class="caption"><b>Glyders at dawn</b></p>@@*
 *@@html: <a href="/galleries/2012-08-carned/DSCF2838.JPG" class="rounded
 float-left" alt="Glyders at Dawn."><img src="/galleries/2012-08-carned/DSCF2838.JPG"></a>@@*
 
@@ -149,8 +156,10 @@ far, but hoped to meet the path shown on the map that crossed the
 ridge from Hafod y rhiw. However, I couldn't find the path, or maybe I
 just didn't go quite far enough.
 
+*@@html: <p class="caption"><b>Looking Back
+Towards Pen Llithrig y Wrach.</b></p>@@*
 *@@html: <a href="/galleries/2012-08-carned/DSCF2850.JPG" class="rounded
-float-left" alt="Just Before Sunrise.Here comes the sunLooking Back
+float-left" alt="Looking Back
 Towards Pen Llithrig y Wrach."><img src="/galleries/2012-08-carned/DSCF2850.JPG"></a>@@*
 
 
@@ -172,6 +181,8 @@ back injury which meant she could no longer carry a load. They spent
 most of their time touring the country living in the camper van and
 going for day walks.
 
+*@@html: <p class="caption"><b>Pen Llithrig y
+Wrach and Pen yr Helgi Du from Cwm Eigiau.</b></p>@@*
 *@@html: <a href="/galleries/2012-08-carned/DSCF2857.JPG" class="rounded
 float-left" alt="Pen Llithrig y
 Wrach and Pen yr Helgi Du from Cwm Eigiau."><img src="/galleries/2012-08-carned/DSCF2857.JPG"></a>@@*
