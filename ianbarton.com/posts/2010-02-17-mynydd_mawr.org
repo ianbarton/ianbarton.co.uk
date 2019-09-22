@@ -8,37 +8,24 @@
 .. description:
 .. type: text
 #+END_COMMENT
-<img src="/images/osm_logo.png" id="Button-Map" width="20"
-height="20" alt="Map" title="OS Map - opens in new window"
-onClick="igbOpenWindow('/maps/m_mawr.html','G0086Map','width=700,height=600')"
-onMouseOver="igbswapImage('Button-Map','/images/osm_logo.png')"
-onMouseOut="igbswapImage('Button-Map','/images/osm_logo.png')">
 
-#+END_HTML
 Mynydd Mawr is an outlier of the Moel Hebog group and is situated
 between Snowdon and the Nantlle Ridge. It's not very high - 698m or
 2269ft, but because of it's position the views from the top are
 spectacular.
-#+BEGIN_HTML
-<div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/DSCF1301.JPG"  title="Looking NW from Mynydd Mawr" ><img src="/images/DSCF1301.JPG" width="200"
-     alt="Looking NW from Mynydd Mawr"/></a></p>
-  <p>Looking NW from Mynydd Mawr</p>
-</div>
-#+END_HTML
+
+*@@html: <p class="caption"><b>Looking NW from Mynydd Mawr</b></p>@@*
+*@@html: <a href="/galleries/DSCF1301.JPG" class="rounded
+float-left" alt="Looking NW from Mynydd Mawr"><img src="/galleries/DSCF1301.JPG"></a>@@*
 
 Most people start from Rhyd Ddu, the route going past the Craig y
 Bera, which has the excellent climb Angel Pavement. However, we were
 staying in the adjacent valley at [[http://www.tycochsnowdonia.co.uk/][Hen Ysgubor]], which is at the foot of
 the mountain, so that's where I started my climb.
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/DSCF1304.JPG"  title="Cwm Du Mynydd Mawr" ><img src="/images/DSCF1304.JPG" width="200"
-     alt="Craig Cwm Du"/></a></p>
-  <p>Craig Cwm Du Mynydd Mawr.</p>
-</div>
-#+END_HTML
 
+*@@html: <p class="caption"><b>Craig Cwm Du</b></p>@@*
+*@@html: <a href="/galleries/DSCF1304.JPG" class="rounded
+float-left" alt="Craig Cwm Du"><img src="/galleries/DSCF1304.JPG"></a>@@*
 
 Please note that you can't follow the exact route I describe unless
 you are staying in the house, as it crosses farmland belonging to the
@@ -47,13 +34,10 @@ and Rhosgadfan (SH  514583).
 
 From Hen Ysgubor I walked up the fields behind the house to reach the
 edge of the trees at approximately 532566.
-#+BEGIN_HTML
-<div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/DSCF1311.JPG" rel="lighbox" title="" ><img src="/images/DSCF1311.JPG" width="200"
-     alt="?????"/></a></p>
-  <p>????</p>
-</div>
-#+END_HTML
+
+*@@html: <p class="caption"><b></b></p>@@*
+*@@html: <a href="/galleries/DSCF1311.JPG" class="rounded
+float-left" alt=""><img src="/galleries/DSCF1311.JPG"></a>@@*
 
 From the top of the first steep rise trending generally left brings
 you out to a stone wall at !!!!! It's possible to cross the wall in
@@ -80,30 +64,17 @@ Glyders. There are also good views over Caernarfon and Anglesey.
 
 From the summit you can descend to Rhydd Ddu, or simply retrace your steps.
 
+*@@html: <p class="caption"><b>Nantlle Ridge from Mynydd Mawr</b></p>@@*
+*@@html: <a href="/galleries/DSCF1313.JPG" class="rounded
+float-left" alt="Nantlle Ridge from Mynydd Mawr"><img src="/galleries/DSCF1313.JPG"></a>@@*
+
+
+*@@html: <p class="caption"><b>Snowdon from  the summit of Mynydd Mawr</b></p>@@*
+*@@html: <a href="/galleries/DSCF1315.JPG" class="rounded
+float-left" alt="Snowdon from  the summit of Mynydd Mawr"><img src="/galleries/DSCF1315.JPG"></a>@@*
 
 
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/DSCF1313.JPG"  title="Nantlle Ridge from Mynydd Mawr" ><img src="/images/DSCF1313.JPG" width="200"
-     alt="Nantlle Ridge from Mynydd Mawr"/></a></p>
-  <p>Nantlle Ridge from Mynydd Mawr</p>
-</div>
-#+END_HTML
-
-#+BEGIN_HTML
-<div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/DSCF1315.JPG"  title="Snowdon from  the summit of Mynydd Mawr" ><img src="/images/DSCF1315.JPG" width="200"
-     alt="Snowdon from  the summit of Mynydd Mawr"/></a></p>
-  <p>Snowdon from  the summit of Mynydd Mawr</p>
-</div>
-#+END_HTML
-
-
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/DSCF1318.JPG"  title="Looking towards Anglesey from the summit of from Mynydd Mawr" ><img src="/images/DSCF1318.JPG" width="200"
-     alt="Looking towards Anglesey from the summit of from Mynydd Mawr"/></a></p>
-  <p>Looking towards Anglesey from the summit of from Mynydd Mawr</p>
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Looking towards Anglesey from the summit of from Mynydd Mawr</b></p>@@*
+*@@html: <a href="/galleries/DSCF1318.JPG" class="rounded
+float-left" alt="Looking towards Anglesey from the summit of from Mynydd Mawr"><img src="/galleries/DSCF1318.JPG"></a>@@*
