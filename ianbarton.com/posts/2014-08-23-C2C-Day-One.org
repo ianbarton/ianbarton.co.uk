@@ -9,20 +9,6 @@
 .. type: text
 #+END_COMMENT
 
-*
-
-
-#+END_HTML
-
-#+BEGIN_HTML
-<!-- PELICAN_BEGIN_SUMMARY -->
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Bassenthwaite from near Cockermouth." href="/images/2014-08-C2C/IMG_20140812_104902.jpg"><img
- width="200" alt="Bassenthwaite from near Cockermouth." title="Bassenthwaite from near Cockermouth." src="/images/2014-08-C2C/thumb.IMG_20140812_104902.jpg" /></a>
-
-</div>
-#+END_HTML
-
 I left [[http://www.chestnuts-whitehaven.com][Chestnuts]] around 8:30am and cycled down into Whitehaven. I
 cycled down to the harbour, but didn't bother going all the way along
 to the C2C sign. The initial section out of Whitehaven is fairly grim. The
@@ -34,10 +20,9 @@ so fine on a road bike. There was a short section of rather bumpy
 track just before Rowrah which would be unpleasant on a road bike if
 it was very wet.
 
-#+BEGIN_HTML
-<!-- PELICAN_END_SUMMARY -->
-#+END_HTML
-
+*@@html: <p class="caption"><b>Bassenthwaite from near Cockermouth</b></p>@@*
+*@@html: <a href="/galleries/2014-08-C2C/IMG_20140812_104902.jpg" class="rounded
+float-left" alt="Bassenthwaite from near Cockermouth"><img src="/galleries/2014-08-C2C/IMG_20140812_104902.jpg"></a>@@*
 
 The weather, which had been fine for weeks looked decidedly dodgy. The
 day before the tail end of a hurricane had passed through. The fells in
@@ -55,13 +40,10 @@ narrow road with plenty of ups and downs. At the village of Low Lorton
 there is a very steep section. Thankfully it's short and it deposits
 you at the bottom of the Whinlatter Pass.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Saddleback Cafe Keswick." href="/images/2014-08-C2C/IMG_20140812_130719.jpg"><img
- width="200" alt="Saddleback Cafe Keswick." title="Saddleback Cafe Keswick." src="/images/2014-08-C2C/thumb.IMG_20140812_130719.jpg" /></a>
+*@@html: <p class="caption"><b>Saddleback Cafe Keswick</b></p>@@*
+*@@html: <a href="/galleries/2014-08-C2C/IMG_20140812_130719.jpg" class="rounded
+float-left" alt="Saddleback Cafe Keswick"><img src="/galleries/2014-08-C2C/IMG_20140812_130719.jpg"></a>@@*
 
-</div>
-#+END_HTML
 
 The climb up Whinlatter isn't to bad and there is a Visitor Centre at
 the top, which I didn't bother visiting. I stopped i one of the car
@@ -85,13 +67,11 @@ five minutes before there was a break in the traffic, so I could cross
 the road. The town itself was absolutely ram packed full of people
 and almost every shop was some sort of outdoors emporium, with almost
 no real shops.
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="A proper doorstep sandwich." href="/images/2014-08-C2C/IMG_20140812_124053.jpg"><img
- width="200" alt="A proper doorstep sandwich." title="A proper doorstep sandwich." src="/images/2014-08-C2C/thumb.IMG_20140812_124053.jpg" /></a>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>A proper doorstep sandwich</b></p>@@*
+*@@html: <a href="/galleries/2014-08-C2C/IMG_20140812_124053.jpg" class="rounded
+float-left" alt="A proper doorstep sandwich"><img src="/galleries/2014-08-C2C/IMG_20140812_124053.jpg"></a>@@*
+
 
 I still had one spare tube, but I bought another at
 [[http://www.keswickbikes.co.uk][KeswickBikes]]. While I was there I bought a Cateye rear light, as my
@@ -136,13 +116,11 @@ I was going to get there, as I really didn't fancy cycling down the
 A66. Luckily, there is a cycle path that leads alongside the A66
 directly to the Travelodge.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Castlerigg stone circle." href="/images/2014-08-C2C/IMG_20140812_132829.jpg"><img
- width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/thumb.IMG_20140812_132829.jpg" /></a>
+*@@html: <p class="caption"><b>Castlerigg stone circle</b></p>@@*
+*@@html: <a href="/galleries/2014-08-C2C/IMG_20140812_132829.jpg" class="rounded
+float-left" alt="Castlerigg stone circle"><img src="/galleries/2014-08-C2C/IMG_20140812_132829.jpg"></a>@@*
 
-</div>
-#+END_HTML
+
 
 The Travelodge had recently been refurbished and had decent size
 rooms, pleasantly decorated. Travelodges can be cheap to stay in, but
