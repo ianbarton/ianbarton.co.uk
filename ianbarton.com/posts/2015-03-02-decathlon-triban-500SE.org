@@ -19,13 +19,9 @@ equipment and had  chance to look at the 500SE. It seemed to be a
 decent bike for the price and I had read several positive reviews. I
 ended up coming out of the store with one.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Decathlon Triban 500SE." href="/images/2015-03_triban/IMG_20150203_132015.jpg"><img
- width="200" alt="Decathlon Triban 500SE." title="Decathlon Triban 500SE." src="/images/2015-03_triban/thumb.IMG_20150203_132015.jpg" /></a>
-
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Decathlon Triban 500SE</b></p>@@*
+*@@html: <a href="/galleries/2015-03_triban/IMG_20150203_132015.jpg" class="rounded
+float-left" alt="Decathlon Triban 500SE"><img src="/galleries/2015-03_triban/IMG_20150203_132015.jpg"></a>@@*
 
 After a few local rides of between 20 and 40 miles I was quite
 impressed. The microshift gears (3x8) weren't as smooth a the Tiagra
@@ -53,13 +49,9 @@ bearings were badly worn on the drive side. I wash my bike after every
 ride in the winter and am careful not to get detergent or GT85
 anywhere near bearings.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Rear cassette after 1500 miles." href="/images/2015-03_triban/IMG_20150224_164314.jpg"><img
- width="200" alt="Rear cassette after 1500 miles." title="Rear cassette after 1500 miles." src="/images/2015-03_triban/thumb.IMG_20150224_164314.jpg" /></a>
-
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Rear cassette after 1500 miles</b></p>@@*
+*@@html: <a href="/galleries/2015-03_triban/IMG_20150224_164314.jpg" class="rounded
+float-left" alt="Rear cassette after 1500 miles"><img src="/galleries/2015-03_triban/IMG_20150224_164314.jpg"></a>@@*
 
 After 1500 miles the gears began to skip. Measuring the chain it didn't appear
 unduly worn. However, the teeth on the cassette looked just like
