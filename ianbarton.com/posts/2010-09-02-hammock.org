@@ -13,14 +13,10 @@ accident I noticed that the [[http://www.backpackinglight.co.uk][backpackingligh
 special promotion on lightweight [[http://www.backpackinglight.co.uk/product29.asp?PageID%3D41][silk]] hammocks. I ordered one and with
 the usual efficient service it arrived next day.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb"  href="/images/girls_in_hammock.jpg"  title="Resting in the hammock."> <img src="/images/girls_in_hammock.jpg" width="200"
-     alt="Resting in the hammock."></a></p>
-  <p>Resting in the hammock.</p>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Resting in the hammock.</b></p>@@*
+*@@html: <a href="/galleries/girls_in_hammock.jpg" class="rounded
+float-left" alt="Resting in the hammock."><img src="/galleries/girls_in_hammock.jpg"></a>@@*
 
 Originally I was going to hang it using the frame from the swings, but
 this turned out to be not quite long enough. Luckily the gate near the
