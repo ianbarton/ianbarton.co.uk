@@ -1,0 +1,14 @@
+#+BEGIN_COMMENT
+.. title: Change of Blog url.
+.. slug: 2019-09-23-changed-url
+.. date: 2019-08-23 15:46:46 UTC
+.. tags:
+.. category: blog
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
+
+I have decided to move my blog from the original http://ian-barton.com to
+http://ianbarton.co.uk . All the pages from the original site are here. If you
+go to the old url, you should be automatically be redirected here.
