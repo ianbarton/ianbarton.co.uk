@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ian's Mountaineering Blog.</title><link>https://ianbarton.com/</link><description>Ian's Mountaineering Blog.</description><atom:link href="https://ianbarton.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:ian@ianbarton.co.uk"&gt;Ian Barton.&lt;/a&gt; </copyright><lastBuildDate>Tue, 24 Sep 2019 11:51:22 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Blog Makeover.</title><link>https://ianbarton.com/posts/2019-08-26-blogmakeover/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ian's Blog.</title><link>https://ianbarton.co.uk/</link><description>Ian's Blog.</description><atom:link href="https://ianbarton.co.uk/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:ian@ianbarton.co.uk"&gt;Ian Barton.&lt;/a&gt; </copyright><lastBuildDate>Tue, 24 Sep 2019 12:44:07 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Blog Makeover.</title><link>https://ianbarton.co.uk/posts/2019-08-26-blogmakeover/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
 My blog has languished for a few years. There are a number of reasons: time
 pressure, laziness and a few problems with Pelican. I have decided to use
 Nikola and my static site generator. I have converted the text in all the old
@@ -7,7 +7,11 @@ posts to work with &lt;a href="http://getnikola.com"&gt;Nikola&lt;/a&gt;. Howeve
 embedded photos. At the moment a lot of posts have embedded html which is
 incompatible with Nikola, so raw html and not photos are displayed! I am
 steadily working my through old posts fixing this.
-&lt;/p&gt;</description><guid>https://ianbarton.com/posts/2019-08-26-blogmakeover/</guid><pubDate>Mon, 26 Aug 2019 15:46:46 GMT</pubDate></item><item><title>Backpacking Kit List</title><link>https://ianbarton.com/posts/2015-09-24-backpacking-kit-list/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+&lt;/p&gt;</description><guid>https://ianbarton.co.uk/posts/2019-08-26-blogmakeover/</guid><pubDate>Mon, 26 Aug 2019 15:46:46 GMT</pubDate></item><item><title>Change of Blog url.</title><link>https://ianbarton.co.uk/posts/2019-09-23-changed-url/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+I have decided to move my blog from the original &lt;a href="http://ian-barton.com"&gt;http://ian-barton.com&lt;/a&gt; to
+&lt;a href="http://ianbarton.co.uk"&gt;http://ianbarton.co.uk&lt;/a&gt; . All the pages from the original site are here. If you
+go to the old url, you should be automatically be redirected here.
+&lt;/p&gt;</description><guid>https://ianbarton.co.uk/posts/2019-09-23-changed-url/</guid><pubDate>Fri, 23 Aug 2019 15:46:46 GMT</pubDate></item><item><title>Backpacking Kit List</title><link>https://ianbarton.co.uk/posts/2015-09-24-backpacking-kit-list/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
 I haven't included what I would be wearing, which would usually
 include a Rab Vapour Ride Lite jacket. In hot weather this would go
 inside the rucksack. In warm weather I wear Rab Treklite trousers. In
@@ -278,7 +282,7 @@ keeps me nice and warm. The Montane prism trousers
 &lt;td class="org-right"&gt;10579&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description><category>review</category><guid>https://ianbarton.com/posts/2015-09-24-backpacking-kit-list/</guid><pubDate>Thu, 24 Sep 2015 17:59:50 GMT</pubDate></item><item><title>Decathlon Triban 500se</title><link>https://ianbarton.com/posts/2015-03-02-decathlon-triban-500SE/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+&lt;/table&gt;</description><category>review</category><guid>https://ianbarton.co.uk/posts/2015-09-24-backpacking-kit-list/</guid><pubDate>Thu, 24 Sep 2015 17:59:50 GMT</pubDate></item><item><title>Decathlon Triban 500se</title><link>https://ianbarton.co.uk/posts/2015-03-02-decathlon-triban-500SE/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
 Last year I bought a Giant Defy 2. However, I didn't want to ride it
 through all the mud and salt in the winter months, so decided to buy a
 cheap bike to use in winter. I did quite a bit of research and decided
@@ -295,8 +299,8 @@ ended up coming out of the store with one.
 
 &lt;p&gt;
 &lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Decathlon Triban 500SE&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2015-03_triban/IMG_20150203_132015.jpg" class="rounded
-float-left" alt="Decathlon Triban 500SE"&gt;&lt;img src="https://ianbarton.com/galleries/2015-03_triban/IMG_20150203_132015.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2015-03_triban/IMG_20150203_132015.jpg" class="rounded
+float-left" alt="Decathlon Triban 500SE"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2015-03_triban/IMG_20150203_132015.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -333,8 +337,8 @@ anywhere near bearings.
 
 &lt;p&gt;
 &lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Rear cassette after 1500 miles&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2015-03_triban/IMG_20150224_164314.jpg" class="rounded
-float-left" alt="Rear cassette after 1500 miles"&gt;&lt;img src="https://ianbarton.com/galleries/2015-03_triban/IMG_20150224_164314.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2015-03_triban/IMG_20150224_164314.jpg" class="rounded
+float-left" alt="Rear cassette after 1500 miles"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2015-03_triban/IMG_20150224_164314.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -348,7 +352,7 @@ So what's the final verdict. Overall I am happy with the Triban. I
 enjoy riding it and I don't worry too much it getting plastered in
 muck and grit. For the price it's a good buy, but don't expect the
 drive chain to be as durable as a more expensive bike.
-&lt;/p&gt;</description><category>cycling</category><category>review</category><guid>https://ianbarton.com/posts/2015-03-02-decathlon-triban-500SE/</guid><pubDate>Mon, 02 Mar 2015 17:59:07 GMT</pubDate></item><item><title>Alpkit Brupot</title><link>https://ianbarton.com/posts/2014-10-06-Alpkit%20BruPot/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;div class="HTML"&gt;
+&lt;/p&gt;</description><category>cycling</category><category>review</category><guid>https://ianbarton.co.uk/posts/2015-03-02-decathlon-triban-500SE/</guid><pubDate>Mon, 02 Mar 2015 17:59:07 GMT</pubDate></item><item><title>Alpkit Brupot</title><link>https://ianbarton.co.uk/posts/2014-10-06-Alpkit%20BruPot/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;div class="HTML"&gt;
 &lt;p&gt;
 &amp;lt;!– PELICAN&lt;sub&gt;BEGIN&lt;/sub&gt;&lt;sub&gt;SUMMARY&lt;/sub&gt; –&amp;gt;
 I prefer gas for cooking and my stove of choice is the Primus
@@ -677,7 +681,7 @@ and one advantage over my MSR is I can fit a 200g gas canister inside
 it.
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><category>review</category><guid>https://ianbarton.com/posts/2014-10-06-Alpkit%20BruPot/</guid><pubDate>Mon, 06 Oct 2014 17:58:55 GMT</pubDate></item><item><title>Time Lapse Photography</title><link>https://ianbarton.com/posts/2014-10-01-Time-Lapse-Photography/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+&lt;/div&gt;</description><category>review</category><guid>https://ianbarton.co.uk/posts/2014-10-06-Alpkit%20BruPot/</guid><pubDate>Mon, 06 Oct 2014 17:58:55 GMT</pubDate></item><item><title>Time Lapse Photography</title><link>https://ianbarton.co.uk/posts/2014-10-01-Time-Lapse-Photography/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
 A couple of years ago my son wanted to do a photography project for
 school. We had recently bought a Canon EOS 550D DSLR, which he was
 keen to use. While wasting time browsing various photography sites, I
@@ -1020,7 +1024,7 @@ short and only intended to show you the sort of effects you can achieve:
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=mleropQkFTk"&gt;Dawn to dusk&lt;/a&gt; time lapse taken using a Raspberry Pi.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><category>photography</category><guid>https://ianbarton.com/posts/2014-10-01-Time-Lapse-Photography/</guid><pubDate>Wed, 01 Oct 2014 17:58:46 GMT</pubDate></item><item><title>Cwm Eigiau Backpack</title><link>https://ianbarton.com/posts/2014-09-11-cwm-eigiau-backpack/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;div id="outline-container-org228bba4" class="outline-2"&gt;
+&lt;/div&gt;</description><category>photography</category><guid>https://ianbarton.co.uk/posts/2014-10-01-Time-Lapse-Photography/</guid><pubDate>Wed, 01 Oct 2014 17:58:46 GMT</pubDate></item><item><title>Cwm Eigiau Backpack</title><link>https://ianbarton.co.uk/posts/2014-09-11-cwm-eigiau-backpack/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;div id="outline-container-org228bba4" class="outline-2"&gt;
 &lt;h2 id="org228bba4"&gt;Day One Llyn Eigiau to Carnedd Llewelyn .&lt;/h2&gt;
 &lt;div class="outline-text-2" id="text-org228bba4"&gt;
 &lt;p&gt;
@@ -1284,7 +1288,7 @@ there. Being able to walk midweek is definitely and advantage if you
 want the hills to yourself.
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><category>mountaineering</category><category>tripreport</category><guid>https://ianbarton.com/posts/2014-09-11-cwm-eigiau-backpack/</guid><pubDate>Sun, 14 Sep 2014 17:58:37 GMT</pubDate></item><item><title>C2c Prologue</title><link>https://ianbarton.com/posts/2014-08-24-C2C-Prologue/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+&lt;/div&gt;</description><category>mountaineering</category><category>tripreport</category><guid>https://ianbarton.co.uk/posts/2014-09-11-cwm-eigiau-backpack/</guid><pubDate>Sun, 14 Sep 2014 17:58:37 GMT</pubDate></item><item><title>C2c Prologue</title><link>https://ianbarton.co.uk/posts/2014-08-24-C2C-Prologue/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
 There are a number of Coast to Coast cycle rides in the UK. This
 series of posts is about the ride that starts at either Workington or
 Whitehaven and finishes at Tynemouth or Sunderland. Depending on the
@@ -1653,10 +1657,10 @@ and actually provide a proper cycle carriage service.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><category>cycling</category><guid>https://ianbarton.com/posts/2014-08-24-C2C-Prologue/</guid><pubDate>Sun, 24 Aug 2014 17:58:28 GMT</pubDate></item><item><title>C2c Day Two</title><link>https://ianbarton.com/posts/2014-08-23-C2C-Day-Two/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+&lt;/div&gt;</description><category>cycling</category><guid>https://ianbarton.co.uk/posts/2014-08-24-C2C-Prologue/</guid><pubDate>Sun, 24 Aug 2014 17:58:28 GMT</pubDate></item><item><title>C2c Day Two</title><link>https://ianbarton.co.uk/posts/2014-08-23-C2C-Day-Two/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
 &lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Le Grand Depart&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140813_090832.jpg" class="rounded
-float-left" alt="Le Grand Depart"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140813_090832.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2014-08-C2C/IMG_20140813_090832.jpg" class="rounded
+float-left" alt="Le Grand Depart"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2014-08-C2C/IMG_20140813_090832.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -1692,8 +1696,8 @@ we couldn't see that cafe.
 
 &lt;p&gt;
 &lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Looking back from Hartside cafe&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140813_105959.jpg" class="rounded
-float-left" alt="Looking back from Hartside cafe"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140813_105959.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2014-08-C2C/IMG_20140813_105959.jpg" class="rounded
+float-left" alt="Looking back from Hartside cafe"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2014-08-C2C/IMG_20140813_105959.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -1725,8 +1729,8 @@ Going too fast will result in a painful crash.
 
 &lt;p&gt;
 &lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Crossing into Northumberland&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140813_130528.jpg" class="rounded
-float-left" alt="Crossing into Northumberland"&gt;&lt;img src="https://ianbarton.com/galleries/IMG_20140813_130528.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2014-08-C2C/IMG_20140813_130528.jpg" class="rounded
+float-left" alt="Crossing into Northumberland"&gt;&lt;img src="https://ianbarton.co.uk/galleries/IMG_20140813_130528.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -1740,8 +1744,8 @@ Allenheads.
 
 &lt;p&gt;
 &lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;View from above Nenthead&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140813_130640.jpg" class="rounded
-float-left" alt="View from above Nenthead"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140813_130640.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2014-08-C2C/IMG_20140813_130640.jpg" class="rounded
+float-left" alt="View from above Nenthead"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2014-08-C2C/IMG_20140813_130640.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 
@@ -1760,10 +1764,10 @@ a separate residents lounge and kitchen.
 After a short rest, we wandered down into the village to join the
 others at the pub. We had an enjoyable meal and a few drinks before
 wandering back up the road to our beds.
-&lt;/p&gt;</description><category>cycling</category><guid>https://ianbarton.com/posts/2014-08-23-C2C-Day-Two/</guid><pubDate>Sat, 23 Aug 2014 17:58:18 GMT</pubDate></item><item><title>C2c Day Three</title><link>https://ianbarton.com/posts/2014-08-23-C2C-Day-Three/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+&lt;/p&gt;</description><category>cycling</category><guid>https://ianbarton.co.uk/posts/2014-08-23-C2C-Day-Two/</guid><pubDate>Sat, 23 Aug 2014 17:58:18 GMT</pubDate></item><item><title>C2c Day Three</title><link>https://ianbarton.co.uk/posts/2014-08-23-C2C-Day-Three/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
 &lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Sculpture on the outskirts of Consett&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140814_11312.jpg" class="rounded
-float-left" alt="Sculpture on the outskirts of Consett"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140814_11312.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2014-08-C2C/IMG_20140814_11312.jpg" class="rounded
+float-left" alt="Sculpture on the outskirts of Consett"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2014-08-C2C/IMG_20140814_11312.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -1845,155 +1849,4 @@ miles to my journey.
 I spite of the drenching and extra unnecessary 30 miles driving home,
 I had enjoyed the last day. I would like to do the route again, but
 next time I'll try and do in two days.
-&lt;/p&gt;</description><category>cycling</category><guid>https://ianbarton.com/posts/2014-08-23-C2C-Day-Three/</guid><pubDate>Sat, 23 Aug 2014 17:58:10 GMT</pubDate></item><item><title>C2c Day One</title><link>https://ianbarton.com/posts/2014-08-23-C2C-Day-One/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
-I left &lt;a href="http://www.chestnuts-whitehaven.com"&gt;Chestnuts&lt;/a&gt; around 8:30am and cycled down into Whitehaven. I
-cycled down to the harbour, but didn't bother going all the way along
-to the C2C sign. The initial section out of Whitehaven is fairly grim. The
-cycling is easy, but the route goes through several housing estates
-and the path is littered with large collection of dog turds and broken
-glass. Luckily this section isn't too long and I was soon following
-the old railway line. The off road sections are almost all on tarmac
-so fine on a road bike. There was a short section of rather bumpy
-track just before Rowrah which would be unpleasant on a road bike if
-it was very wet.
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Bassenthwaite from near Cockermouth&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_104902.jpg" class="rounded
-float-left" alt="Bassenthwaite from near Cockermouth"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_104902.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
-
-
-&lt;p&gt;
-The weather, which had been fine for weeks looked decidedly dodgy. The
-day before the tail end of a hurricane had passed through. The fells in
-front were covered in cloud and there was a very strong wind. Luckily
-the wind was blowing from the west, so was in fact a big help!
-&lt;/p&gt;
-
-&lt;p&gt;
-There is a stiff climb out of Kirkland, but the extra altitude gives
-you great views over the surrounding countryside. There is a pleasant
-downhill section to Lamplugh, with a stiff climb at the end. I was
-headed towards Loweswater, but the view of the lake is obscured by
-Burnbank. After a downhill section to Waterend I could finally see the
-lake.  The road follows Loweswater, with some minor ups and downs
-until you reach the village. I headed towards Brackenthwaite along a
-narrow road with plenty of ups and downs. At the village of Low Lorton
-there is a very steep section. Thankfully it's short and it deposits
-you at the bottom of the Whinlatter Pass.
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Saddleback Cafe Keswick&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_130719.jpg" class="rounded
-float-left" alt="Saddleback Cafe Keswick"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_130719.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
-
-
-
-&lt;p&gt;
-The climb up Whinlatter isn't to bad and there is a Visitor Centre at
-the top, which I didn't bother visiting. I stopped i one of the car
-parks to chew through an oat bar and have a drink. I realized how cold
-and windy it was, as in about five minutes I went from an overheated
-sweaty lump to a shivering lump! I can't really see the point of
-following the forestry track, which looks steep and loose. The road is
-fairly quiet. It is very steep in places, so you need to keep a check
-on your speed and make sure that you can make it round the next bend,
-without colliding with an oncoming car. At the bottom I crossed a
-small suspension bridge over the Derwent. A short section along
-a railway track emerged next to the A66. There is a good cycle track
-alongside the road. It was on this track that I experienced the only
-puncture of the trip. There was an explosive bang and the rear tyre
-went flat instantly. I couldn't find anything that might have caused
-this to happen and there was nothing stuck in the tyre. I had soon
-fitted a new tube and continued the short distance into Keswick.
-&lt;/p&gt;
-
-&lt;p&gt;
-Keswick reminded me why I don't visit the Lakes anymore. It took about
-five minutes before there was a break in the traffic, so I could cross
-the road. The town itself was absolutely ram packed full of people
-and almost every shop was some sort of outdoors emporium, with almost
-no real shops.
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;A proper doorstep sandwich&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_124053.jpg" class="rounded
-float-left" alt="A proper doorstep sandwich"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_124053.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
-
-
-
-&lt;p&gt;
-I still had one spare tube, but I bought another at
-&lt;a href="http://www.keswickbikes.co.uk"&gt;KeswickBikes&lt;/a&gt;. While I was there I bought a Cateye rear light, as my
-son had commandeered mine for his bike. I wasn't expecting to be
-riding in the dark, but having some sort of highly visible light in
-case of heavy rain, or poor visibility is always a good idea. I
-settled into the Saddleback cafe, which is next to Keswick Bikes. I
-had a "proper" cheese and pickle doorstep wedge sandwich. While I was
-eating it, the heavens opened and rain poured down. Fortunately, by
-the time I had finished lunch the rain had blown over.
-&lt;/p&gt;
-
-&lt;p&gt;
-I made my way slowly through the centre of Keswick, which given the
-amount of traffic was probably the most dangerous part of the
-journey. I arrived at the bottom of the steep series of climbs up to
-Castle Rigg Stone Circle. On one section I was going so slowly that I
-was overtaken by a runner. Oh the shame and embarrassment! Finally I
-made it to the stone circle, where I stopped for a rest. A few years
-ago we had visited them with the children on a ride that went out of
-Keswick along the old railway track and returned past the stone
-circle.
-&lt;/p&gt;
-
-
-&lt;p&gt;
-I made a mistake shortly after the stone circle and turned left too
-soon. This brought me out on the A66, with no option of avoiding
-cycling along it. Fortunately I didn't have to cycle back too far to
-get on the right route, which brought me out near Threlkeld. Past
-Scales the road turns north on a narrow lane leading to
-Mungrisdale. The lane had plenty of gates, so  every time I got into a
-nice rhythm I had to get off to open and close a gate. Although
-Mungrisdale is a pleasant enough place, it seems as if the C2C
-deliberately chooses to meander about when a more direct route is
-possible. I kept seeing signs on the A66 telling me that Penrith was
-10 miles away, but I ended up cycling nearer 20! After another long
-meander through Greystoke (home of Tarzan), it was finally time to
-drop down into Penrith.
-&lt;/p&gt;
-
-&lt;p&gt;
-I made straight for Morrisons, where I had a large Bakewell tart and a
-pot of tea. I received a text from my son, who is a lot fitter than me
-and had arrived some time before. I was staying in the Travelodge on
-the A66, where my wife was going to join me.  I was a bit worried how
-I was going to get there, as I really didn't fancy cycling down the
-A66. Luckily, there is a cycle path that leads alongside the A66
-directly to the Travelodge.
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Castlerigg stone circle&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_132829.jpg" class="rounded
-float-left" alt="Castlerigg stone circle"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_132829.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
-
-
-
-
-&lt;p&gt;
-The Travelodge had recently been refurbished and had decent size
-rooms, pleasantly decorated. Travelodges can be cheap to stay in, but
-recently seem to have been involved in a race to the bottom to cut facilities
-and maintenance to the minimum to save costs. However, I would be
-happy to stay in the Keswick one again! We had tea in the Little Chef
-next door - I thought these were extinct.
-&lt;/p&gt;
-
-&lt;p&gt;
-I was happy with my performance on day one. I hadn't found the ride
-hard and wasn't particularly tired.
-&lt;/p&gt;</description><category>cycling</category><guid>https://ianbarton.com/posts/2014-08-23-C2C-Day-One/</guid><pubDate>Sat, 23 Aug 2014 17:58:00 GMT</pubDate></item></channel></rss>
+&lt;/p&gt;</description><category>cycling</category><guid>https://ianbarton.co.uk/posts/2014-08-23-C2C-Day-Three/</guid><pubDate>Sat, 23 Aug 2014 17:58:10 GMT</pubDate></item></channel></rss>
