@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ian's Mountaineering Blog.</title><link>https://ianbarton.com/</link><description>Ian's Mountaineering Blog.</description><atom:link href="https://ianbarton.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:ian@ianbarton.co.uk"&gt;Ian Barton.&lt;/a&gt; </copyright><lastBuildDate>Mon, 26 Aug 2019 16:14:59 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Blog Makeover.</title><link>https://ianbarton.com/posts/2019-08-26-blogmakeover/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ian's Mountaineering Blog.</title><link>https://ianbarton.com/</link><description>Ian's Mountaineering Blog.</description><atom:link href="https://ianbarton.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:ian@ianbarton.co.uk"&gt;Ian Barton.&lt;/a&gt; </copyright><lastBuildDate>Tue, 24 Sep 2019 11:51:22 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Blog Makeover.</title><link>https://ianbarton.com/posts/2019-08-26-blogmakeover/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
 My blog has languished for a few years. There are a number of reasons: time
 pressure, laziness and a few problems with Pelican. I have decided to use
 Nikola and my static site generator. I have converted the text in all the old
@@ -293,18 +293,11 @@ decent bike for the price and I had read several positive reviews. I
 ended up coming out of the store with one.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
 &lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Decathlon Triban 500SE." href="/images/2015-03&lt;sub&gt;triban&lt;/sub&gt;/IMG&lt;sub&gt;20150203&lt;/sub&gt;&lt;sub&gt;132015.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Decathlon Triban 500SE." title="Decathlon Triban 500SE." src="/images/2015-03&lt;sub&gt;triban&lt;/sub&gt;/thumb.IMG&lt;sub&gt;20150203&lt;/sub&gt;&lt;sub&gt;132015.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Decathlon Triban 500SE&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2015-03_triban/IMG_20150203_132015.jpg" class="rounded
+float-left" alt="Decathlon Triban 500SE"&gt;&lt;img src="https://ianbarton.com/galleries/2015-03_triban/IMG_20150203_132015.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
 
 &lt;p&gt;
 After a few local rides of between 20 and 40 miles I was quite
@@ -338,18 +331,11 @@ ride in the winter and am careful not to get detergent or GT85
 anywhere near bearings.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
 &lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Rear cassette after 1500 miles." href="/images/2015-03&lt;sub&gt;triban&lt;/sub&gt;/IMG&lt;sub&gt;20150224&lt;/sub&gt;&lt;sub&gt;164314.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Rear cassette after 1500 miles." title="Rear cassette after 1500 miles." src="/images/2015-03&lt;sub&gt;triban&lt;/sub&gt;/thumb.IMG&lt;sub&gt;20150224&lt;/sub&gt;&lt;sub&gt;164314.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Rear cassette after 1500 miles&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2015-03_triban/IMG_20150224_164314.jpg" class="rounded
+float-left" alt="Rear cassette after 1500 miles"&gt;&lt;img src="https://ianbarton.com/galleries/2015-03_triban/IMG_20150224_164314.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
 
 &lt;p&gt;
 After 1500 miles the gears began to skip. Measuring the chain it didn't appear
@@ -1667,19 +1653,11 @@ and actually provide a proper cycle carriage service.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><category>cycling</category><guid>https://ianbarton.com/posts/2014-08-24-C2C-Prologue/</guid><pubDate>Sun, 24 Aug 2014 17:58:28 GMT</pubDate></item><item><title>C2c Day Two</title><link>https://ianbarton.com/posts/2014-08-23-C2C-Day-Two/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;!– PELICAN&lt;sub&gt;BEGIN&lt;/sub&gt;&lt;sub&gt;SUMMARY&lt;/sub&gt; –&amp;gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Le Grand Depart." href="/images/2014-08-C2C/IMG&lt;sub&gt;20140813&lt;/sub&gt;&lt;sub&gt;090832.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Le Grand Depart." title="Le Grand Depart." src="/images/2014-08-C2C/thumb.IMG&lt;sub&gt;20140813&lt;/sub&gt;&lt;sub&gt;090832.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
+&lt;/div&gt;</description><category>cycling</category><guid>https://ianbarton.com/posts/2014-08-24-C2C-Prologue/</guid><pubDate>Sun, 24 Aug 2014 17:58:28 GMT</pubDate></item><item><title>C2c Day Two</title><link>https://ianbarton.com/posts/2014-08-23-C2C-Day-Two/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Le Grand Depart&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140813_090832.jpg" class="rounded
+float-left" alt="Le Grand Depart"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140813_090832.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
 
 &lt;p&gt;
 We had originally planned this section to complete the major climbs of
@@ -1690,12 +1668,6 @@ this wasn't possible. With a bit more planning we could have probably
 completed the route in two days, although for me, this would have been
 pushing it a bit.
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;!– PELICAN&lt;sub&gt;END&lt;/sub&gt;&lt;sub&gt;SUMMARY&lt;/sub&gt; –&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
 
 &lt;p&gt;
 We had arranged to meet my son and his friends at the place they were
@@ -1717,18 +1689,12 @@ down, but nothing too steep. We could see cars climbing the A686, high
 up on the moors, in the distance. The tops were covered in cloud, so
 we couldn't see that cafe.
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Looking back from Hartside cafe." href="/images/2014-08-C2C/IMG&lt;sub&gt;20140813&lt;/sub&gt;&lt;sub&gt;105959.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Looking back from Hartside cafe." title="Looking back from Hartside cafe." src="/images/2014-08-C2C/thumb.IMG&lt;sub&gt;20140813&lt;/sub&gt;&lt;sub&gt;105959.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Looking back from Hartside cafe&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140813_105959.jpg" class="rounded
+float-left" alt="Looking back from Hartside cafe"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140813_105959.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 From the description I had expected the hill up to Hartside to be
@@ -1756,18 +1722,12 @@ culminates in a couple of very sharp bends and the road is very
 potholed. There are several signs warning you to slow down. Take note!
 Going too fast will result in a painful crash.
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Crossing into Northumberland." href="/images/2014-08-C2C/IMG&lt;sub&gt;20140813&lt;/sub&gt;&lt;sub&gt;130528.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Crossing into Northumberland." title="Crossing into Northumberland." src="/images/2014-08-C2C/thumb.IMG&lt;sub&gt;20140813&lt;/sub&gt;&lt;sub&gt;130528.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Crossing into Northumberland&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140813_130528.jpg" class="rounded
+float-left" alt="Crossing into Northumberland"&gt;&lt;img src="https://ianbarton.com/galleries/IMG_20140813_130528.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 My wife was waiting at Nenthead and we stopped for a chat and some
@@ -1778,18 +1738,12 @@ small hill. After that it's a great downhill ride all the way to
 Allenheads.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
 &lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="View from above Nenthead." href="/images/2014-08-C2C/IMG&lt;sub&gt;20140813&lt;/sub&gt;&lt;sub&gt;130640.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="View from above Nenthead." title="View from above Nenthead." src="/images/2014-08-C2C/thumb.IMG&lt;sub&gt;20140813&lt;/sub&gt;&lt;sub&gt;130640.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;View from above Nenthead&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140813_130640.jpg" class="rounded
+float-left" alt="View from above Nenthead"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140813_130640.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 The village of Allenheads is quite stretched out and the pub and our
@@ -1806,19 +1760,11 @@ a separate residents lounge and kitchen.
 After a short rest, we wandered down into the village to join the
 others at the pub. We had an enjoyable meal and a few drinks before
 wandering back up the road to our beds.
-&lt;/p&gt;</description><category>cycling</category><guid>https://ianbarton.com/posts/2014-08-23-C2C-Day-Two/</guid><pubDate>Sat, 23 Aug 2014 17:58:18 GMT</pubDate></item><item><title>C2c Day Three</title><link>https://ianbarton.com/posts/2014-08-23-C2C-Day-Three/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;!– PELICAN&lt;sub&gt;BEGIN&lt;/sub&gt;&lt;sub&gt;SUMMARY&lt;/sub&gt; –&amp;gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Sculpture on the outskirts of Consett." href="/images/2014-08-C2C/IMG&lt;sub&gt;20140814&lt;/sub&gt;&lt;sub&gt;11312.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Sculpture on the outskirts of Consett." title="Sculpture on the outskirts of Consett." src="/images/2014-08-C2C/thumb.IMG&lt;sub&gt;20140814&lt;/sub&gt;&lt;sub&gt;11312.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
+&lt;/p&gt;</description><category>cycling</category><guid>https://ianbarton.com/posts/2014-08-23-C2C-Day-Two/</guid><pubDate>Sat, 23 Aug 2014 17:58:18 GMT</pubDate></item><item><title>C2c Day Three</title><link>https://ianbarton.com/posts/2014-08-23-C2C-Day-Three/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Sculpture on the outskirts of Consett&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140814_11312.jpg" class="rounded
+float-left" alt="Sculpture on the outskirts of Consett"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140814_11312.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
 
 &lt;p&gt;
 When I got up in the morning, I felt slightly sick and couldn't eat
@@ -1828,13 +1774,6 @@ I wanted to get to Newcastle as early as possible, so I would be able
 to get back to Whitehaven in time to drive home. I was also worried
 about not being able to get my bike on the train.
 &lt;/p&gt;
-
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;!– PELICAN&lt;sub&gt;END&lt;/sub&gt;&lt;sub&gt;SUMMARY&lt;/sub&gt; –&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
 
 &lt;p&gt;
 Almost as soon as I left the village there was a steep hill. This lead
@@ -1907,29 +1846,6 @@ I spite of the drenching and extra unnecessary 30 miles driving home,
 I had enjoyed the last day. I would like to do the route again, but
 next time I'll try and do in two days.
 &lt;/p&gt;</description><category>cycling</category><guid>https://ianbarton.com/posts/2014-08-23-C2C-Day-Three/</guid><pubDate>Sat, 23 Aug 2014 17:58:10 GMT</pubDate></item><item><title>C2c Day One</title><link>https://ianbarton.com/posts/2014-08-23-C2C-Day-One/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
-*
-&lt;/p&gt;
-
-
-&lt;p&gt;
-#+END&lt;sub&gt;HTML&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;!– PELICAN&lt;sub&gt;BEGIN&lt;/sub&gt;&lt;sub&gt;SUMMARY&lt;/sub&gt; –&amp;gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Bassenthwaite from near Cockermouth." href="/images/2014-08-C2C/IMG&lt;sub&gt;20140812&lt;/sub&gt;&lt;sub&gt;104902.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Bassenthwaite from near Cockermouth." title="Bassenthwaite from near Cockermouth." src="/images/2014-08-C2C/thumb.IMG&lt;sub&gt;20140812&lt;/sub&gt;&lt;sub&gt;104902.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;
 I left &lt;a href="http://www.chestnuts-whitehaven.com"&gt;Chestnuts&lt;/a&gt; around 8:30am and cycled down into Whitehaven. I
 cycled down to the harbour, but didn't bother going all the way along
 to the C2C sign. The initial section out of Whitehaven is fairly grim. The
@@ -1942,12 +1858,10 @@ track just before Rowrah which would be unpleasant on a road bike if
 it was very wet.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
 &lt;p&gt;
-&amp;lt;!– PELICAN&lt;sub&gt;END&lt;/sub&gt;&lt;sub&gt;SUMMARY&lt;/sub&gt; –&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Bassenthwaite from near Cockermouth&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_104902.jpg" class="rounded
+float-left" alt="Bassenthwaite from near Cockermouth"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_104902.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -1970,18 +1884,12 @@ there is a very steep section. Thankfully it's short and it deposits
 you at the bottom of the Whinlatter Pass.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
 &lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Saddleback Cafe Keswick." href="/images/2014-08-C2C/IMG&lt;sub&gt;20140812&lt;/sub&gt;&lt;sub&gt;130719.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Saddleback Cafe Keswick." title="Saddleback Cafe Keswick." src="/images/2014-08-C2C/thumb.IMG&lt;sub&gt;20140812&lt;/sub&gt;&lt;sub&gt;130719.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Saddleback Cafe Keswick&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_130719.jpg" class="rounded
+float-left" alt="Saddleback Cafe Keswick"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_130719.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 The climb up Whinlatter isn't to bad and there is a Visitor Centre at
@@ -2009,18 +1917,13 @@ the road. The town itself was absolutely ram packed full of people
 and almost every shop was some sort of outdoors emporium, with almost
 no real shops.
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="A proper doorstep sandwich." href="/images/2014-08-C2C/IMG&lt;sub&gt;20140812&lt;/sub&gt;&lt;sub&gt;124053.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="A proper doorstep sandwich." title="A proper doorstep sandwich." src="/images/2014-08-C2C/thumb.IMG&lt;sub&gt;20140812&lt;/sub&gt;&lt;sub&gt;124053.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;A proper doorstep sandwich&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_124053.jpg" class="rounded
+float-left" alt="A proper doorstep sandwich"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_124053.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
+
 
 &lt;p&gt;
 I still had one spare tube, but I bought another at
@@ -2073,18 +1976,13 @@ A66. Luckily, there is a cycle path that leads alongside the A66
 directly to the Travelodge.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
 &lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Castlerigg stone circle." href="/images/2014-08-C2C/IMG&lt;sub&gt;20140812&lt;/sub&gt;&lt;sub&gt;132829.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/thumb.IMG&lt;sub&gt;20140812&lt;/sub&gt;&lt;sub&gt;132829.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Castlerigg stone circle&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_132829.jpg" class="rounded
+float-left" alt="Castlerigg stone circle"&gt;&lt;img src="https://ianbarton.com/galleries/2014-08-C2C/IMG_20140812_132829.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
 
-&lt;/div&gt;
+
 
 &lt;p&gt;
 The Travelodge had recently been refurbished and had decent size

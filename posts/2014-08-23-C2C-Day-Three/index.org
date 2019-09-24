@@ -9,14 +9,9 @@
 .. type: text
 #+END_COMMENT
 
-#+BEGIN_HTML
-<!-- PELICAN_BEGIN_SUMMARY -->
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sculpture on the outskirts of Consett." href="/images/2014-08-C2C/IMG_20140814_11312.jpg"><img
- width="200" alt="Sculpture on the outskirts of Consett." title="Sculpture on the outskirts of Consett." src="/images/2014-08-C2C/thumb.IMG_20140814_11312.jpg" /></a>
-
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Sculpture on the outskirts of Consett</b></p>@@*
+*@@html: <a href="/galleries/2014-08-C2C/IMG_20140814_11312.jpg" class="rounded
+float-left" alt="Sculpture on the outskirts of Consett"><img src="/galleries/2014-08-C2C/IMG_20140814_11312.jpg"></a>@@*
 
 When I got up in the morning, I felt slightly sick and couldn't eat
 much of the excellent breakfast. Luckily I recovered after a couple of
@@ -24,10 +19,6 @@ hours on the bike, but was a bit worried about how the day might go.
 I wanted to get to Newcastle as early as possible, so I would be able
 to get back to Whitehaven in time to drive home. I was also worried
 about not being able to get my bike on the train.
-
-#+BEGIN_HTML
-<!-- PELICAN_END_SUMMARY -->
-#+END_HTML
 
 Almost as soon as I left the village there was a steep hill. This lead
 through a series of tight bends and was hemmed in by forestry. Just
