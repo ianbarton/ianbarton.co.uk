@@ -252,21 +252,39 @@ Need to add content!
 
 ** TODO  -rw-r--r--  1 ian ian  6714 Aug 23 10:24  2014-07-16-crimpiau.org
 
-** TODO  -rw-r--r--  1 ian ian  7602 Aug 23 10:24  2014-08-23-C2C-Day-One.org
+** DONE -rw-r--r--  1 ian ian  7602 Aug 23 10:24  2014-08-23-C2C-Day-One.org
+   CLOSED: [2019-09-24 Tue 15:00]
+   :LOGBOOK:
+   - State "DONE"       from "DONE"       [2019-09-24 Tue 15:00]
+   - State "DONE"       from "TODO"       [2019-09-24 Tue 15:00]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  4656 Aug 23 10:24  2014-08-23-C2C-Day-Three.org
+** DONE -rw-r--r--  1 ian ian  4656 Aug 23 10:24  2014-08-23-C2C-Day-Three.org
+   CLOSED: [2019-09-24 Tue 15:00]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-24 Tue 15:00]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  5517 Aug 23 10:24  2014-08-23-C2C-Day-Two.org
+** DONE -rw-r--r--  1 ian ian  5517 Aug 23 10:24  2014-08-23-C2C-Day-Two.org
+   CLOSED: [2019-09-24 Tue 15:00]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-24 Tue 15:00]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian 10848 Aug 23 10:24  2014-08-24-C2C-Prologue.org
    CLOSED: [2019-09-22 Sun 15:06]
 :LOGBOOK:
+- State "DONE"       from "DONE"       [2019-09-24 Tue 15:00]
 - State "DONE"       from "TODO"       [2019-09-22 Sun 15:06]
 :END:
 
 ** TODO  -rw-r--r--  1 ian ian 10777 Aug 22 15:22  2014-09-14-2014-09-11-cwm-eigiau-backpack.org
 
-** TODO  -rw-r--r--  1 ian ian 11158 Aug 23 10:25  2014-10-01-Time-Lapse-Photography.org
+** DONE -rw-r--r--  1 ian ian 11158 Aug 23 10:25  2014-10-01-Time-Lapse-Photography.org
+   CLOSED: [2019-09-24 Tue 14:50]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-24 Tue 14:50]
+   :END:
 
 ** TODO  -rw-r--r--  1 ian ian  8251 Aug 23 10:25  2014-10-06-Alpkit BruPot.org
 
