@@ -1,7 +1,7 @@
 #+BEGIN_COMMENT
 .. title: Change of Blog url.
 .. slug: 2019-09-23-changed-url
-.. date: 2019-09-23 15:46:46 UTC
+.. date: 2019-08-23 15:46:46 UTC
 .. tags:
 .. category: blog
 .. link:
