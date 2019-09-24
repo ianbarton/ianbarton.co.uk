@@ -1,0 +1,13 @@
+#+BEGIN_COMMENT
+.. title: 2015 06 23 Another Summit Camp On Moel Llyfnant.
+.. slug: 2015-06-23-Another Summit Camp on Moel Llyfnant.
+.. date: 2015-06-23 17:59:38 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
+
+
+Some test text.

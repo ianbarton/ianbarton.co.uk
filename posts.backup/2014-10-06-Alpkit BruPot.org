@@ -1,0 +1,168 @@
+#+BEGIN_COMMENT
+.. title: 2014 10 06 Alpkit Brupot
+.. slug: 2014-10-06-Alpkit BruPot
+.. date: 2014-10-06 17:58:55 UTC
+.. tags: review
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
+
+#+BEGIN_HTML
+<!-- PELICAN_BEGIN_SUMMARY -->
+I prefer gas for cooking and my stove of choice is the Primus
+Gravity. This is a remote canister stove, with a pre-heater, which
+makes it suitable for use in colder weather. Almost all my camping
+cooking is just a matter of boiling water to make a hot drink, or
+prepare a freeze dried meal.
+<!-- PELICAN_END_SUMMARY -->
+#+END_HTML
+
+
+I have looked at Jetboil stoves, but decided that they weren't for me
+because they were too heavy and the long tall shape makes them
+potentially unstable. However, if I needed to melt snow they would
+probably be my primary choice. One thing I haven't seen other
+manufacturers make is a cooking pot with a heat exchanger on the
+bottom, which could potentially improve the performance of a normal
+gas stove. However, [[https://www.alpkit.com/products/brupot][Alpkit]] have now made a cooking pot with built in
+heat exchanger. I decided to buy one with the hope that it would
+reduce the time it takes to boil water on my stove and potentially
+save gas.
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Alpkit BruPot test setup." href="/images/2014-10-Brukit/IMG_20141004_160215.jpg"><img
+ width="200" alt="Alpkit BruPot test setup." title="Alpkit BruPot test setup." src="/images/2014-10-Brukit/thumb.IMG_20141004_160215.jpg" /></a>
+
+</div>
+#+END_HTML
+
+The Brupot was delivered with the typical rapid efficiency. I wanted
+to compare it to my MSR stainless steel kettle, which is my usual
+cooking pot. Both vessels hold 1 litre of liquid, but the Brupot is
+slightly slimmer and therefore narrower. The Brupot has a plastic detachable
+lid, with a drinking slot so you can use it as a cup. It has
+detachable handles, which are covered in plastic so you don't burn
+your hands. There is a tightly fitting neoprene sleeve, which acts as
+a pot cosy. However, Alpkit recommends that you remove this when
+cooking. Since the sleeve is a tight fit, it's effectively
+useless. Can you image trying to fit a tight sleeve round a pot full
+of boiling water without burning your hands?
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Alpkit BruPot and MSR kettle." href="/images/2014-10-Brukit/IMG_20141006_165911.jpg"><img
+ width="200" alt="Alpkit BruPot and MSR kettle." title="Alpkit BruPot and MSR kettle." src="/images/2014-10-Brukit/thumb.IMG_20141006_165911.jpg" /></a>
+
+</div>
+#+END_HTML
+
+I decided to do a head to head to see how long each pot would take to
+boil 500ml of water. I used my Primus stove with a full 500g
+canister. The test was conducted in the kitchen, so I didn't bother
+using a wind shield. I adjusted the flame on the stove so it didn't
+come round the sides of the pot and I didn't alter the flame setting when
+I swapped the pans. Each pan was filled with 500ml of cold water from
+the tap and placed on the stove.
+
+I measured the time it took a continuous jet of steam to appear, which
+should correspond to a rolling boil. I didn't take the top off either
+pan off while it was heating the water, as this would increase the
+time to get a rolling boil. Thus there may have been a small error in
+judging when a pot was actually boiling. Also I didn't conduct another
+test with no lids on the pots, which would have made it easier to see
+if there was a rolling boil, as this isn't the way I use the pot when
+camping. I repeated the test three times. Between each set of repeat experiments
+I turned off the gas, then re-lit the stove , so the times for each
+run can't be summed to give an average, as the gas flow was probably
+different for each run.
+
+Much to my surprise the Alpkit BruPot was slower to reach a rolling
+boil than the MSR, by about ten seconds in each test. That's not a big
+difference, but I was expecting the BruPot to be significantly faster
+because of the heat exchanger. I like the BruPot and it will probably
+replace my MSR kettle, because the handles and top are
+better. However, it seems that the heat exchanger doesn't work for my
+use case.
+
+The Alpkit Brupot weighs 266g, including the bag and my MSR kettle
+weighs 254g.
+
+*** [2014-10-07 Tue] Update.
+It was pointed out to me that I really should also be measuring the
+weight of gas used. In my original experiment I didn't weight the gas
+canister. I believe my conclusions were valid as I didn't alter the
+gas flow between swapping pots and I was starting with a full 500g
+canister, so I would have expected flow to remain almost constant, so
+the weight of gas consumed would be the same. Also in the second run I
+swapped the order of the pots in the test, which should have shown up
+any differences caused by changes in gas flow between tests. In both
+cases the MSR boiled faster.
+
+However, in the interests of accuracy I repeated my experiment and
+weighed the gas canister at the beginiing and end of each test.The
+first time I did this I kept the canister attached to the stove and
+stood the canister on top of the scales. I didn't alter the setting of
+the valve between pots, but did note the weight of the canister before
+and after the pot boiled. I did two separate runs, restarting the
+stove for each run.
+
+Water was from the cold tap, which was allowed to flow for a couple of
+minutes first, so all the water used shuld have had the same starting temperature.
+
+Whilst I believe that the boil *times* are comparable within each run,
+the effect of the hose attached to the top of the canister meant that
+the *weights* probably were not accurate. So, I repeated the whole
+thing again, but this time removed the gas canister from the pipe
+before weighing it. Since when I re-lighted the stove, I couldn't be
+certain that I was using the same flow rate I believe that the *times*
+for this set of results are not comparable, but the *weight of gas*
+consumed is.
+
+
+**** Gas Cylinder Removed Before Weighing.
+#+CAPTION: Alpkit BruPot.
+#+ATTR_HTML: :border 2 :rules all :frame border
+|--------------+------------+----------+--------------|
+| Start Weight | End Weight | Gas Used | Time to boil |
+|--------------+------------+----------+--------------|
+|          513 |        501 |       12 |         4:26 |
+|          493 |        480 |       13 |         3:54 |
+|--------------+------------+----------+--------------|
+
+#+CAPTION: MSR Kettle.
+#+ATTR_HTML: :border 2 :rules all :frame border
+|--------------+------------+----------+--------------|
+| Start Weight | End Weight | Gas Used | Time to boil |
+|--------------+------------+----------+--------------|
+|          501 |        493 |        8 |         4:12 |
+|          480 |        469 |       11 |         3:20 |
+|--------------+------------+----------+--------------|
+
+**** Gas Cylinder Weighed Without Removing From Flexible Pipe.
+#+CAPTION: First Run.
+#+ATTR_HTML: :border 2 :rules all :frame border
+|--------+--------------+------------+----------+--------------|
+| Pot    | Start Weight | End Weight | Gas Used | Time to boil |
+|--------+--------------+------------+----------+--------------|
+| Alpkit |          599 |        584 |       15 |         4:09 |
+| MSR    |          545 |        534 |       11 |         3:30 |
+|--------+--------------+------------+----------+--------------|
+
+#+CAPTION: Second Run.
+#+ATTR_HTML: :border 2 :rules all :frame border
+|--------+--------------+------------+----------+-------------------|
+| Pot    | Start Weight | End Weight | Gas Used | Time Time to boil |
+|--------+--------------+------------+----------+-------------------|
+| Alpkit |          572 |        555 |       17 |              3:52 |
+| MSR    |          583 |        573 |       10 |              3:31 |
+|--------+--------------+------------+----------+-------------------|
+
+** Conclusions.
+The difference in performance between the BruPot and the MSR kettle
+are quite small and probably have little effect in real world use. The
+only real surprise is that in my setup the hest exchanger doesn't seem
+to have any positive effect. However, I still like the Alpkit BruPot
+and one advantage over my MSR is I can fit a 200g gas canister inside
+it.
