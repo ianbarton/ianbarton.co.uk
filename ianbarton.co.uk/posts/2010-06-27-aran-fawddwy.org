@@ -14,19 +14,11 @@ anyone else to come out with me so decided the visit Cwm Cywarch,
 where I have never been before. I also wanted to climb Aran Fawddwy,
 which would be another first for me.
 
-To see more photos click [[file:./aran-photos.html][here]] .
+To see more photos click [[file:../2010-06-27-aran-photos/index.html][here]].
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-06-arans/DSCF2208.JPG"  title="Cadair Idris
-  from the summit of Aran Fawddwy" ><img src="/images/2010-06-arans/DSCF2208.JPG" width="200"
-     alt="Cadair Idris
-  from the summit of Aran Fawddwy"/></a></p>
-  <p>Cadair Idris
-  from the summit of Aran Fawddwy</p>
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Cadair Idris from the summit of Aran Fawddwy</b></p>@@*
+*@@html: <a href="/galleries/2010-06-arans/DSCF2208.JPG" class="rounded
+float-left" alt="Cadair Idris from the summit of Aran Fawddwy"><img src="/galleries/2010-06-arans/DSCF2208.JPG"></a>@@*
 
 I managed to find the road into Cwn Cywarch easily enough. The turn
 off from Abercywarch onto the minor road into the cwm is actually sign
@@ -57,14 +49,9 @@ a kilometre from the top a fence comes in from the right. The descent
 route follows this fence. Note that you cross a couple of other fence
 before you reach this one.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-06-arans/DSCF2193.JPG"
-  title="View of the Rhinogs" ><img src="/images/2010-06-arans/DSCF2193.JPG" width="200"
-     alt="View of the Rhinogs"/></a></p>
-  <p>View of the Rhinogs</p>
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>View of the Rhinogs</b></p>@@*
+*@@html: <a href="/galleries/2010-06-arans/DSCF2193.JPG" class="rounded
+float-left" alt="View of the Rhinogs"><img src="/galleries/2010-06-arans/DSCF2193.JPG"></a>@@*
 
 
 Finally you emerge on the summit plateau and the trig point is visible
@@ -85,15 +72,10 @@ retrospective views of Aran Fawddwy from the whole of this
 section. The wind had blown in the clouds from the west and the
 summit of Aran Fawddwy was intermittently disappearing.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-06-arans/DSCF2215.JPG"
-  title="Looking towards the memorial cairn" ><img src="/images/2010-06-arans/DSCF2215.JPG" width="200"
-     alt="Looking towards the memorial cairn"/></a></p>
-  <p>Looking towards the memorial cairn</p>
-</div>
-#+END_HTML
 
+*@@html: <p class="caption"><b>Looking towards the memorial cairn</b></p>@@*
+*@@html: <a href="/galleries/2010-06-arans/DSCF2215.JPG" class="rounded
+float-left" alt="Looking towards the memorial cairn"><img src="/galleries/2010-06-arans/DSCF2215.JPG"></a>@@*
 
 Once over the summit of Drysgol, I headed downhill towards the col at
 the base of Waun Goch. From the col there is an obvious path that
