@@ -28,8 +28,8 @@ reduce the time it takes to boil water on my stove and potentially
 save gas.
 
 *@@html: <p class="caption"><b>Alpkit BruPot test setup</b></p>@@*
-*@@html: <a href="/galleries/2014-10-Brukit/thumb.IMG_20141004_160215.jpg" class="rounded
-float-left" alt="Alpkit BruPot test setup"><img src="/galleries/2014-10-Brukit/thumb.IMG_20141004_160215.jpg"></a>@@*
+*@@html: <a href="/galleries/2014-10-Brukit/IMG_20141004_160215.jpg" class="rounded
+float-left" alt="Alpkit BruPot test setup"><img src="/galleries/2014-10-Brukit/IMG_20141004_160215.jpg"></a>@@*
 
 
 The Brupot was delivered with the typical rapid efficiency. I wanted
