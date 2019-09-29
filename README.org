@@ -106,7 +106,11 @@ Need to add content!
 
 ** TODO -rw-r--r--  1 ian ian  7030 Aug 23 10:14  2010-06-02-traverse-of-the-glyders-from-capel-curig-to-nant-peris.org
 
-** TODO -rw-r--r--  1 ian ian  2343 Aug 23 10:14  2010-06-08-bryn-tyrch-hotel.org
+** DONE -rw-r--r--  1 ian ian  2343 Aug 23 10:14  2010-06-08-bryn-tyrch-hotel.org
+   CLOSED: [2019-09-29 Sun 14:15]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-29 Sun 14:15]
+   :END:
 
 ** TODO -rw-r--r--  1 ian ian  2428 Aug 23 10:14  2010-06-22-montane-terra-pants.org
 
@@ -116,17 +120,41 @@ Need to add content!
 - State "DONE"       from "TODO"       [2019-09-02 Mon 17:06]
 :END:
 
-** TODO -rw-r--r--  1 ian ian  5250 Aug 23 10:15  2010-06-27-aran-fawddwy.org
+** DONE -rw-r--r--  1 ian ian  5250 Aug 23 10:15  2010-06-27-aran-fawddwy.org
+   CLOSED: [2019-09-27 Fri 18:30]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 18:30]
+   :END:
 
-** TODO -rw-r--r--  1 ian ian  4397 Aug 23 10:15  2010-06-27-aran-photos.org
+** DONE -rw-r--r--  1 ian ian  4397 Aug 23 10:15  2010-06-27-aran-photos.org
+   CLOSED: [2019-09-27 Fri 18:30]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 18:30]
+   :END:
 
-** TODO -rw-r--r--  1 ian ian  4060 Aug 23 10:15  2010-07-21-cir-v-via-ferrata.org
+** DONE -rw-r--r--  1 ian ian  4060 Aug 23 10:15  2010-07-21-cir-v-via-ferrata.org
+   CLOSED: [2019-09-29 Sun 14:52]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-29 Sun 14:52]
+   :END:
 
-** TODO -rw-r--r--  1 ian ian  3725 Aug 23 10:15  2010-07-21-dolomites-photos.org
+** DONE -rw-r--r--  1 ian ian  3725 Aug 23 10:15  2010-07-21-dolomites-photos.org
+   CLOSED: [2019-09-29 Sun 14:52]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-29 Sun 14:52]
+   :END:
 
-** TODO -rw-r--r--  1 ian ian  1719 Aug 23 10:15  2010-07-31-meindl-softline-ultra-boots.org
+** DONE -rw-r--r--  1 ian ian  1719 Aug 23 10:15  2010-07-31-meindl-softline-ultra-boots.org
+   CLOSED: [2019-09-27 Fri 18:31]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 18:31]
+   :END:
 
-** TODO -rw-r--r--  1 ian ian  2191 Aug 23 10:16  2010-08-01-llyn-brenig.org
+** DONE -rw-r--r--  1 ian ian  2191 Aug 23 10:16  2010-08-01-llyn-brenig.org
+   CLOSED: [2019-09-27 Fri 18:31]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 18:31]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian  1428 Aug 23 10:16  2010-08-04-erdigg-cycle-rides.org
    CLOSED: [2019-09-02 Mon 17:07]
@@ -172,11 +200,19 @@ Need to add content!
 
 ** TODO -rw-r--r--  1 ian ian  3202 Aug 23 10:18  2011-05-27-adventures-in-kvm-land.org
 
-** TODO -rw-r--r--  1 ian ian  2547 Aug 23 10:18  2011-08-07-inov8-roclite-295.org
+** DONE -rw-r--r--  1 ian ian  2547 Aug 23 10:18  2011-08-07-inov8-roclite-295.org
+   CLOSED: [2019-09-27 Fri 18:33]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 18:33]
+   :END:
 
 ** TODO -rw-r--r--  1 ian ian  9780 Aug 23 10:18  2011-08-14-zephyros-on-moel-siabod.org
 
-** TODO -rw-r--r--  1 ian ian  3265 Aug 23 10:18  2011-09-01-exped-synmat-ultralite.org
+** DONE -rw-r--r--  1 ian ian  3265 Aug 23 10:18  2011-09-01-exped-synmat-ultralite.org
+   CLOSED: [2019-09-27 Fri 18:34]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 18:34]
+   :END:
 
 ** TODO  -rw-r--r--  1 ian ian  9405 Aug 23 10:19  2011-09-05-carneddeau-summit-camp.org
 
@@ -190,7 +226,11 @@ Need to add content!
 
 ** TODO  -rw-r--r--  1 ian ian 10871 Aug 23 10:19  2012-04-13-a-trip-over-the-moelwyns.org
 
-** TODO  -rw-r--r--  1 ian ian  1148 Aug 23 10:20  2012-04-17-lake-vyrnwy.org
+** DONE -rw-r--r--  1 ian ian  1148 Aug 23 10:20  2012-04-17-lake-vyrnwy.org
+   CLOSED: [2019-09-27 Fri 18:34]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 18:34]
+   :END:
 
 ** TODO  -rw-r--r--  1 ian ian 11424 Aug 23 10:20  2012-04-22-moel-siabod-summit-camp.org
 
@@ -208,9 +248,17 @@ Need to add content!
 
 ** TODO  -rw-r--r--  1 ian ian  2779 Aug 23 10:21  2012-12-27-Connemara.org
 
-** TODO  -rw-r--r--  1 ian ian   405 Aug 23 10:21  2013-01-07-Rab-Vapour-Rise-Lite-Alpine-Jacket.org
+** DONE -rw-r--r--  1 ian ian   405 Aug 23 10:21  2013-01-07-Rab-Vapour-Rise-Lite-Alpine-Jacket.org
+   CLOSED: [2019-09-27 Fri 13:10]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 13:10]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  1987 Aug 23 10:21  2013-02-18-Fire-Steel-Disappears-Into-a-Pile-of-Dust.org
+** DONE -rw-r--r--  1 ian ian  1987 Aug 23 10:21  2013-02-18-Fire-Steel-Disappears-Into-a-Pile-of-Dust.org
+   CLOSED: [2019-09-27 Fri 13:11]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 13:11]
+   :END:
 
 ** TODO  -rw-r--r--  1 ian ian  4234 Aug 23 10:21  2013-02-18-Moel_Famau.org
 
@@ -244,13 +292,29 @@ Need to add content!
 - State "DONE"       from "TODO"       [2019-09-22 Sun 15:05]
 :END:
 
-** TODO  -rw-r--r--  1 ian ian 13982 Aug 23 10:23  2014-05-16-carneddau.org
+** DONE -rw-r--r--  1 ian ian 13982 Aug 23 10:23  2014-05-16-carneddau.org
+   CLOSED: [2019-09-27 Fri 13:09]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 13:09]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian 12956 Aug 23 10:23  2014-06-28-arenigs.org
+** DONE -rw-r--r--  1 ian ian 12956 Aug 23 10:23  2014-06-28-arenigs.org
+   CLOSED: [2019-09-27 Fri 13:09]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 13:09]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian 10402 Aug 23 10:23  2014-07-08-Glasgwm.org
+** DONE -rw-r--r--  1 ian ian 10402 Aug 23 10:23  2014-07-08-Glasgwm.org
+   CLOSED: [2019-09-27 Fri 13:09]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 13:09]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  6714 Aug 23 10:24  2014-07-16-crimpiau.org
+** DONE -rw-r--r--  1 ian ian  6714 Aug 23 10:24  2014-07-16-crimpiau.org
+   CLOSED: [2019-09-27 Fri 11:40]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 11:40]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian  7602 Aug 23 10:24  2014-08-23-C2C-Day-One.org
    CLOSED: [2019-09-24 Tue 15:00]
@@ -278,7 +342,11 @@ Need to add content!
 - State "DONE"       from "TODO"       [2019-09-22 Sun 15:06]
 :END:
 
-** TODO  -rw-r--r--  1 ian ian 10777 Aug 22 15:22  2014-09-14-2014-09-11-cwm-eigiau-backpack.org
+** DONE -rw-r--r--  1 ian ian 10777 Aug 22 15:22  2014-09-14-2014-09-11-cwm-eigiau-backpack.org
+   CLOSED: [2019-09-27 Fri 10:51]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 10:51]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian 11158 Aug 23 10:25  2014-10-01-Time-Lapse-Photography.org
    CLOSED: [2019-09-24 Tue 14:50]
@@ -286,7 +354,11 @@ Need to add content!
    - State "DONE"       from "TODO"       [2019-09-24 Tue 14:50]
    :END:
 
-** TODO  -rw-r--r--  1 ian ian  8251 Aug 23 10:25  2014-10-06-Alpkit BruPot.org
+** DONE -rw-r--r--  1 ian ian  8251 Aug 23 10:25  2014-10-06-Alpkit BruPot.org
+   CLOSED: [2019-09-27 Fri 13:09]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-27 Fri 13:09]
+   :END:
 
 ** TODO  -rw-r--r--  1 ian ian  3449 Aug 23 10:25  2015-03-02-decathlon-triban-500SE.org
 
