@@ -206,7 +206,11 @@ Need to add content!
    - State "DONE"       from "TODO"       [2019-09-27 Fri 18:33]
    :END:
 
-** TODO -rw-r--r--  1 ian ian  9780 Aug 23 10:18  2011-08-14-zephyros-on-moel-siabod.org
+** STARTED -rw-r--r--  1 ian ian  9780 Aug 23 10:18  2011-08-14-zephyros-on-moel-siabod.org
+   :LOGBOOK:
+   - Note taken on [2019-09-29 Sun 15:13] \\
+     Need to fix url reference to remote page.
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian  3265 Aug 23 10:18  2011-09-01-exped-synmat-ultralite.org
    CLOSED: [2019-09-27 Fri 18:34]

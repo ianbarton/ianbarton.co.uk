@@ -1,0 +1,10 @@
+#+BEGIN_COMMENT
+.. title: README and List of Pages to Update.
+.. slug: 2019-09-26-readme-fixes
+.. date: 2019-09-26 17:58:37 UTC
+.. tags: mountaineering, tripreport
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
