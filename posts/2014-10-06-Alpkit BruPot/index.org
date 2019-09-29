@@ -9,15 +9,11 @@
 .. type: text
 #+END_COMMENT
 
-#+BEGIN_HTML
-<!-- PELICAN_BEGIN_SUMMARY -->
 I prefer gas for cooking and my stove of choice is the Primus
 Gravity. This is a remote canister stove, with a pre-heater, which
 makes it suitable for use in colder weather. Almost all my camping
 cooking is just a matter of boiling water to make a hot drink, or
 prepare a freeze dried meal.
-<!-- PELICAN_END_SUMMARY -->
-#+END_HTML
 
 
 I have looked at Jetboil stoves, but decided that they weren't for me
@@ -30,13 +26,11 @@ gas stove. However, [[https://www.alpkit.com/products/brupot][Alpkit]] have now 
 heat exchanger. I decided to buy one with the hope that it would
 reduce the time it takes to boil water on my stove and potentially
 save gas.
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Alpkit BruPot test setup." href="/images/2014-10-Brukit/IMG_20141004_160215.jpg"><img
- width="200" alt="Alpkit BruPot test setup." title="Alpkit BruPot test setup." src="/images/2014-10-Brukit/thumb.IMG_20141004_160215.jpg" /></a>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Alpkit BruPot test setup</b></p>@@*
+*@@html: <a href="/galleries/2014-10-Brukit/IMG_20141004_160215.jpg" class="rounded
+float-left" alt="Alpkit BruPot test setup"><img src="/galleries/2014-10-Brukit/IMG_20141004_160215.jpg"></a>@@*
+
 
 The Brupot was delivered with the typical rapid efficiency. I wanted
 to compare it to my MSR stainless steel kettle, which is my usual

@@ -14,6 +14,10 @@
  width="200" alt="Craig Cywarch." title="Craig Cywarch." src="/images/2013-06-03_arans/thumb.IMG_7219.JPG" /></a>
 </div>
 
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
+
 Finally a period of sunny weather. I had wanted to get out for an
 overnight trip, but the weather had put paid to any trips so far this
 year. After dropping the children off at the school bus I set off for
@@ -28,6 +32,10 @@ circuit for a settled period of fine weather.
 <!-- PELICAN_END_SUMMARY -->
 #+END_HTML
 
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
+
 The plan was to park in Cwm Cowarch, then walk up Hengwm and over the
 summit of Aran Fawddwy followed by a crossing of the boggy along the
 boardwalks and then a final pull up Glasgwm, where I would camp next
@@ -40,6 +48,10 @@ back to the path leading down into Cwm Cwyarch and so back to the car park.
 
 </div>
 #+END_HTML
+
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
 
 I packed my rucksack and emptied a bottle of flavoured water into one
 of my Platypus bottles. I set off from the car park shortly after
@@ -57,6 +69,10 @@ able to get more water higher up.
 
 </div>
 #+END_HTML
+
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
 
 Walking up Hengwm I was in the shade, which made for pleasant walking
 as it was very hot in the sun. On the far side of the valley I had a
@@ -77,6 +93,10 @@ Voyager Superlite last year for the first time in pouring rain.
 
 </div>
 #+END_HTML
+
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
 
 After a short rest, I continued up towards the summit of Aran
 Fawddwy. On the way I crossed a ladder style and noticed a small
@@ -100,6 +120,9 @@ my ascent of Glasgwm. This turned out to be a bad decision!
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
 
 
 When I had finished lunch I started to make my way back down the
@@ -147,6 +170,10 @@ for a few minutes and rest.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
+
 There was plenty of daylight left, so once I had eaten tea I set off
 around the summit to explore. Although it had been a warm day, there
 was very little haze. There was just enough breeze to keep the
@@ -162,6 +189,10 @@ summit cairn and watched the sun drop below the horizon.
 
 </div>
 #+END_HTML
+
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
 
 Crawling back into the tent, I fell asleep almost immediately. When I
 woke up it was light. Glancing at my watch it was shortly after
@@ -189,6 +220,11 @@ quarter of a mile.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
+
+
 It had been a memorable trip. Perfect weather, a perfect wild camping
 spot and almost deserted mountains.
 
@@ -208,3 +244,7 @@ Ridge of Aran Benllyn." src="/images/2013-06-03_arans/thumb.IMG_7219.JPG" /></a>
 
 </div>
 #+END_HTML
+
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*

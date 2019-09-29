@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ian's Blog.</title><link>https://ianbarton.co.uk/</link><description>Ian's Blog.</description><atom:link href="https://ianbarton.co.uk/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:ian@ianbarton.co.uk"&gt;Ian Barton.&lt;/a&gt; </copyright><lastBuildDate>Tue, 24 Sep 2019 12:47:05 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Blog Makeover.</title><link>https://ianbarton.co.uk/posts/2019-08-26-blogmakeover/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ian's Blog.</title><link>https://ianbarton.co.uk/</link><description>Ian's Blog.</description><atom:link href="https://ianbarton.co.uk/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:ian@ianbarton.co.uk"&gt;Ian Barton.&lt;/a&gt; </copyright><lastBuildDate>Sun, 29 Sep 2019 14:12:19 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>README and List of Pages to Update.</title><link>https://ianbarton.co.uk/posts/2019-09-26-readme-fixes/</link><dc:creator>Ian Barton.</dc:creator><description></description><category>mountaineering</category><category>tripreport</category><guid>https://ianbarton.co.uk/posts/2019-09-26-readme-fixes/</guid><pubDate>Thu, 26 Sep 2019 17:58:37 GMT</pubDate></item><item><title>Blog Makeover.</title><link>https://ianbarton.co.uk/posts/2019-08-26-blogmakeover/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
 My blog has languished for a few years. There are a number of reasons: time
 pressure, laziness and a few problems with Pelican. I have decided to use
 Nikola and my static site generator. I have converted the text in all the old
@@ -352,18 +352,13 @@ So what's the final verdict. Overall I am happy with the Triban. I
 enjoy riding it and I don't worry too much it getting plastered in
 muck and grit. For the price it's a good buy, but don't expect the
 drive chain to be as durable as a more expensive bike.
-&lt;/p&gt;</description><category>cycling</category><category>review</category><guid>https://ianbarton.co.uk/posts/2015-03-02-decathlon-triban-500SE/</guid><pubDate>Mon, 02 Mar 2015 17:59:07 GMT</pubDate></item><item><title>Alpkit Brupot</title><link>https://ianbarton.co.uk/posts/2014-10-06-Alpkit%20BruPot/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;!– PELICAN&lt;sub&gt;BEGIN&lt;/sub&gt;&lt;sub&gt;SUMMARY&lt;/sub&gt; –&amp;gt;
+&lt;/p&gt;</description><category>cycling</category><category>review</category><guid>https://ianbarton.co.uk/posts/2015-03-02-decathlon-triban-500SE/</guid><pubDate>Mon, 02 Mar 2015 17:59:07 GMT</pubDate></item><item><title>Alpkit Brupot</title><link>https://ianbarton.co.uk/posts/2014-10-06-Alpkit%20BruPot/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
 I prefer gas for cooking and my stove of choice is the Primus
 Gravity. This is a remote canister stove, with a pre-heater, which
 makes it suitable for use in colder weather. Almost all my camping
 cooking is just a matter of boiling water to make a hot drink, or
 prepare a freeze dried meal.
-&amp;lt;!– PELICAN&lt;sub&gt;END&lt;/sub&gt;&lt;sub&gt;SUMMARY&lt;/sub&gt; –&amp;gt;
 &lt;/p&gt;
-
-&lt;/div&gt;
 
 
 &lt;p&gt;
@@ -378,18 +373,13 @@ heat exchanger. I decided to buy one with the hope that it would
 reduce the time it takes to boil water on my stove and potentially
 save gas.
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Alpkit BruPot test setup." href="/images/2014-10-Brukit/IMG&lt;sub&gt;20141004&lt;/sub&gt;&lt;sub&gt;160215.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Alpkit BruPot test setup." title="Alpkit BruPot test setup." src="/images/2014-10-Brukit/thumb.IMG&lt;sub&gt;20141004&lt;/sub&gt;&lt;sub&gt;160215.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Alpkit BruPot test setup&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2014-10-Brukit/IMG_20141004_160215.jpg" class="rounded
+float-left" alt="Alpkit BruPot test setup"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2014-10-Brukit/IMG_20141004_160215.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
+
 
 &lt;p&gt;
 The Brupot was delivered with the typical rapid efficiency. I wanted
@@ -457,9 +447,9 @@ The Alpkit Brupot weighs 266g, including the bag and my MSR kettle
 weighs 254g.
 &lt;/p&gt;
 
-&lt;div id="outline-container-orgf5edf0d" class="outline-3"&gt;
-&lt;h3 id="orgf5edf0d"&gt;&lt;span class="timestamp-wrapper"&gt;&lt;span class="timestamp"&gt;[2014-10-07 Tue] &lt;/span&gt;&lt;/span&gt; Update.&lt;/h3&gt;
-&lt;div class="outline-text-3" id="text-orgf5edf0d"&gt;
+&lt;div id="outline-container-org21686ba" class="outline-3"&gt;
+&lt;h3 id="org21686ba"&gt;&lt;span class="timestamp-wrapper"&gt;&lt;span class="timestamp"&gt;[2014-10-07 Tue] &lt;/span&gt;&lt;/span&gt; Update.&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-org21686ba"&gt;
 &lt;p&gt;
 It was pointed out to me that I really should also be measuring the
 weight of gas used. In my original experiment I didn't weight the gas
@@ -500,9 +490,9 @@ consumed is.
 &lt;/div&gt;
 
 
-&lt;div id="outline-container-orgda3cdd5" class="outline-4"&gt;
-&lt;h4 id="orgda3cdd5"&gt;Gas Cylinder Removed Before Weighing.&lt;/h4&gt;
-&lt;div class="outline-text-4" id="text-orgda3cdd5"&gt;
+&lt;div id="outline-container-org4cf28a9" class="outline-4"&gt;
+&lt;h4 id="org4cf28a9"&gt;Gas Cylinder Removed Before Weighing.&lt;/h4&gt;
+&lt;div class="outline-text-4" id="text-org4cf28a9"&gt;
 &lt;table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border"&gt;
 &lt;caption class="t-above"&gt;&lt;span class="table-number"&gt;Table 1:&lt;/span&gt; Alpkit BruPot.&lt;/caption&gt;
 
@@ -579,9 +569,9 @@ consumed is.
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org40b15b7" class="outline-4"&gt;
-&lt;h4 id="org40b15b7"&gt;Gas Cylinder Weighed Without Removing From Flexible Pipe.&lt;/h4&gt;
-&lt;div class="outline-text-4" id="text-org40b15b7"&gt;
+&lt;div id="outline-container-org00a903a" class="outline-4"&gt;
+&lt;h4 id="org00a903a"&gt;Gas Cylinder Weighed Without Removing From Flexible Pipe.&lt;/h4&gt;
+&lt;div class="outline-text-4" id="text-org00a903a"&gt;
 &lt;table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border"&gt;
 &lt;caption class="t-above"&gt;&lt;span class="table-number"&gt;Table 3:&lt;/span&gt; First Run.&lt;/caption&gt;
 
@@ -669,9 +659,9 @@ consumed is.
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org3e80423" class="outline-2"&gt;
-&lt;h2 id="org3e80423"&gt;Conclusions.&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org3e80423"&gt;
+&lt;div id="outline-container-org88b0770" class="outline-2"&gt;
+&lt;h2 id="org88b0770"&gt;Conclusions.&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org88b0770"&gt;
 &lt;p&gt;
 The difference in performance between the BruPot and the MSR kettle
 are quite small and probably have little effect in real world use. The
@@ -1024,9 +1014,9 @@ short and only intended to show you the sort of effects you can achieve:
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=mleropQkFTk"&gt;Dawn to dusk&lt;/a&gt; time lapse taken using a Raspberry Pi.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><category>photography</category><guid>https://ianbarton.co.uk/posts/2014-10-01-Time-Lapse-Photography/</guid><pubDate>Wed, 01 Oct 2014 17:58:46 GMT</pubDate></item><item><title>Cwm Eigiau Backpack</title><link>https://ianbarton.co.uk/posts/2014-09-11-cwm-eigiau-backpack/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;div id="outline-container-org228bba4" class="outline-2"&gt;
-&lt;h2 id="org228bba4"&gt;Day One Llyn Eigiau to Carnedd Llewelyn .&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org228bba4"&gt;
+&lt;/div&gt;</description><category>photography</category><guid>https://ianbarton.co.uk/posts/2014-10-01-Time-Lapse-Photography/</guid><pubDate>Wed, 01 Oct 2014 17:58:46 GMT</pubDate></item><item><title>Cwm Eigiau Backpack</title><link>https://ianbarton.co.uk/posts/2014-09-11-cwm-eigiau-backpack/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;div id="outline-container-org4591668" class="outline-2"&gt;
+&lt;h2 id="org4591668"&gt;Day One Llyn Eigiau to Carnedd Llewelyn .&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org4591668"&gt;
 &lt;p&gt;
 The summer weather looked set to continue for at least a few more
 days, so I decided to have another go at the walk that I had done in
@@ -1037,18 +1027,12 @@ Du and Craig yr Ysfa to a camp site a couple of hundred feet below the
 summit of Carnedd Llewelyn.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="A hazy Carnedd Llewelyn  from Pen Llithrig yr Wrach." href="/images/2014-09-carned/IMG&lt;sub&gt;8813.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="A hazy Carnedd Llewelyn  from Pen Llithrig yr Wrach." title="A hazy Carnedd Llewelyn  from Pen Llithrig yr Wrach." src="/images/2014-09-carned/thumb.IMG&lt;sub&gt;8813.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;A hazy Carnedd Llewelyn  from Pen Llithrig yr Wrach&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2014-09-carned/IMG_8813.JPG" class="rounded
+float-left" alt="A hazy Carnedd Llewelyn  from Pen Llithrig yr Wrach"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2014-09-carned/IMG_8813.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 I didn't leave home until mid-morning. When I arrived at the start of
@@ -1068,18 +1052,12 @@ I realized that I hadn't turned the GPS on! I seldom use the GPS for
 navigation, but like to keep a record of my track.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
 &lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Mist over Tryfan and the Glyders." href="/images/2014-09-carned/IMG&lt;sub&gt;8817.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Mist over Tryfan and the Glyders." title="Mist over Tryfan and the Glyders." src="/images/2014-09-carned/thumb.IMG&lt;sub&gt;8817.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Mist over Tryfan and the Glyders&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2014-09-carned/IMG_8817.JPG" class="rounded
+float-left" alt="Mist over Tryfan and the Glyders"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2014-09-carned/IMG_8817.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 I filled my 2 litre and 1 litre Platypus water bottles from the
@@ -1115,18 +1093,14 @@ heard a Chough calling. I said that had seen several Grouse lower
 down. Apparently Grouse numbers have dropped considerably since the
 1970's when the moors were managed.
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Craig yr Ysfa and Pen yr Helgi Du at sunset." href="/images/2014-09-carned/IMG&lt;sub&gt;8818.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Craig yr Ysfa and Pen yr Helgi Du at sunset." title="Craig yr Ysfa and Pen yr Helgi Du at sunset." src="/images/2014-09-carned/thumb.IMG&lt;sub&gt;8818.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
+
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Craig yr Ysfa and Pen yr Helgi Du at sunset&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2014-09-carned/IMG_8818.JPG" class="rounded
+float-left" alt="Craig yr Ysfa and Pen yr Helgi Du at sunset"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2014-09-carned/IMG_8818.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
+
 
 &lt;p&gt;
 I dropped down to the col between Pen Llithrig yr Wrach and Pen yr
@@ -1162,14 +1136,6 @@ a couple of times in the past:
 &lt;/p&gt;
 
 
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-[2011 photos]({filename}./2011-09-05-carneddeau-summit-camp.md)
-&lt;/p&gt;
-
-&lt;/div&gt;
-
-
 &lt;p&gt;
  The site is quite sheltered and there
 are several piles of rock nearby, which are useful tables. It's quite
@@ -1201,18 +1167,12 @@ found a good spot I set the GoPro up facing over Cwm Eigiau and then
 retired to bed.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
 &lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Carnedd Llewelyn campsite at sunset." href="/images/2014-09-carned/IMG&lt;sub&gt;8836.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Carnedd Llewelyn campsite at sunset." title="Carnedd Llewelyn campsite at sunset." src="/images/2014-09-carned/thumb.IMG&lt;sub&gt;8836.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Carnedd Llewelyn campsite at sunset&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2014-09-carned/IMG_8836.JPG" class="rounded
+float-left" alt="Carnedd Llewelyn campsite at sunset"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2014-09-carned/IMG_8836.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 The GoPro is in a weather proof case, so if it rained it didn't
@@ -1225,9 +1185,9 @@ condensation on the lens which spoils your photos.
 &lt;/div&gt;
 
 
-&lt;div id="outline-container-org99ab39d" class="outline-2"&gt;
-&lt;h2 id="org99ab39d"&gt;Day Two - Return Via Gledrffordd.&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org99ab39d"&gt;
+&lt;div id="outline-container-org7ca03fa" class="outline-2"&gt;
+&lt;h2 id="org7ca03fa"&gt;Day Two - Return Via Gledrffordd.&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org7ca03fa"&gt;
 &lt;p&gt;
 The battery life of a GoPro in time lapse mode is around two hours. It
 was quite cold at 3000 feet, so I expected the battery life to be
@@ -1242,14 +1202,8 @@ clear of mist. However, by about 7:00am mist had drifted over from the
 west and all the views were obscured.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;iframe width="420" height="315"
-src="//www.youtube.com/embed/Gsb9mcleTiQ" frameborder="0"
-allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
-&lt;/p&gt;
+&lt;iframe width="" height="" src="https://www.youtube.com/embed/Gsb9mcleTiQ?rel=0&amp;amp;hd=1&amp;amp;wmode=transparent"&gt;&lt;/iframe&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 I packed away and began the trudge up towards the summit of Carnedd
@@ -1263,18 +1217,12 @@ but the mist was coming and going over the summit. I didn't want to
 walk all the way up to the summit only to find the view obscured by the mist.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
 &lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Tent at dawn. Mist rolling in." href="/images/2014-09-carned/IMG&lt;sub&gt;8850.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Tent at dawn. Mist rolling in." title="Tent at dawn. Mist rolling in." src="/images/2014-09-carned/thumb.IMG&lt;sub&gt;8850.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Tent at dawn. Mist rolling in.&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2014-09-carned/IMG_8850.JPG" class="rounded
+float-left" alt="Tent at dawn. Mist rolling in."&gt;&lt;img src="https://ianbarton.co.uk/galleries/2014-09-carned/IMG_8850.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 The descent was straightforward and this time I didn't make the
@@ -1764,89 +1712,4 @@ a separate residents lounge and kitchen.
 After a short rest, we wandered down into the village to join the
 others at the pub. We had an enjoyable meal and a few drinks before
 wandering back up the road to our beds.
-&lt;/p&gt;</description><category>cycling</category><guid>https://ianbarton.co.uk/posts/2014-08-23-C2C-Day-Two/</guid><pubDate>Sat, 23 Aug 2014 17:58:18 GMT</pubDate></item><item><title>C2c Day Three</title><link>https://ianbarton.co.uk/posts/2014-08-23-C2C-Day-Three/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Sculpture on the outskirts of Consett&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2014-08-C2C/IMG_20140814_11312.jpg" class="rounded
-float-left" alt="Sculpture on the outskirts of Consett"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2014-08-C2C/IMG_20140814_11312.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
-
-
-&lt;p&gt;
-When I got up in the morning, I felt slightly sick and couldn't eat
-much of the excellent breakfast. Luckily I recovered after a couple of
-hours on the bike, but was a bit worried about how the day might go.
-I wanted to get to Newcastle as early as possible, so I would be able
-to get back to Whitehaven in time to drive home. I was also worried
-about not being able to get my bike on the train.
-&lt;/p&gt;
-
-&lt;p&gt;
-Almost as soon as I left the village there was a steep hill. This lead
-through a series of tight bends and was hemmed in by forestry. Just
-what you don't need first thing when not feeling too well! However, I
-made it to the top, where a van was disgorging the beaters for the
-days grouse shooting. The following downhill section to Rookhope was
-the most enjoyable descent of the whole trip. It's just the right
-gradient to coast, with the occasional boost from the pedals.
-&lt;/p&gt;
-
-&lt;p&gt;
-In Rookhope I ignored the off road section and continued on along the
-road to Stanhope. The climb out of Stanhope was without question the
-toughest of the whole C2C.  Overall the hill wasn't too bad, but there
-are two sections of 1 in 3 or 1 in 4 near the start. I managed the
-first section, but gave up and walked on the second one. Eventually
-the road reaches the start of the Waskerley Way. I wasn't sure about
-doing this on a road bike, although my son took this route and said it
-was fine. I needed to do even more climbing before I reached a small B
-road that descended parallel to the Waskerley Way. This was a great
-descent, most of it just coasting along. At the end there was a bit of
-ascent to rejoin the Waskerley Way.
-&lt;/p&gt;
-
-&lt;p&gt;
-On the outskirts on Consett I stopped for a breather and the others
-caught me up. We cycled past the old smelt wagon at Widgetts Junction
-and missed out turn off to Newcastle. Luckily a local cyclist helped
-us out with directions and we were soon back on the right route. Most
-of the rest of the route follows an old railway with a good surface. I
-just wanted to get to the end, so just put my head down and pushed
-on. Finally I emerged next to the river and got a bit confused when I
-seemed to be cycling the wrong way. However, it turned out OK as I
-needed to reach the A695 road bridge to cross the river. From here the
-C2C shares the route with the Hadrians Way cycle path.
-&lt;/p&gt;
-
-&lt;p&gt;
-I could seen some rain blowing up the river towards me and about two
-miles from the end I was engulfed in a downpour. There was no point in
-stopping to get out waterproofs, as I was soaked in a few seconds. I
-ploughed on, stopping only to ask someone in a bus shelter how to get
-to the station. His directions were spot on, but finding the entrance
-was problematic. I met up with my brother in law, who was having the
-same problem! Eventually, we got into the station where a very helpful
-member of staff told us that there was a train to Carlisle leaving in
-about 10 minutes. We raced onto the platform, where we discovered that
-this train had space for six bikes and all the slots were empty, so we
-had at least got our bikes onto this train OK.
-&lt;/p&gt;
-
-&lt;p&gt;
-Once I sat down I started to feel very cold. I had no spare clothes,
-so just dripped and shivered all the way to Carlisle. There was a
-train to Whitehaven ready to depart. This train does only have two
-bike spaces, but the guard was fine about me just sitting and holding
-onto my bike. Finally I was back in Whitehaven in the early
-afternoon. I went to Tescos for a hot drink and some food before
-cycling back to &lt;a href="http://www.chestnuts-whitehaven.com"&gt;Chestnuts&lt;/a&gt; to pick up the car. I had a brief chat with
-the owners before setting off back home. Unfortunately, junction 16 on
-the M6 was closed at night for repairs. I could have come off at an
-earlier junction, but there were no signs before junction 16
-indicating that it was closed! This added an unnecessary extra 30
-miles to my journey.
-&lt;/p&gt;
-
-&lt;p&gt;
-I spite of the drenching and extra unnecessary 30 miles driving home,
-I had enjoyed the last day. I would like to do the route again, but
-next time I'll try and do in two days.
-&lt;/p&gt;</description><category>cycling</category><guid>https://ianbarton.co.uk/posts/2014-08-23-C2C-Day-Three/</guid><pubDate>Sat, 23 Aug 2014 17:58:10 GMT</pubDate></item></channel></rss>
+&lt;/p&gt;</description><category>cycling</category><guid>https://ianbarton.co.uk/posts/2014-08-23-C2C-Day-Two/</guid><pubDate>Sat, 23 Aug 2014 17:58:18 GMT</pubDate></item></channel></rss>

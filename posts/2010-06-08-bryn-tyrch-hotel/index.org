@@ -25,13 +25,9 @@ the standard and choice of food has been greatly improved. There are
 still the old photographs, taken by the guidebook author [[http://en.wikipedia.org/wiki/W._A._Poucher][WA Poucher]],
 who use to stay here.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <a href="/images/2010-06-glyders/DSCF2162.JPG" rel="lightbox"
-    title="Bryn Tyrch."> <img src="/images/2010-06-glyders/DSCF2162.JPG" width="200"
-         alt="Bryn Tyrch."></a>
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Bryn Tyrch</b></p>@@*
+*@@html: <a href="/galleries/2010-06-glyders/DSCF2162.JPG" class="rounded
+float-left" alt="Bryn Tyrch"><img src="/galleries/2010-06-glyders/DSCF2162.JPG"></a>@@*
 
 
 We have three children and now that they are getting older, we tend

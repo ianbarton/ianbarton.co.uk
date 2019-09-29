@@ -1,0 +1,16 @@
+#+BEGIN_COMMENT
+.. title: About
+.. slug: about
+.. date: 2019-03-10 12:43:34 UTC
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
+This site is built using the [[http:getnikola.com][Nikola]] static site generator. The site is hosted
+on [[https://github.com/ianbarton/ianbarton.co.uk][Github]] and all the source code and assets for the whole site are available
+there. All the posts and pages are written using [[http://org-mode.org][Emacs org-mode]].
+
+You can see a list of all the pages and other issues that need to be fixed
+while the site is being ported from Pelican to Nikola at [[https://github.com/ianbarton/ianbarton.co.uk][Github]].

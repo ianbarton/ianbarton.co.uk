@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://ianbarton.co.uk/categories/alps.xml</loc>
-  <lastmod>2019-09-24T12:44:00Z</lastmod>
+  <lastmod>2019-09-29T13:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.co.uk/categories/book.xml</loc>
@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.co.uk/categories/cat_blog.xml</loc>
-  <lastmod>2019-09-24T12:44:00Z</lastmod>
+  <lastmod>2019-09-24T12:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.co.uk/categories/cat_mountaineering-winterclimbing.xml</loc>
@@ -27,7 +27,7 @@
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.co.uk/categories/mountaineering.xml</loc>
-  <lastmod>2019-09-24T12:44:00Z</lastmod>
+  <lastmod>2019-09-29T13:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.co.uk/categories/photography.xml</loc>
@@ -35,11 +35,11 @@
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.co.uk/categories/photos.xml</loc>
-  <lastmod>2019-09-24T12:44:00Z</lastmod>
+  <lastmod>2019-09-29T13:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.co.uk/categories/review.xml</loc>
-  <lastmod>2019-09-24T12:44:00Z</lastmod>
+  <lastmod>2019-09-29T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.co.uk/categories/trip-report.xml</loc>
@@ -47,7 +47,7 @@
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.co.uk/categories/tripreport.xml</loc>
-  <lastmod>2019-09-24T12:44:00Z</lastmod>
+  <lastmod>2019-09-27T16:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.co.uk/categories/walks.xml</loc>
@@ -211,10 +211,10 @@
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.co.uk/rss.xml</loc>
-  <lastmod>2019-09-24T12:44:00Z</lastmod>
+  <lastmod>2019-09-29T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ianbarton.co.uk/sitemap.xml</loc>
-  <lastmod>2019-09-24T12:44:00Z</lastmod>
+  <lastmod>2019-09-29T14:12:00Z</lastmod>
  </sitemap>
 </sitemapindex>

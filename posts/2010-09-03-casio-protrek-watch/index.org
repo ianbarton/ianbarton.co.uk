@@ -14,14 +14,9 @@ quite a lot of research and it came down to a choice between the Casio
 Protrek and a Suunto Core. There is a good comparison on Youtube
 between the Suunto and a Casio Pathfinder [[http://www.youtube.com/watch?v%3DHLMO-9DCM8k][here]] .
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/casio_protrek.jpg"  title="Casio Protrek."> <img src="/images/casio_protrek.jpg" width="200"
-     alt="Casio Protrek."></a></p>
-  <p>Casio Protrek.</p>
-
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Casio Protrek</b></p>@@*
+*@@html: <a href="/galleries/casio_protrek.jpg" class="rounded
+float-left" alt="Casio Protrek"><img src="/galleries/casio_protrek.jpg"></a>@@*
 
 The Suunto has more functions, but costs considerably more (around
 £170) than the Casio (around £90). The question was would I actually

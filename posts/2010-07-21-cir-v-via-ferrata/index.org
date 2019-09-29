@@ -14,22 +14,16 @@ climb a Via Ferrata. Two of of the children wanted to come with me, so
 I wanted to choose a route that was hard enough to be interesting,
 easily accessible and not too long.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a href="/images/dolomites/DSCF0191.JPG" rel="lightbox"
-  title="Cir V."> <img src="/images/dolomites/DSCF0191.JPG" width="300"
-     alt="Cir V"></a></p>
-  <p>Cir V. Aproximate line of route marked.</p>
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Cir V. Aproximate line of route marked</b></p>@@*
+*@@html: <a href="/galleries/dolomites/DSCF0191.JPG" class="rounded
+float-left" alt="Cir V. Aproximate line of route marked"><img src="/galleries/dolomites/DSCF0191.JPG"></a>@@*
 
 We were staying in Selva and after extensive research (OK, so I
 noticed the route from the cable car station), we decided on the Cir
 V. The start of the route was only about half an hour's walk from the
 Dantercepies telepherique. According to the Cicerone Guide the route
 was grade 2 and the descent was straightforward. You can see more
-photographs of the route [[file:dolomites_photos.org][here]] .
+photographs of the route [[file:../2010-07-21-dolomites-photos/index.html][here]]
 
 
 I had brought a rope, harnesses and a minimal climbing rack, but we
@@ -40,15 +34,9 @@ climb involves a short walk from the telepherique station, followed by
 a plod up the gully. At the top of the gully a short iron ladder marks
 the start of the route.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-  <p><a href="/images/dolomites/DSCF0211.JPG" rel="lightbox"
-  title="Cir V."> <img src="/images/dolomites/DSCF0211.JPG" width="300"
-     alt="Cir V"></a></p>
-  <p>Ella on Cir V Via Ferrata.</p>
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Ella on Cir V Via Ferrata</b></p>@@*
+*@@html: <a href="/galleries/dolomites/DSCF0211.JPG" class="rounded
+float-left" alt="Ella on Cir V Via Ferrata"><img src="/galleries/dolomites/DSCF0211.JPG"></a>@@*
 
 I wasn't sure what to expect, so had brought along a 50 metre
 rope. However, we didn't need to use it and it stayed in the bottom of
