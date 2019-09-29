@@ -30,16 +30,9 @@ material and there is a small peak, which can be fastened out of the
 way using a press stud.
 
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/Lowe_Alpine_Cap.jpg"  title="Lowe
-  Alpine Cap."> <img src="/images/Lowe_Alpine_Cap.jpg" width="200"
-     alt="Lowe Alpine Cap."></a></p>
-  <p>Lowe Alpine Cap.</p>
-
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Lowe Alpine Cap</b></p>@@*
+*@@html: <a href="/galleries/Lowe_Alpine_Cap.jpg" class="rounded
+float-left" alt="Lowe Alpine Cap"><img src="/galleries/Lowe_Alpine_Cap.jpg"></a>@@*
 
 Likes:
 
@@ -51,7 +44,7 @@ Likes:
 Dislikes:
 
 - Too warm for much of the year.
-- There are loops for a chip strap, but to strap is provided (unlike
+- There are loops for a chip strap, but no strap is provided (unlike
   the Paramo).
 - Peak could be a bit larger.
 
@@ -63,15 +56,10 @@ surprising that they chose to copy such and excellent design. I got
 mine as part of a [[http://www.tgomagazine.co.uk][TGO]] subscription offer. The outer is Goretex Paclite
 and the inner is a fleecy material similar to the Lowe.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/Trekmates_Ice_Cap.jpg"
-  title="Trekmates Ice Cap."> <img src="/images/Trekmates_Ice_Cap.jpg" width="200"
-     alt="Trekmates Ice Cap."></a></p>
-  <p>Trekmates Ice Cap.</p>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Trekmates Ice Cap</b></p>@@*
+*@@html: <a href="/galleries/Trekmates_Ice_Cap.jpg" class="rounded
+float-left" alt="Trekmates Ice Cap"><img src="/galleries/Trekmates_Ice_Cap.jpg"></a>@@*
 
 Overall the cap is lighter than the Lowe and as such I may be able to
 wear it outside the winter months.
@@ -91,16 +79,10 @@ Dislikes:
 The Paramo is made from Paramo's own fabric. It's available in a range
 of sizes and is waterproof if treated with Nickwax TX.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/paramo_cap.jpg"
-  title="Paramo Cap."> <img src="/images/paramo_cap.jpg" width="200"
-     alt="Paramo Cap."></a></p>
-  <p>Paramo Cap.</p>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Paramo Cap</b></p>@@*
+*@@html: <a href="/galleries/paramo_cap.jpg" class="rounded
+float-left" alt="Paramo Cap"><img src="/galleries/paramo_cap.jpg"></a>@@*
 
 Likes:
 
