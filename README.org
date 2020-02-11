@@ -288,7 +288,11 @@ Need to add content!
    - State "DONE"       from "TODO"       [2020-02-11 Tue 13:02]
    :END:
 
-** TODO  -rw-r--r--  1 ian ian  1808 Aug 23 10:22  2013-09-22-Tour-of-Britain.org
+** DONE -rw-r--r--  1 ian ian  1808 Aug 23 10:22  2013-09-22-Tour-of-Britain.org
+   CLOSED: [2020-02-11 Tue 13:07]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-11 Tue 13:07]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian   834 Aug 23 10:23  2014-01-01-Happy_New_Year.org
    CLOSED: [2019-09-22 Sun 15:04]
