@@ -228,7 +228,11 @@ Need to add content!
 
 ** TODO  -rw-r--r--  1 ian ian 12544 Aug 23 10:19  2012-03-05-carneddau-overnighter.org
 
-** TODO  -rw-r--r--  1 ian ian 10871 Aug 23 10:19  2012-04-13-a-trip-over-the-moelwyns.org
+** DONE -rw-r--r--  1 ian ian 10871 Aug 23 10:19  2012-04-13-a-trip-over-the-moelwyns.org
+   CLOSED: [2020-02-11 Tue 14:05]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-11 Tue 14:05]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian  1148 Aug 23 10:20  2012-04-17-lake-vyrnwy.org
    CLOSED: [2019-09-27 Fri 18:34]
