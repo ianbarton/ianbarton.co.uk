@@ -18,13 +18,10 @@ I did some research on the various cases available and came to the
 conclusion, that although it was expensive, the Ortlieb case was
 probably the best option. I bought mine from [[http://www.facewest.co.uk/Ortlieb-Map-Case.html][Facewest]].
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/Ortlieb_Map_Case.jpg"
-    title="Ortlieb Map Case."> <img src="/images/Ortlieb_Map_Case.jpg" width="200"
-         alt="Ortlieb Map Case."></a>
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Ortlieb Map Case</b></p>@@*
+*@@html: <a href="/galleries/Ortlieb_Map_Case.jpg" class="rounded
+float-left" alt="Ortlieb Map Case"><img src="/galleries/Ortlieb_Map_Case.jpg"></a>@@*
+
 
 When I unpacked the case I noticed how soft and flexible the material
 felt. Several of the reviews I had read said how the case could easily

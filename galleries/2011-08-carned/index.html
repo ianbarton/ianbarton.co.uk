@@ -58,6 +58,7 @@
         <!--Body content-->
         
         
+        
     
 <nav class="breadcrumbs"><ul class="breadcrumb">
 <li class="breadcrumb-item"><a href="../">galleries</a></li>
@@ -157,7 +158,8 @@
 </div>
 
         <footer id="footer">
-            Contents © 2019         <a href="mailto:ian@ianbarton.co.uk">Ian Barton.</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2020         <a href="mailto:ian@ianbarton.co.uk">Ian Barton.</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
             
         </footer>
 </div>
@@ -168,7 +170,7 @@
 var jsonContent = [{"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF1860.JPG", "url_thumb": "DSCF1860.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF1839.JPG", "url_thumb": "DSCF1839.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF1847.JPG", "url_thumb": "DSCF1847.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF1837.JPG", "url_thumb": "DSCF1837.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF1867.JPG", "url_thumb": "DSCF1867.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF1858.JPG", "url_thumb": "DSCF1858.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF1842.JPG", "url_thumb": "DSCF1842.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF1829.JPG", "url_thumb": "DSCF1829.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF1838.JPG", "url_thumb": "DSCF1838.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF1822.JPG", "url_thumb": "DSCF1822.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF1852.JPG", "url_thumb": "DSCF1852.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF1866.JPG", "url_thumb": "DSCF1866.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF1834.JPG", "url_thumb": "DSCF1834.thumbnail.JPG", "width": 180}];
 var thumbnailSize = 180;
 renderGallery(jsonContent, thumbnailSize);
-window.addEventListener('resize', renderGallery);
+window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnailSize)});
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',

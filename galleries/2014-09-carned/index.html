@@ -58,6 +58,7 @@
         <!--Body content-->
         
         
+        
     
 <nav class="breadcrumbs"><ul class="breadcrumb">
 <li class="breadcrumb-item"><a href="../">galleries</a></li>
@@ -153,7 +154,8 @@
 </div>
 
         <footer id="footer">
-            Contents © 2019         <a href="mailto:ian@ianbarton.co.uk">Ian Barton.</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2020         <a href="mailto:ian@ianbarton.co.uk">Ian Barton.</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
             
         </footer>
 </div>
@@ -164,7 +166,7 @@
 var jsonContent = [{"height": 120, "size": {"h": 120, "w": 180}, "title": "", "url": "IMG_8818.JPG", "url_thumb": "IMG_8818.thumbnail.JPG", "width": 180}, {"height": 119, "size": {"h": 119, "w": 180}, "title": "", "url": "thumb.IMG_8843.JPG", "url_thumb": "thumb.IMG_8843.thumbnail.JPG", "width": 180}, {"height": 120, "size": {"h": 120, "w": 180}, "title": "", "url": "IMG_8850.JPG", "url_thumb": "IMG_8850.thumbnail.JPG", "width": 180}, {"height": 119, "size": {"h": 119, "w": 180}, "title": "", "url": "thumb.IMG_8813.JPG", "url_thumb": "thumb.IMG_8813.thumbnail.JPG", "width": 180}, {"height": 119, "size": {"h": 119, "w": 180}, "title": "", "url": "thumb.IMG_8850.JPG", "url_thumb": "thumb.IMG_8850.thumbnail.JPG", "width": 180}, {"height": 119, "size": {"h": 119, "w": 180}, "title": "", "url": "thumb.IMG_8818.JPG", "url_thumb": "thumb.IMG_8818.thumbnail.JPG", "width": 180}, {"height": 120, "size": {"h": 120, "w": 180}, "title": "", "url": "IMG_8843.JPG", "url_thumb": "IMG_8843.thumbnail.JPG", "width": 180}, {"height": 119, "size": {"h": 119, "w": 180}, "title": "", "url": "thumb.IMG_8836.JPG", "url_thumb": "thumb.IMG_8836.thumbnail.JPG", "width": 180}, {"height": 119, "size": {"h": 119, "w": 180}, "title": "", "url": "thumb.IMG_8817.JPG", "url_thumb": "thumb.IMG_8817.thumbnail.JPG", "width": 180}, {"height": 120, "size": {"h": 120, "w": 180}, "title": "", "url": "IMG_8817.JPG", "url_thumb": "IMG_8817.thumbnail.JPG", "width": 180}, {"height": 120, "size": {"h": 120, "w": 180}, "title": "", "url": "IMG_8836.JPG", "url_thumb": "IMG_8836.thumbnail.JPG", "width": 180}, {"height": 120, "size": {"h": 120, "w": 180}, "title": "", "url": "IMG_8813.JPG", "url_thumb": "IMG_8813.thumbnail.JPG", "width": 180}];
 var thumbnailSize = 180;
 renderGallery(jsonContent, thumbnailSize);
-window.addEventListener('resize', renderGallery);
+window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnailSize)});
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',

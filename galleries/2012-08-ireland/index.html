@@ -58,6 +58,7 @@
         <!--Body content-->
         
         
+        
     
 <nav class="breadcrumbs"><ul class="breadcrumb">
 <li class="breadcrumb-item"><a href="../">galleries</a></li>
@@ -137,7 +138,8 @@
 </div>
 
         <footer id="footer">
-            Contents © 2019         <a href="mailto:ian@ianbarton.co.uk">Ian Barton.</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2020         <a href="mailto:ian@ianbarton.co.uk">Ian Barton.</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
             
         </footer>
 </div>
@@ -148,7 +150,7 @@
 var jsonContent = [{"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2873.JPG", "url_thumb": "DSCF2873.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2882.JPG", "url_thumb": "DSCF2882.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2875.JPG", "url_thumb": "thumb.DSCF2875.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2884.JPG", "url_thumb": "DSCF2884.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2882.JPG", "url_thumb": "thumb.DSCF2882.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2873.JPG", "url_thumb": "thumb.DSCF2873.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2875.JPG", "url_thumb": "DSCF2875.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2884.JPG", "url_thumb": "thumb.DSCF2884.thumbnail.JPG", "width": 180}];
 var thumbnailSize = 180;
 renderGallery(jsonContent, thumbnailSize);
-window.addEventListener('resize', renderGallery);
+window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnailSize)});
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',

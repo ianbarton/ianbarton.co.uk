@@ -58,6 +58,7 @@
         <!--Body content-->
         
         
+        
     
 <nav class="breadcrumbs"><ul class="breadcrumb">
 <li class="breadcrumb-item"><a href="../">galleries</a></li>
@@ -201,7 +202,8 @@
 </div>
 
         <footer id="footer">
-            Contents © 2019         <a href="mailto:ian@ianbarton.co.uk">Ian Barton.</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2020         <a href="mailto:ian@ianbarton.co.uk">Ian Barton.</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
             
         </footer>
 </div>
@@ -212,7 +214,7 @@
 var jsonContent = [{"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2725.jpg", "url_thumb": "thumb.DSCF2725.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2731.jpg", "url_thumb": "DSCF2731.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2701.jpg", "url_thumb": "thumb.DSCF2701.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2722.jpg", "url_thumb": "thumb.DSCF2722.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2720.jpg", "url_thumb": "DSCF2720.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2690.jpg", "url_thumb": "DSCF2690.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2720.jpg", "url_thumb": "thumb.DSCF2720.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2705.jpg", "url_thumb": "DSCF2705.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2722.jpg", "url_thumb": "DSCF2722.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2711.jpg", "url_thumb": "thumb.DSCF2711.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2711.jpg", "url_thumb": "DSCF2711.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2727.jpg", "url_thumb": "thumb.DSCF2727.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2723.jpg", "url_thumb": "thumb.DSCF2723.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2690.jpg", "url_thumb": "thumb.DSCF2690.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2725.jpg", "url_thumb": "DSCF2725.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2695.jpg", "url_thumb": "DSCF2695.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2695.jpg", "url_thumb": "thumb.DSCF2695.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2701.jpg", "url_thumb": "DSCF2701.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2723.jpg", "url_thumb": "DSCF2723.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2692.jpg", "url_thumb": "DSCF2692.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2731.jpg", "url_thumb": "thumb.DSCF2731.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2692.jpg", "url_thumb": "thumb.DSCF2692.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "DSCF2727.jpg", "url_thumb": "DSCF2727.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "", "url": "thumb.DSCF2705.jpg", "url_thumb": "thumb.DSCF2705.thumbnail.jpg", "width": 180}];
 var thumbnailSize = 180;
 renderGallery(jsonContent, thumbnailSize);
-window.addEventListener('resize', renderGallery);
+window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnailSize)});
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',

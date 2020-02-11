@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ian's Blog. (Posts about tripreport)</title><link>https://ianbarton.co.uk/</link><description></description><atom:link href="https://ianbarton.co.uk/categories/tripreport.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:ian@ianbarton.co.uk"&gt;Ian Barton.&lt;/a&gt; </copyright><lastBuildDate>Fri, 27 Sep 2019 16:46:51 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>README and List of Pages to Update.</title><link>https://ianbarton.co.uk/posts/2019-09-26-readme-fixes/</link><dc:creator>Ian Barton.</dc:creator><description></description><category>mountaineering</category><category>tripreport</category><guid>https://ianbarton.co.uk/posts/2019-09-26-readme-fixes/</guid><pubDate>Thu, 26 Sep 2019 17:58:37 GMT</pubDate></item><item><title>Cwm Eigiau Backpack</title><link>https://ianbarton.co.uk/posts/2014-09-11-cwm-eigiau-backpack/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;div id="outline-container-org4591668" class="outline-2"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ian's Blog. (Posts about tripreport)</title><link>https://ianbarton.co.uk/</link><description></description><atom:link href="https://ianbarton.co.uk/categories/tripreport.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:ian@ianbarton.co.uk"&gt;Ian Barton.&lt;/a&gt; </copyright><lastBuildDate>Tue, 11 Feb 2020 14:31:54 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>README and List of Pages to Update.</title><link>https://ianbarton.co.uk/posts/2019-09-26-readme-fixes/</link><dc:creator>Ian Barton.</dc:creator><description></description><category>mountaineering</category><category>tripreport</category><guid>https://ianbarton.co.uk/posts/2019-09-26-readme-fixes/</guid><pubDate>Thu, 26 Sep 2019 17:58:37 GMT</pubDate></item><item><title>Cwm Eigiau Backpack</title><link>https://ianbarton.co.uk/posts/2014-09-11-cwm-eigiau-backpack/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;div id="outline-container-org4591668" class="outline-2"&gt;
 &lt;h2 id="org4591668"&gt;Day One Llyn Eigiau to Carnedd Llewelyn .&lt;/h2&gt;
 &lt;div class="outline-text-2" id="text-org4591668"&gt;
 &lt;p&gt;
@@ -1062,26 +1062,10 @@ had persisted longer than forecast, but had cleared often enough to
 give me good views. Next time I'll double check to make sure I haven't
 left my stove in the truck!
 &lt;/p&gt;</description><category>mountaineering</category><category>tripreport</category><guid>https://ianbarton.co.uk/posts/2014-05-16-carneddau/</guid><pubDate>Fri, 16 May 2014 17:57:20 GMT</pubDate></item><item><title>Arenigs Overnighter</title><link>https://ianbarton.co.uk/posts/2013-07-20-Arenigs-Overnighter/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
-*
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Cotton grass on Arenig Fawr&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-07_arenigs/IMG_7650.JPG" class="rounded
+float-left" alt="Cotton grass on Arenig Fawr"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-07_arenigs/IMG_7650.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
-
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;!– PELICAN&lt;sub&gt;BEGIN&lt;/sub&gt;&lt;sub&gt;SUMMARY&lt;/sub&gt; –&amp;gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Cotton grass on Arenig Fawr." href="/images/2013-07&lt;sub&gt;arenigs&lt;/sub&gt;/IMG&lt;sub&gt;7650.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Cotton grass on Arenig Fawr." title="Cotton grass on Arenig Fawr." src="/images/2013-07&lt;sub&gt;arenigs&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7650.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
 
 &lt;p&gt;
 Another short trip, starting late in the day to avoid the heat. I had
@@ -1089,14 +1073,6 @@ done the same trip last year and enjoyed it so much, I decided to do
 it again! The original inspiration for this trip came from &lt;a href="http://v-g.me.uk/Trips/T0607/T0607.htm"&gt;v-g&lt;/a&gt;
 excellent site.
 &lt;/p&gt;
-
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;!– PELICAN&lt;sub&gt;END&lt;/sub&gt;&lt;sub&gt;SUMMARY&lt;/sub&gt; –&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
-
 
 
 &lt;p&gt;
@@ -1126,18 +1102,12 @@ more attractive. I also noticed what I know as "Cuckoo spit" - frothy
 white liquid attached to the blades of grass.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Tarns on South ridge of Arenig Fawr." href="/images/2013-07&lt;sub&gt;arenigs&lt;/sub&gt;/IMG&lt;sub&gt;7672.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Tarns on South ridge of Arenig Fawr." title="Tarns on South ridge of Arenig Fawr." src="/images/2013-07&lt;sub&gt;arenigs&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7672.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Tarns on South ridge of Arenig Fawr&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-07_arenigs/IMG_7672.JPG" class="rounded
+float-left" alt="Tarns on South ridge of Arenig Fawr"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-07_arenigs/IMG_7672.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 I filled my water bottle from the reservoir and began the plod up the
@@ -1152,18 +1122,12 @@ see the ridge line and on my second attempt got up onto the ridge. The
 heat had made the distant views hazy, but there was still a fine
 prospect of almost every peak in Snowdonia.
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit camp on Moel Llyfnant." href="/images/2013-07&lt;sub&gt;arenigs&lt;/sub&gt;/IMG&lt;sub&gt;7674.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Summit camp on Moel Llyfnant." title="Summit camp on Moel Llyfnant." src="/images/2013-07&lt;sub&gt;arenigs&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7674.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Summit camp on Moel Llyfnant&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-07_arenigs/IMG_7674.JPG" class="rounded
+float-left" alt="Summit camp on Moel Llyfnant"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-07_arenigs/IMG_7674.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 Reaching the summit of Arenig Fawr, I sat down next to the memorial to
@@ -1175,18 +1139,12 @@ ones that have been there for many years. It was good that somebody
 had gone to the trouble of placing the poppies beneath the plaque. I
 wondered if any of the airmen's families had ever visited this spot.
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunset over Snowdon." href="/images/2013-07&lt;sub&gt;arenigs&lt;/sub&gt;/IMG&lt;sub&gt;7704.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Sunset over Snowdon." title="Sunset over Snowdon." src="/images/2013-07&lt;sub&gt;arenigs&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7704.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Sunset over Snowdon&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-07_arenigs/IMG_7704.JPG" class="rounded
+float-left" alt="Sunset over Snowdon"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-07_arenigs/IMG_7704.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 It was now 6:00pm and I wanted to get to Moel Llyfnant before
@@ -1229,18 +1187,12 @@ light and climbing out of the tent I could see the sky glowing red
 behind Arenig Fawr. I got out the camera and took photos as the sun
 climbed over the shoulder of Arenig Fawr.
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Just before the sunrise over Arenig Fawr." href="/images/2013-07&lt;sub&gt;arenigs&lt;/sub&gt;/IMG&lt;sub&gt;7715.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Just before the sunrise over Arenig Fawr." title="Just before the sunrise over Arenig Fawr." src="/images/2013-07&lt;sub&gt;arenigs&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7715.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Just before the sunrise over Arenig Fawr&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-07_arenigs/IMG_7715.JPG" class="rounded
+float-left" alt="Just before the sunrise over Arenig Fawr"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-07_arenigs/IMG_7715.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 I had packed up by 7:00am and began descending the North Ridge towards
@@ -1253,18 +1205,12 @@ misleading sheep tracks. However, if you just head on a bearing
 towards Amnodd-bwll you will emerge onto a farm track near to the
 bottom of the hill.
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Llyfnant from the forestry track." href="/images/2013-07&lt;sub&gt;arenigs&lt;/sub&gt;/IMG&lt;sub&gt;7741.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Moel Llyfnant from the forestry track." title="Moel Llyfnant from the forestry track." src="/images/2013-07&lt;sub&gt;arenigs&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7741.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Moel Llyfnant from the forestry track&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-07_arenigs/IMG_7741.JPG" class="rounded
+float-left" alt="Moel Llyfnant from the forestry track"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-07_arenigs/IMG_7741.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 From Amnodd-bwll I followed the forestry road. There comes a point near
@@ -1278,22 +1224,10 @@ current drought conditions. After a short distance I reached a style
 beyond which the splash fest became a farm track. I descended past the
 farm and onto a recently made track above the railway line. This
 emerged onto the road only about a kilometre from the car.
-&lt;/p&gt;</description><category>mountaineering</category><category>tripreport</category><guid>https://ianbarton.co.uk/posts/2013-07-20-Arenigs-Overnighter/</guid><pubDate>Sat, 20 Jul 2013 17:56:27 GMT</pubDate></item><item><title>Moelwyns Cloud Inversion</title><link>https://ianbarton.co.uk/posts/2013-07-06-moelwyns-cloud-inversion/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;!– PELICAN&lt;sub&gt;BEGIN&lt;/sub&gt;&lt;sub&gt;SUMMARY&lt;/sub&gt; –&amp;gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb" title="Tremadoc Bay from Moelwyn Bach." href="/images/2013-07-moelwyns/IMG&lt;sub&gt;7584.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Tremadoc Bay from Moelwyn Bach." title="Tremadoc Bay from Moelwyn Bach." src="/images/2013-07-moelwyns/IMG&lt;sub&gt;7584.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
+&lt;/p&gt;</description><category>mountaineering</category><category>tripreport</category><guid>https://ianbarton.co.uk/posts/2013-07-20-Arenigs-Overnighter/</guid><pubDate>Sat, 20 Jul 2013 17:56:27 GMT</pubDate></item><item><title>Moelwyns Cloud Inversion</title><link>https://ianbarton.co.uk/posts/2013-07-06-moelwyns-cloud-inversion/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Tremadoc Bay from Moelwyn Bach&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-07-moelwyns/IMG_7584.jpg" class="rounded
+float-left" alt="Tremadoc Bay from Moelwyn Bach"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-07-moelwyns/IMG_7584.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -1306,12 +1240,6 @@ arriving at Llandegla until about 7:00pm, which left very limited
 time for me to drive into Snowdonia and get up to a summit.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;!– PELICAN&lt;sub&gt;END&lt;/sub&gt;&lt;sub&gt;SUMMARY&lt;/sub&gt; –&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
 
 
 &lt;p&gt;
@@ -1324,18 +1252,13 @@ half the walk after sunset, but navigation was simple, just follow
 the ridge and at this time of year it never goes properly dark.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb" title="Nantlle Ridge and Moelwyn Mawr." href="/images/2013-07-moelwyns/IMG&lt;sub&gt;7587.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Nantlle Ridge and Moelwyn Mawr." title="Nantlle Ridge and Moelwyn Mawr." src="/images/2013-07-moelwyns/IMG&lt;sub&gt;7587.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Nantlle Ridge and Moelwyn Mawr&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-07-moelwyns/IMG_7587.jpg" class="rounded
+float-left" alt="Nantlle Ridge and Moelwyn Mawr"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-07-moelwyns/IMG_7587.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
+
 
 &lt;p&gt;
 I arrived at the car park in Tanygrisiau shortly before 8:30pm. I had
@@ -1356,18 +1279,6 @@ the outfall pipe below the dam. Once I had climbed the concrete steps
 at the far side of the dam, I would see that I could easily have
 collected my water from the lake, something to remember for next time.
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb" title="Tremadoc Bay from Moelwyn Bach." href="/images/2013-07-moelwyns/IMG&lt;sub&gt;7620.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Tremadoc Bay from Moelwyn Bach." title="Tremadoc Bay from Moelwyn Bach." src="/images/2013-07-moelwyns/IMG&lt;sub&gt;7620.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
 
 &lt;p&gt;
 The route from Llyn Stwlan follows a fairly direct line over semi
@@ -1382,18 +1293,12 @@ about at this time and I didn't want to lose sight of it in the
 gathering gloom.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb" title="Sunrise over Moel-yr-hydd." href="/images/2013-07-moelwyns/IMG&lt;sub&gt;7623.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Sunrise over Moel-yr-hydd." title="Sunrise over Moel-yr-hydd." src="/images/2013-07-moelwyns/IMG&lt;sub&gt;7623.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Sunrise over Moel-yr-hydd&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-07-moelwyns/IMG_7623.jpg" class="rounded
+float-left" alt="Sunrise over Moel-yr-hydd"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-07-moelwyns/IMG_7623.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 The ascent of Craigysgafn involves a pleasant scramble. Much better
@@ -1404,18 +1309,12 @@ arrived at the summit cairn. Even though the sun had disappeared
 nearly two hours before, it was still light enough to see without a
 head torch.
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb" title="Mist drifting around Moel-yr-hydd." href="/images/2013-07-moelwyns/IMG&lt;sub&gt;7625.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Mist drifting around Moel-yr-hydd." title="Mist drifting around Moel-yr-hydd." src="/images/2013-07-moelwyns/IMG&lt;sub&gt;7625.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Mist drifting around Moel-yr-hydd&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-07-moelwyns/IMG_7625.jpg" class="rounded
+float-left" alt="Mist drifting around Moel-yr-hydd"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-07-moelwyns/IMG_7625.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 I set up the tent on a patch of grass close to the summit cairn. As I
@@ -1437,18 +1336,12 @@ in Wales. I sat outside the tent for a couple of hours watching as
 the heat of the rising sun made caused the mist in below to swirl and
 change shape.
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb" title="Early morning light on Moelwyn Bach." href="/images/2013-07-moelwyns/IMG&lt;sub&gt;7627.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Early morning light on Moelwyn Bach." title="Early morning light on Moelwyn Bach." src="/images/2013-07-moelwyns/IMG&lt;sub&gt;7627.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Early morning light on Moelwyn Bach&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-07-moelwyns/IMG_7627.jpg" class="rounded
+float-left" alt="Early morning light on Moelwyn Bach"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-07-moelwyns/IMG_7627.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 I packed up around 7:00am and began to make my way downwards and over
@@ -1463,16 +1356,9 @@ levels. I soon dropped below the mist and enjoyed a pleasant walk
 through Cwmorthin back to the road. I drove the short distance to the
 lakeside cafe for a second breakfast.
 &lt;/p&gt;</description><category>mountaineering</category><category>tripreport</category><guid>https://ianbarton.co.uk/posts/2013-07-06-moelwyns-cloud-inversion/</guid><pubDate>Sat, 06 Jul 2013 17:56:15 GMT</pubDate></item><item><title>Arans</title><link>https://ianbarton.co.uk/posts/2013-06-10-Arans/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Craig Cywarch." href="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/IMG&lt;sub&gt;7219.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Craig Cywarch." title="Craig Cywarch." src="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7219.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Looking back along the summit ridge&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
-float-left" alt="Looking back along the summit ridge"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Craig Cywarch&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7219.JPG" class="rounded
+float-left" alt="Craig Cywarch"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7219.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -1487,17 +1373,11 @@ trips over the Arans in indifferent weather, I had wanted to save the
 circuit for a settled period of fine weather.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;!– PELICAN&lt;sub&gt;END&lt;/sub&gt;&lt;sub&gt;SUMMARY&lt;/sub&gt; –&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
 
 &lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Looking back along the summit ridge&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
-float-left" alt="Looking back along the summit ridge"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Aran Fawddwy and Craiglyn Dyfi&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7229.JPG" class="rounded
+float-left" alt="Aran Fawddwy and Craiglyn Dyfi"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7229.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -1507,23 +1387,6 @@ boardwalks and then a final pull up Glasgwm, where I would camp next
 to Llyn y Fign. The next morning I would follow my route of ascent
 back to the path leading down into Cwm Cwyarch and so back to the car park.
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Aran Fawddwy and Craiglyn Dyfi." href="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/IMG&lt;sub&gt;7229.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Aran Fawddwy and Craiglyn Dyfi." title="Aran Fawddwy and Craiglyn Dyfi." src="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7229.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Looking back along the summit ridge&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
-float-left" alt="Looking back along the summit ridge"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -1537,23 +1400,11 @@ enough water for the whole day, but I thought I would be
 able to get more water higher up.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Memorial with Cadair Idris in the background." href="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/IMG&lt;sub&gt;7234.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Memorial with Cadair Idris in the background." title="Memorial with Cadair Idris in the background." src="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7234.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Looking back along the summit ridge&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
-float-left" alt="Looking back along the summit ridge"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Memorial with Cadair Idris in the background&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7234.JPG" class="rounded
+float-left" alt="Memorial with Cadair Idris in the background"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7234.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -1570,23 +1421,10 @@ steep East face and down to Craiglyn Dyfi, where I had pitched the
 Voyager Superlite last year for the first time in pouring rain.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
 &lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Rhinogs in the distance." href="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/IMG&lt;sub&gt;7235.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Rhinogs in the distance." title="Rhinogs in the distance." src="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7235.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Looking back along the summit ridge&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
-float-left" alt="Looking back along the summit ridge"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Rhinogs in the distance&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7235.JPG" class="rounded
+float-left" alt="Rhinogs in the distance"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7235.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -1605,23 +1443,11 @@ Aran Benllyn. However, I was too lazy to walk the extra distance to
 Aran Benllyn and thought I would be certain to find more water before
 my ascent of Glasgwm. This turned out to be a bad decision!
 &lt;/p&gt;
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="OS grid reference on a ladder style." href="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/IMG&lt;sub&gt;7245.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="OS grid reference on a ladder style." title="OS grid reference on a ladder style." src="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7245.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Looking back along the summit ridge&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
-float-left" alt="Looking back along the summit ridge"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;OS grid reference on a ladder style&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7245.JPG" class="rounded
+float-left" alt="OS grid reference on a ladder style"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7245.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 
@@ -1635,18 +1461,13 @@ the fence, I met another man who was sitting admiring the view. In the
 whole day I only saw three people.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Aran Benllyn from Aran Fawddwy." href="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/IMG&lt;sub&gt;7256.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Aran Benllyn from Aran Fawddwy." title="Aran Benllyn from Aran Fawddwy." src="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7256.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Aran Benllyn from Aran Fawddwy&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7256.JPG" class="rounded
+float-left" alt="Aran Benllyn from Aran Fawddwy"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7256.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;/div&gt;
+
 
 &lt;p&gt;
 Luckily the ground was fairly dry, with only a couple of the boarded
@@ -1675,23 +1496,11 @@ soon had the tent pitched and lay down inside to escape from the sun
 for a few minutes and rest.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Tent near Llyn Figyn." href="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/IMG&lt;sub&gt;7269.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Tent near Llyn Figyn." title="Tent near Llyn Figyn." src="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7269.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Looking back along the summit ridge&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
-float-left" alt="Looking back along the summit ridge"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Tent near Llyn Figyn&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7269.JPG" class="rounded
+float-left" alt="Tent near Llyn Figyn"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7269.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -1704,23 +1513,11 @@ the tent and wandered around taking photos. Finally I sat next to the
 summit cairn and watched the sun drop below the horizon.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunset." href="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/IMG&lt;sub&gt;7311.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Sunset." title="Sunset." src="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7311.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Looking back along the summit ridge&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
-float-left" alt="Looking back along the summit ridge"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Sunset&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7311.JPG" class="rounded
+float-left" alt="Sunset"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7311.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 &lt;p&gt;
@@ -1745,23 +1542,11 @@ straight past the car park, not realizing my mistake for about a
 quarter of a mile.
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunrise over Aran Fawddwy." href="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/IMG&lt;sub&gt;7315.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Sunrise over Aran Fawddwy." title="Sunrise over Aran Fawddwy." src="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7315.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
 
 &lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Looking back along the summit ridge&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
-float-left" alt="Looking back along the summit ridge"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Sunrise over Aran Fawddwy&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7315.JPG" class="rounded
+float-left" alt="Sunrise over Aran Fawddwy"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-06-03_arans/IMG_7315.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
 
 
 
@@ -1776,29 +1561,7 @@ tent. I didn't want to be late back and it was obviously going to be
 another hot day, so I was packed up and ready to descend shortly after
 6:00am. Taking my time, so I could enjoy the views I retraced my line
 of ascent along the fence.
-&lt;/p&gt;
-
-&lt;div class="HTML"&gt;
-&lt;p&gt;
-&amp;lt;div class="photofloatr"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Boards on N
-Ridge of Aran Benllyn." href="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/IMG&lt;sub&gt;7219.JPG&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Boards on N
-Ridge of Aran Benllyn." title="Boards on N
-Ridge of Aran Benllyn." src="/images/2013-06-03&lt;sub&gt;arans&lt;/sub&gt;/thumb.IMG&lt;sub&gt;7219.JPG&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;
-&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Looking back along the summit ridge&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
-float-left" alt="Looking back along the summit ridge"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2013-03_moel_siabod/IMG_6795.JPG"&gt;&lt;/a&gt;&lt;/b&gt;
-</description><category>mountaineering</category><category>tripreport</category><guid>https://ianbarton.co.uk/posts/2013-06-10-Arans/</guid><pubDate>Mon, 10 Jun 2013 17:56:07 GMT</pubDate></item><item><title>Cross Fell</title><link>https://ianbarton.co.uk/posts/2013-04-05_cross_fell/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+&lt;/p&gt;</description><category>mountaineering</category><category>tripreport</category><guid>https://ianbarton.co.uk/posts/2013-06-10-Arans/</guid><pubDate>Mon, 10 Jun 2013 17:56:07 GMT</pubDate></item><item><title>Cross Fell</title><link>https://ianbarton.co.uk/posts/2013-04-05_cross_fell/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
 I was staying with the family near to Appleby for a few days. The
 cold clear weather of the last few weeks looked set to continue for a
 few more days at least. I wanted to get out and walk up something,

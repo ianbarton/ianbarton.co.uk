@@ -58,6 +58,7 @@
         <!--Body content-->
         
         
+        
     
 <nav class="breadcrumbs"><ul class="breadcrumb">
 <li class="breadcrumb-item"><a href="../">galleries</a></li>
@@ -185,7 +186,8 @@
 </div>
 
         <footer id="footer">
-            Contents © 2019         <a href="mailto:ian@ianbarton.co.uk">Ian Barton.</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2020         <a href="mailto:ian@ianbarton.co.uk">Ian Barton.</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
             
         </footer>
 </div>
@@ -196,7 +198,7 @@
 var jsonContent = [{"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "thumb.IMG_20140812_124053.jpg", "url_thumb": "thumb.IMG_20140812_124053.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "IMG_20140812_104902.jpg", "url_thumb": "IMG_20140812_104902.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "thumb.IMG_20140814_11312.jpg", "url_thumb": "thumb.IMG_20140814_11312.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "thumb.IMG_20140812_104902.jpg", "url_thumb": "thumb.IMG_20140812_104902.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "thumb.IMG_20140813_090832.jpg", "url_thumb": "thumb.IMG_20140813_090832.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "IMG_20140813_090832.jpg", "url_thumb": "IMG_20140813_090832.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "IMG_20140814_100004.jpg", "url_thumb": "IMG_20140814_100004.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "thumb.IMG_20140812_132829.jpg", "url_thumb": "thumb.IMG_20140812_132829.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "thumb.IMG_20140813_130640.jpg", "url_thumb": "thumb.IMG_20140813_130640.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "IMG_20140812_132829.jpg", "url_thumb": "IMG_20140812_132829.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "IMG_20140813_130640.jpg", "url_thumb": "IMG_20140813_130640.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "thumb.IMG_20140814_100004.jpg", "url_thumb": "thumb.IMG_20140814_100004.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "thumb.IMG_20140812_130719.jpg", "url_thumb": "thumb.IMG_20140812_130719.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "IMG_20140812_124053.jpg", "url_thumb": "IMG_20140812_124053.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "IMG_20140813_130528.jpg", "url_thumb": "IMG_20140813_130528.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "thumb.IMG_20140813_105959.jpg", "url_thumb": "thumb.IMG_20140813_105959.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "IMG_20140814_11312.jpg", "url_thumb": "IMG_20140814_11312.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "IMG_20140812_130719.jpg", "url_thumb": "IMG_20140812_130719.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "thumb.IMG_20140813_130528.jpg", "url_thumb": "thumb.IMG_20140813_130528.thumbnail.jpg", "width": 180}, {"height": 133, "size": {"h": 133, "w": 180}, "title": "", "url": "IMG_20140813_105959.jpg", "url_thumb": "IMG_20140813_105959.thumbnail.jpg", "width": 180}];
 var thumbnailSize = 180;
 renderGallery(jsonContent, thumbnailSize);
-window.addEventListener('resize', renderGallery);
+window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnailSize)});
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
