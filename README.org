@@ -236,7 +236,11 @@ Need to add content!
    - State "DONE"       from "TODO"       [2019-09-27 Fri 18:34]
    :END:
 
-** TODO  -rw-r--r--  1 ian ian 11424 Aug 23 10:20  2012-04-22-moel-siabod-summit-camp.org
+** DONE -rw-r--r--  1 ian ian 11424 Aug 23 10:20  2012-04-22-moel-siabod-summit-camp.org
+   CLOSED: [2020-02-11 Tue 13:44]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-11 Tue 13:44]
+   :END:
 
 ** TODO  -rw-r--r--  1 ian ian 10803 Aug 23 10:20  2012-05-15-carneddau-traverse.org
 
@@ -246,11 +250,23 @@ Need to add content!
 
 ** TODO  -rw-r--r--  1 ian ian  2115 Aug 23 10:20  2012-09-06-sea-to-summit-xmug.org
 
-** TODO  -rw-r--r--  1 ian ian  1104 Aug 23 10:21  2012-12-10-website-makeover.org
+** DONE -rw-r--r--  1 ian ian  1104 Aug 23 10:21  2012-12-10-website-makeover.org
+   CLOSED: [2020-02-11 Tue 13:10]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-11 Tue 13:10]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  4044 Aug 23 10:21  2012-12-14-Circular-Ride-from-Whitchurch.org
+** DONE -rw-r--r--  1 ian ian  4044 Aug 23 10:21  2012-12-14-Circular-Ride-from-Whitchurch.org
+   CLOSED: [2020-02-11 Tue 13:10]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-11 Tue 13:10]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  2779 Aug 23 10:21  2012-12-27-Connemara.org
+** DONE -rw-r--r--  1 ian ian  2779 Aug 23 10:21  2012-12-27-Connemara.org
+   CLOSED: [2020-02-11 Tue 13:09]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-11 Tue 13:09]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian   405 Aug 23 10:21  2013-01-07-Rab-Vapour-Rise-Lite-Alpine-Jacket.org
    CLOSED: [2019-09-27 Fri 13:10]
