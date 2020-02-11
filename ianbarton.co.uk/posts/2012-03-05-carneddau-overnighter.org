@@ -20,13 +20,9 @@ clearing later in the day. This looked like being my only opportunity
 to get out for a while. However, I had to be in Chester by midday on
 the Saturday to collect my son from his rowing training.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Gallt yr Ogof." href="/images/2012-03-carned/02032012265.jpg"><img
- width="200" alt="Wild ponies." title="Gallt yr Ogof." src="/images/2012-03-carned/02032012265.jpg" /></a>
-
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Gallt yr Ogof</b></p>@@*
+*@@html: <a href="/galleries/2012-03-carned/02032012265.jpg" class="rounded
+float-left" alt="Gallt yr Ogof"><img src="/galleries/2012-03-carned/02032012265.jpg"></a>@@*
 
 I packed the truck on Thursday night as I planned to make an early
 start. I dropped the children off to catch the school bus just after
@@ -47,14 +43,10 @@ the ground was going to be very wet and I don't really like getting
 wet feet. I didn't really have much choice, so I set off along
 Telford's old A5.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cloud Clearing from Pen Llithrig y Wrach and Pen yr Helgi Du." href="/images/2012-03-carned/02032012266.jpg"><img
- width="200" alt="Cloud Clearing from Pen Llithrig y Wrach and Pen yr Helgi Du." title="Cloud Clearing from Pen Llithrig y Wrach and Pen yr Helgi Du." src="/images/2012-03-carned/02032012266.jpg" /></a>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Cloud Clearing from Pen Llithrig y Wrach and Pen yr Helgi Du</b></p>@@*
+*@@html: <a href="/galleries/2012-03-carned/02032012266.jpg" class="rounded
+float-left" alt="Cloud Clearing from Pen Llithrig y Wrach and Pen yr Helgi Du"><img src="/galleries/2012-03-carned/02032012266.jpg"></a>@@*
 
 The plan was to repeat [[http://v-g.me.uk/Trips/T0956/T0956.htm][v-g's]] route over Pen Llithrig y Wrach and Pen
 yr Helgi Du. I am hopeless at estimating route times, but I was happy
@@ -63,14 +55,10 @@ centre of Chester by twelve o'clock the next day. Thus the plan was to
 camp on the summit of Pen yr Helgi Du and make an early start on
 Saturday.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tryfan and the Glyders." href="/images/2012-03-carned/02032012267.jpg"><img
- width="200" alt="Tryfan and the Glyders." title="Gallt yr Ogof." src="/images/2012-03-carned/02032012267.jpg" /></a>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Tryfan and the Glyders</b></p>@@*
+*@@html: <a href="/galleries/2012-03-carned/02032012267.jpg" class="rounded
+float-left" alt="Tryfan and the Glyders"><img src="/galleries/2012-03-carned/02032012267.jpg"></a>@@*
 
 As I tramped down the road, MWIS was proving accurate and the clouds
 around the summits began to disperse. I crossed the A5 and began to
@@ -82,14 +70,10 @@ of stuff she wanted to sell on eBay. So when I switched the camera on
 the battery died immediately. Luckily, I had my phone, which has a
 reasonable camera.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Llyn Colwyd." href="/images/2012-03-carned/02032012269.jpg"><img
- width="200" alt="Llyn Colwyd." title="Llyn Colwyd." src="/images/2012-03-carned/02032012269.jpg" /></a>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Llyn Colwyd</b></p>@@*
+*@@html: <a href="/galleries/2012-03-carned/02032012269.jpg" class="rounded
+float-left" alt="Llyn Colwyd"><img src="/galleries/2012-03-carned/02032012269.jpg"></a>@@*
 
 I stopped to fill my water bottles from the stream that runs down into
 the reservoir and began to make my way towards Pen Llithrig y
@@ -107,14 +91,10 @@ shortly below the summit plateau. It was then I spotted two people
 descending, who were actually on the path, so I joined it for the
 final hundred feet or so onto the plateau.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Frogspawn." href="/images/2012-03-carned/02032012272.jpg"><img
- width="200" alt="Frogspawn." title="Frogspawn." src="/images/2012-03-carned/02032012272.jpg" /></a>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Frogspawn</b></p>@@*
+*@@html: <a href="/galleries/2012-03-carned/02032012272.jpg" class="rounded
+float-left" alt="Frogspawn"><img src="/galleries/2012-03-carned/02032012272.jpg"></a>@@*
 
 I was planning to eat lunch at the summit, but there was a very cold
 breeze, so I munched on a Kit Kat while I descended towards Bwlch y
@@ -129,17 +109,10 @@ I would have to make the early part of the descent in dark before dawn
 dark in order to get back to the car in time. As subsequent events
 proved, it was lucky that I decided not to carry on.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Pen Llithrig y
-Wrach." href="/images/2012-03-carned/02032012276.jpg"><img
- width="200" alt="Pen Llithrig y
-Wrach." title="Pen Llithrig y
-Wrach." src="/images/2012-03-carned/02032012276.jpg" /></a>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Pen Llithrig y
+Wrach</b></p>@@*
+*@@html: <a href="/galleries/2012-03-carned/02032012276.jpg" class="rounded float-left" alt="Pen Llithrig y Wrach"><img src="/galleries/2012-03-carned/02032012276.jpg"></a>@@*
 
 I pitched the tent near to the summit, while being watched by a group
 of wild ponies a few yards away. There was a bit of a breeze, but MWIS
@@ -153,14 +126,10 @@ were no rocks nearby and I wondered why someone had bothered to build
 it there. When I got closer I realized that it was a pile of horse
 dung, in a perfect cairn shape.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cwm Eigiau." href="/images/2012-03-carned/02032012281.jpg"><img
- width="200" alt="Cwm Eigiau." title="Cwm Eigiau." src="/images/2012-03-carned/02032012281.jpg" /></a>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Cwm Eigiau</b></p>@@*
+*@@html: <a href="/galleries/2012-03-carned/02032012281.jpg" class="rounded
+float-left" alt="Cwm Eigiau"><img src="/galleries/2012-03-carned/02032012281.jpg"></a>@@*
 
 Often I arrive at the place where I am going to pitch my tent just
 before it goes dark and rush to get everything set up. So it was a
@@ -173,14 +142,10 @@ podcasts. MWIS had predicted cloudy summits, but minimal wind and no
 precipitation for the next morning. Sure enough when I looked out of
 the tent later on the mist had come down.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Wild Ponies in the Distance." href="/images/2012-03-carned/02032012286.jpg"><img
- width="200" alt="Wild Ponies in the Distance." title="Wild Ponies in the Distance." src="/images/2012-03-carned/02032012286.jpg" /></a>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Wild Ponies in the Distance</b></p>@@*
+*@@html: <a href="/galleries/2012-03-carned/02032012286.jpg" class="rounded
+float-left" alt="Wild Ponies in the Distance"><img src="/galleries/2012-03-carned/02032012286.jpg"></a>@@*
 
 Sometime in the early hours of the morning, the wind got up and there
 was a heavy shower. As the night wore on the showers became more
@@ -190,14 +155,9 @@ return to the valley for some breakfast. I had a quick cup of hot
 chocolate and some biscuits and packed away the contents of the tent
 into my rucksack.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Zephyros on Pen yr Helgi Du." href="/images/2012-03-carned/02032012288.jpg"><img
- width="200" alt="Zephyros on Pen yr Helgi Du." title="Zephyros on Pen yr Helgi Du." src="/images/2012-03-carned/02032012288.jpg" /></a>
-
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Zephyros on Pen yr Helgi Du</b></p>@@*
+*@@html: <a href="/galleries/2012-03-carned/02032012288.jpg" class="rounded
+float-left" alt="Zephyros on Pen yr Helgi Du"><img src="/galleries/2012-03-carned/02032012288.jpg"></a>@@*
 
 It was time to go outside. I only had my shirt, a Rab Generator pullon
 and my Marmot LiteSpeed, plus Mammut Base Jump trews. I pulled my
@@ -219,14 +179,10 @@ see the valley below me. I hadn't really planned my descent, thinking
 that I could cut across back towards Llyn Colwyd and reverse my route
 of ascent.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Craig yr Ysfa and Carnedd Llewelyn." href="/images/2012-03-carned/02032012293.jpg"><img
- width="200" alt="Craig yr Ysfa and Carnedd Llewelyn." title="Craig yr Ysfa and Carnedd Llewelyn." src="/images/2012-03-carned/02032012293.jpg" /></a>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Craig yr Ysfa and Carnedd Llewelyn</b></p>@@*
+*@@html: <a href="/galleries/2012-03-carned/02032012293.jpg" class="rounded
+float-left" alt="Craig yr Ysfa and Carnedd Llewelyn"><img src="/galleries/2012-03-carned/02032012293.jpg"></a>@@*
 
 However, I was now operating Plan "B" - get down to the road as fast
 as possible. It turns out that this was exactly the route followed by
@@ -243,14 +199,10 @@ into some dry stuff as fast as possible. I stripped off behind the
 truck and put on my dry clothes. Several old ladies fainted and the
 rest of the crowd grinned.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunset over Carnedd Dafydd." href="/images/2012-03-carned/02032012295.jpg"><img
- width="200" alt="Sunset over Carnedd Dafydd." title="Sunset over Carnedd Dafydd." src="/images/2012-03-carned/02032012295.jpg" /></a>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Sunset over Carnedd Dafydd</b></p>@@*
+*@@html: <a href="/galleries/2012-03-carned/02032012295.jpg" class="rounded
+float-left" alt="Sunset over Carnedd Dafydd"><img src="/galleries/2012-03-carned/02032012295.jpg"></a>@@*
 
 Once inside the truck, with dry clothes on, I still couldn't get
 warm, even with the heater on the "Chernobyl Meltdown" setting. I
