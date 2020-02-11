@@ -9,8 +9,6 @@
 .. type: text
 #+END_COMMENT
 
-#+BEGIN_HTML
-<!-- PELICAN_BEGIN_SUMMARY -->
 
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb" title="Tremadoc Bay from Moelwyn Bach." href="/images/2013-07-moelwyns/IMG_7584.jpg"><img
@@ -18,8 +16,11 @@
 
 </div>
 
-#+END_HTML
 
+
+*@@html: <p class="caption"><b>Tremadoc Bay from Moelwyn Bach</b></p>@@*
+*@@html: <a href="/galleries/2013-07-moelwyns/IMG_7584.jpg" class="rounded
+float-left" alt="Tremadoc Bay from Moelwyn Bach"><img src="/galleries/2013-07-moelwyns/IMG_7584.jpg"></a>@@*
 
 My son was doing his D of E Bronze expedition over the weekend,
 starting from Llandegla. The weather forecast was for hot and sunny
@@ -50,6 +51,10 @@ the ridge and at this time of year it never goes properly dark.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Craig Cywarch</b></p>@@*
+*@@html: <a href="/galleries/2013-06-03_arans/IMG_7219.JPG" class="rounded
+float-left" alt="Craig Cywarch"><img src="/galleries/2013-06-03_arans/IMG_7219.JPG"></a>@@*
+
 I arrived at the car park in Tanygrisiau shortly before 8:30pm. I had
 packed my rucksack before leaving home, so all I needed to do was get
 out of the car and start walking. My plan was to walk up the reservoir
@@ -73,6 +78,10 @@ collected my water from the lake, something to remember for next time.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Craig Cywarch</b></p>@@*
+*@@html: <a href="/galleries/2013-06-03_arans/IMG_7219.JPG" class="rounded
+float-left" alt="Craig Cywarch"><img src="/galleries/2013-06-03_arans/IMG_7219.JPG"></a>@@*
+
 The route from Llyn Stwlan follows a fairly direct line over semi
 boggy ground to the col between Moelwyn Mawr and Moelwyn Bach. I
 reached the col at around 9:25pm in time to see the sun setting. I
@@ -92,6 +101,10 @@ gathering gloom.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Craig Cywarch</b></p>@@*
+*@@html: <a href="/galleries/2013-06-03_arans/IMG_7219.JPG" class="rounded
+float-left" alt="Craig Cywarch"><img src="/galleries/2013-06-03_arans/IMG_7219.JPG"></a>@@*
+
 The ascent of Craigysgafn involves a pleasant scramble. Much better
 than my [[http://www.ian-barton.com/posts/2012/Apr/13/a-trip-over-the-moelwyns/][last]] visit when this section was more like a winter climb,
 with the rocks covered in verglas and hail. The ascent to Moelwyn
@@ -106,6 +119,10 @@ head torch.
 
 </div>
 #+END_HTML
+
+*@@html: <p class="caption"><b>Craig Cywarch</b></p>@@*
+*@@html: <a href="/galleries/2013-06-03_arans/IMG_7219.JPG" class="rounded
+float-left" alt="Craig Cywarch"><img src="/galleries/2013-06-03_arans/IMG_7219.JPG"></a>@@*
 
 I set up the tent on a patch of grass close to the summit cairn. As I
 had been climbing towards the summit I had noticed the valleys below
@@ -130,6 +147,10 @@ change shape.
 
 </div>
 #+END_HTML
+
+*@@html: <p class="caption"><b>Craig Cywarch</b></p>@@*
+*@@html: <a href="/galleries/2013-06-03_arans/IMG_7219.JPG" class="rounded
+float-left" alt="Craig Cywarch"><img src="/galleries/2013-06-03_arans/IMG_7219.JPG"></a>@@*
 
 I packed up around 7:00am and began to make my way downwards and over
 to Moel-yr-hydd. By the time I had reached the summit the heat of the

@@ -23,6 +23,10 @@ trip.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Moelwyn Mawr from Llyn Stwlan</b></p>@@*
+*@@html: <a href="/galleries/2012-04_moelwyns/DSCF2320.JPG" class="rounded
+float-left" alt="Moelwyn Mawr from Llyn Stwlan"><img src="/galleries/2012-04_moelwyns/DSCF2320.JPG"></a>@@*
+
 
 MWIS forecast good chance of clear summits, but with heavy hail
 showers blowing in. I was hoping to complete my aborted trip over Aran
@@ -45,6 +49,10 @@ at set off back along the A5 towards Capel Curig.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Giant hole in Moelwyn Mawr</b></p>@@*
+*@@html: <a href="/galleries/2012-04_moelwyns/DSCF2329.JPG" class="rounded
+float-left" alt="Giant hole in Moelwyn Mawr"><img src="/galleries/2012-04_moelwyns/DSCF2329.JPG"></a>@@*
+
 
 After only a few miles along the A5 it had stopped raining. As I
 approached Pentrefoelas I could see that the most of the main summits
@@ -63,6 +71,9 @@ summits of the Moelwyns were clear of cloud.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Moelwyn Mawr. Terrace at bottom</b></p>@@*
+*@@html: <a href="/galleries/2013-07_arenigs/2012-04_moelwyns/DSCF2330.JPG" class="rounded
+float-left" alt="Moelwyn Mawr. Terrace at bottom"><img src="/galleries/2012-04_moelwyns/DSCF2330.JPG"></a>@@*
 
 I packed my sack and glanced at my watch. It was now 4:00pm, but I
 reckoned that I would have more than enough time to get to the summit
@@ -94,6 +105,9 @@ of the path had collapsed.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Moelwyn Mawr Summit</b></p>@@*
+*@@html: <a href="/galleries/2012-04_moelwyns/DSCF2332.JPG" class="rounded
+float-left" alt="Moelwyn Mawr Summit"><img src="/galleries/2012-04_moelwyns/DSCF2332.JPG"></a>@@*
 
 At Bwlch Stwlan I was exposed to the wind blowing in from the West. I
 thought of dumping my pack at the Bwlch while I climbed up to the
@@ -124,6 +138,9 @@ ceased just before I got to the summit cairn.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Moel Llyfnant from the forestry track</b></p>@@*
+*@@html: <a href="/galleries/2013-07_arenigs/IMG_7741.JPG" class="rounded
+float-left" alt="Moel Llyfnant from the forestry track"><img src="/galleries/2013-07_arenigs/IMG_7741.JPG"></a>@@*
 
 There is a small grassy platform just below the summit cairn, which
 seemed quite sheltered. However, I was worried that the wind might
@@ -150,6 +167,10 @@ climb back up.
 
 </div>
 #+END_HTML
+
+*@@html: <p class="caption"><b>Moel Llyfnant from the forestry track</b></p>@@*
+*@@html: <a href="/galleries/2013-07_arenigs/IMG_7741.JPG" class="rounded
+float-left" alt="Moel Llyfnant from the forestry track"><img src="/galleries/2013-07_arenigs/IMG_7741.JPG"></a>@@*
 
 I made the decision to do what I should have done in the first place -
 camp on the summit. I had lost just over a hundred metres, so it was a
@@ -185,6 +206,9 @@ knew where it was and had soon dropped out of the clag.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Moel Llyfnant from the forestry track</b></p>@@*
+*@@html: <a href="/galleries/2013-07_arenigs/IMG_7741.JPG" class="rounded
+float-left" alt="Moel Llyfnant from the forestry track"><img src="/galleries/2013-07_arenigs/IMG_7741.JPG"></a>@@*
 
 I made my way over towards Moel yr Hydd and was treated to some mini
 cloud inversions in the valley over Blaneau. The summit of Moel yr
@@ -202,6 +226,10 @@ got too bad.
 
 </div>
 #+END_HTML
+
+*@@html: <p class="caption"><b>Moel Llyfnant from the forestry track</b></p>@@*
+*@@html: <a href="/galleries/2013-07_arenigs/IMG_7741.JPG" class="rounded
+float-left" alt="Moel Llyfnant from the forestry track"><img src="/galleries/2013-07_arenigs/IMG_7741.JPG"></a>@@*
 
 Overall a very satisfying trip. I was lucky that the gaps in the bad
 weather came at just the right moments and on the second day I got
