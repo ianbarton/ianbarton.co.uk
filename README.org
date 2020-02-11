@@ -270,7 +270,11 @@ Need to add content!
 
 ** TODO  -rw-r--r--  1 ian ian  1431 Aug 23 10:22  2013-04-05_cross_fell.org
 
-** TODO  -rw-r--r--  1 ian ian 10114 Aug 23 10:22  2013-06-10-Arans.org
+** DONE -rw-r--r--  1 ian ian 10114 Aug 23 10:22  2013-06-10-Arans.org
+   CLOSED: [2020-02-11 Tue 11:49]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-11 Tue 11:49]
+   :END:
 
 ** TODO  -rw-r--r--  1 ian ian  7024 Aug 23 10:22  2013-07-06-moelwyns-cloud-inversion.org
 
