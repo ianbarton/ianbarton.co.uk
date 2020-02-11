@@ -224,7 +224,11 @@ Need to add content!
 
 ** TODO  -rw-r--r--  1 ian ian  4448 Aug 23 10:19  2011-10-29-tryfan-glyders-photos.org
 
-** TODO  -rw-r--r--  1 ian ian  1632 Aug 23 10:19  2012-02-10-solar-maximum-and-minimum-thermometer.org
+** DONE -rw-r--r--  1 ian ian  1632 Aug 23 10:19  2012-02-10-solar-maximum-and-minimum-thermometer.org
+   CLOSED: [2020-02-11 Tue 14:36]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-11 Tue 14:36]
+   :END:
 
 ** TODO  -rw-r--r--  1 ian ian 12544 Aug 23 10:19  2012-03-05-carneddau-overnighter.org
 
