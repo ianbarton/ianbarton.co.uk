@@ -44,7 +44,7 @@ Likes:
 Dislikes:
 
 - Too warm for much of the year.
-- There are loops for a chip strap, but no strap is provided (unlike
+- There are loops for a chip strap, but to strap is provided (unlike
   the Paramo).
 - Peak could be a bit larger.
 

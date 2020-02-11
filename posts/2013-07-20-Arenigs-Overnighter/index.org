@@ -9,15 +9,29 @@
 .. type: text
 #+END_COMMENT
 
+*
 
-*@@html: <p class="caption"><b>Cotton grass on Arenig Fawr</b></p>@@*
-*@@html: <a href="/galleries/2013-07_arenigs/IMG_7650.JPG" class="rounded
-float-left" alt="Cotton grass on Arenig Fawr"><img src="/galleries/2013-07_arenigs/IMG_7650.JPG"></a>@@*
+
+#+BEGIN_HTML
+<!-- PELICAN_BEGIN_SUMMARY -->
+
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cotton grass on Arenig Fawr." href="/images/2013-07_arenigs/IMG_7650.JPG"><img
+ width="200" alt="Cotton grass on Arenig Fawr." title="Cotton grass on Arenig Fawr." src="/images/2013-07_arenigs/thumb.IMG_7650.JPG" /></a>
+
+</div>
+
+#+END_HTML
 
 Another short trip, starting late in the day to avoid the heat. I had
 done the same trip last year and enjoyed it so much, I decided to do
 it again! The original inspiration for this trip came from [[http://v-g.me.uk/Trips/T0607/T0607.htm][v-g]]
 excellent site.
+
+#+BEGIN_HTML
+<!-- PELICAN_END_SUMMARY -->
+#+END_HTML
+
 
 
 Last time I had parked in the small pull in near to the start of the
@@ -41,10 +55,13 @@ The cotton grass was out, making the large areas of grass look much
 more attractive. I also noticed what I know as "Cuckoo spit" - frothy
 white liquid attached to the blades of grass.
 
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tarns on South ridge of Arenig Fawr." href="/images/2013-07_arenigs/IMG_7672.JPG"><img
+ width="200" alt="Tarns on South ridge of Arenig Fawr." title="Tarns on South ridge of Arenig Fawr." src="/images/2013-07_arenigs/thumb.IMG_7672.JPG" /></a>
 
-*@@html: <p class="caption"><b>Tarns on South ridge of Arenig Fawr</b></p>@@*
-*@@html: <a href="/galleries/2013-07_arenigs/IMG_7672.JPG" class="rounded
-float-left" alt="Tarns on South ridge of Arenig Fawr"><img src="/galleries/2013-07_arenigs/IMG_7672.JPG"></a>@@*
+</div>
+#+END_HTML
 
 I filled my water bottle from the reservoir and began the plod up the
 slope leading to Arenig Fawr. Last time I had followed the path that
@@ -57,10 +74,13 @@ early and ended up regaining it a bit higher up. However, I could now
 see the ridge line and on my second attempt got up onto the ridge. The
 heat had made the distant views hazy, but there was still a fine
 prospect of almost every peak in Snowdonia.
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit camp on Moel Llyfnant." href="/images/2013-07_arenigs/IMG_7674.JPG"><img
+ width="200" alt="Summit camp on Moel Llyfnant." title="Summit camp on Moel Llyfnant." src="/images/2013-07_arenigs/thumb.IMG_7674.JPG" /></a>
 
-*@@html: <p class="caption"><b>Summit camp on Moel Llyfnant</b></p>@@*
-*@@html: <a href="/galleries/2013-07_arenigs/IMG_7674.JPG" class="rounded
-float-left" alt="Summit camp on Moel Llyfnant"><img src="/galleries/2013-07_arenigs/IMG_7674.JPG"></a>@@*
+</div>
+#+END_HTML
 
 Reaching the summit of Arenig Fawr, I sat down next to the memorial to
 the crew of the B17 Flying Fortress, which had crashed on the
@@ -70,10 +90,13 @@ really a fan of memorials on mountains, but there are certain historic
 ones that have been there for many years. It was good that somebody
 had gone to the trouble of placing the poppies beneath the plaque. I
 wondered if any of the airmen's families had ever visited this spot.
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunset over Snowdon." href="/images/2013-07_arenigs/IMG_7704.JPG"><img
+ width="200" alt="Sunset over Snowdon." title="Sunset over Snowdon." src="/images/2013-07_arenigs/thumb.IMG_7704.JPG" /></a>
 
-*@@html: <p class="caption"><b>Sunset over Snowdon</b></p>@@*
-*@@html: <a href="/galleries/2013-07_arenigs/IMG_7704.JPG" class="rounded
-float-left" alt="Sunset over Snowdon"><img src="/galleries/2013-07_arenigs/IMG_7704.JPG"></a>@@*
+</div>
+#+END_HTML
 
 It was now 6:00pm and I wanted to get to Moel Llyfnant before
 sunset. I set off down the South ridge towards the area of small lakes
@@ -108,10 +131,13 @@ sleeves. I woke again shortly after 4:00pm. It was already getting
 light and climbing out of the tent I could see the sky glowing red
 behind Arenig Fawr. I got out the camera and took photos as the sun
 climbed over the shoulder of Arenig Fawr.
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Just before the sunrise over Arenig Fawr." href="/images/2013-07_arenigs/IMG_7715.JPG"><img
+ width="200" alt="Just before the sunrise over Arenig Fawr." title="Just before the sunrise over Arenig Fawr." src="/images/2013-07_arenigs/thumb.IMG_7715.JPG" /></a>
 
-*@@html: <p class="caption"><b>Just before the sunrise over Arenig Fawr</b></p>@@*
-*@@html: <a href="/galleries/2013-07_arenigs/IMG_7715.JPG" class="rounded
-float-left" alt="Just before the sunrise over Arenig Fawr"><img src="/galleries/2013-07_arenigs/IMG_7715.JPG"></a>@@*
+</div>
+#+END_HTML
 
 I had packed up by 7:00am and began descending the North Ridge towards
 the abanodoned cottage of Amnod-bwll. Last time I had retraced my
@@ -122,10 +148,13 @@ boggy bits. There are traces of a path, intermingled with lots of
 misleading sheep tracks. However, if you just head on a bearing
 towards Amnodd-bwll you will emerge onto a farm track near to the
 bottom of the hill.
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Llyfnant from the forestry track." href="/images/2013-07_arenigs/IMG_7741.JPG"><img
+ width="200" alt="Moel Llyfnant from the forestry track." title="Moel Llyfnant from the forestry track." src="/images/2013-07_arenigs/thumb.IMG_7741.JPG" /></a>
 
-*@@html: <p class="caption"><b>Moel Llyfnant from the forestry track</b></p>@@*
-*@@html: <a href="/galleries/2013-07_arenigs/IMG_7741.JPG" class="rounded
-float-left" alt="Moel Llyfnant from the forestry track"><img src="/galleries/2013-07_arenigs/IMG_7741.JPG"></a>@@*
+</div>
+#+END_HTML
 
 From Amnodd-bwll I followed the forestry road. There comes a point near
 to the ruined buildings of Amnodd-wen where the track divides. I couldn't

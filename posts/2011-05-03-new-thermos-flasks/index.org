@@ -16,9 +16,14 @@ your drink full of pieces of glass! We do have a few stainless steel
 flasks, but these are heavy and don't keep drinks hot for a full days
 walking.
 
-*@@html: <p class="caption"><b>Thermos Ultimate</b></p>@@*
-*@@html: <a href="/galleries/thermos.jpg" class="rounded
-float-left" alt=""><img src="/galleries/thermos.jpg"></a>@@*
+#+BEGIN_HTML
+<div class="photofloatr">
+<p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/thermos.jpg"  title="Thermos Ultimate."> <img src="/images/thermos.jpg" width="180"
+     alt="Thermos Ultimate."></a></p>
+  <p>Thermos Ultimate.</p>
+
+</div>
+#+END_HTML
 
 
 Recently I heard about the Thermos Ultimate stainless steel flask,

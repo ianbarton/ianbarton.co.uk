@@ -15,14 +15,9 @@ of the watch, so if you are wearing it on your wrist it just measures
 your external body temperature. Secondly, it only shows the current
 temperature and not the maximum or minimum.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><img src="/images/solar_thermometer.jpg" width="300"
-     alt="Helicopter"></p>
-  <p>Twin Rotor Helicopter</p>
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Solar Thermometer</b></p>@@*
+*@@html: <a href="/galleries/solar_thermometer.jpg" class="rounded
+float-left" alt="Solar Thermometer"><img src="/galleries/solar_thermometer.jpg"></a>@@*
 
 If you have a greenhouse, you are probably familiar with the "U"
 shaped spirit thermometer, which has a metal cylinder on each column

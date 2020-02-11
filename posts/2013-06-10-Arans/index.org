@@ -9,10 +9,14 @@
 .. type: text
 #+END_COMMENT
 
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Craig Cywarch." href="/images/2013-06-03_arans/IMG_7219.JPG"><img
+ width="200" alt="Craig Cywarch." title="Craig Cywarch." src="/images/2013-06-03_arans/thumb.IMG_7219.JPG" /></a>
+</div>
 
-*@@html: <p class="caption"><b>Craig Cywarch</b></p>@@*
-*@@html: <a href="/galleries/2013-06-03_arans/IMG_7219.JPG" class="rounded
-float-left" alt="Craig Cywarch"><img src="/galleries/2013-06-03_arans/IMG_7219.JPG"></a>@@*
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
 
 Finally a period of sunny weather. I had wanted to get out for an
 overnight trip, but the weather had put paid to any trips so far this
@@ -24,17 +28,30 @@ about for some time, as I had never climbed Glasgwm. After several
 trips over the Arans in indifferent weather, I had wanted to save the
 circuit for a settled period of fine weather.
 
+#+BEGIN_HTML
+<!-- PELICAN_END_SUMMARY -->
+#+END_HTML
 
-*@@html: <p class="caption"><b>Aran Fawddwy and Craiglyn Dyfi</b></p>@@*
-*@@html: <a href="/galleries/2013-06-03_arans/IMG_7229.JPG" class="rounded
-float-left" alt="Aran Fawddwy and Craiglyn Dyfi"><img src="/galleries/2013-06-03_arans/IMG_7229.JPG"></a>@@*
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
 
 The plan was to park in Cwm Cowarch, then walk up Hengwm and over the
 summit of Aran Fawddwy followed by a crossing of the boggy along the
 boardwalks and then a final pull up Glasgwm, where I would camp next
 to Llyn y Fign. The next morning I would follow my route of ascent
 back to the path leading down into Cwm Cwyarch and so back to the car park.
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Aran Fawddwy and Craiglyn Dyfi." href="/images/2013-06-03_arans/IMG_7229.JPG"><img
+ width="200" alt="Aran Fawddwy and Craiglyn Dyfi." title="Aran Fawddwy and Craiglyn Dyfi." src="/images/2013-06-03_arans/thumb.IMG_7229.JPG" /></a>
 
+</div>
+#+END_HTML
+
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
 
 I packed my rucksack and emptied a bottle of flavoured water into one
 of my Platypus bottles. I set off from the car park shortly after
@@ -45,10 +62,17 @@ it, I filled another Platypus up from the river. This wasn't really
 enough water for the whole day, but I thought I would be
 able to get more water higher up.
 
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Memorial with Cadair Idris in the background." href="/images/2013-06-03_arans/IMG_7234.JPG"><img
+ width="200" alt="Memorial with Cadair Idris in the background." title="Memorial with Cadair Idris in the background." src="/images/2013-06-03_arans/thumb.IMG_7234.JPG" /></a>
 
-*@@html: <p class="caption"><b>Memorial with Cadair Idris in the background</b></p>@@*
-*@@html: <a href="/galleries/2013-06-03_arans/IMG_7234.JPG" class="rounded
-float-left" alt="Memorial with Cadair Idris in the background"><img src="/galleries/2013-06-03_arans/IMG_7234.JPG"></a>@@*
+</div>
+#+END_HTML
+
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
 
 Walking up Hengwm I was in the shade, which made for pleasant walking
 as it was very hot in the sun. On the far side of the valley I had a
@@ -62,9 +86,17 @@ Fawddwy was completely clear and there were great views over the
 steep East face and down to Craiglyn Dyfi, where I had pitched the
 Voyager Superlite last year for the first time in pouring rain.
 
-*@@html: <p class="caption"><b>Rhinogs in the distance</b></p>@@*
-*@@html: <a href="/galleries/2013-06-03_arans/IMG_7235.JPG" class="rounded
-float-left" alt="Rhinogs in the distance"><img src="/galleries/2013-06-03_arans/IMG_7235.JPG"></a>@@*
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Rhinogs in the distance." href="/images/2013-06-03_arans/IMG_7235.JPG"><img
+ width="200" alt="Rhinogs in the distance." title="Rhinogs in the distance." src="/images/2013-06-03_arans/thumb.IMG_7235.JPG" /></a>
+
+</div>
+#+END_HTML
+
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
 
 After a short rest, I continued up towards the summit of Aran
 Fawddwy. On the way I crossed a ladder style and noticed a small
@@ -80,10 +112,17 @@ any. I new that there were several big pools near to the summit of
 Aran Benllyn. However, I was too lazy to walk the extra distance to
 Aran Benllyn and thought I would be certain to find more water before
 my ascent of Glasgwm. This turned out to be a bad decision!
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="OS grid reference on a ladder style." href="/images/2013-06-03_arans/IMG_7245.JPG"><img
+ width="200" alt="OS grid reference on a ladder style." title="OS grid reference on a ladder style." src="/images/2013-06-03_arans/thumb.IMG_7245.JPG" /></a>
 
-*@@html: <p class="caption"><b>OS grid reference on a ladder style</b></p>@@*
-*@@html: <a href="/galleries/2013-06-03_arans/IMG_7245.JPG" class="rounded
-float-left" alt="OS grid reference on a ladder style"><img src="/galleries/2013-06-03_arans/IMG_7245.JPG"></a>@@*
+</div>
+#+END_HTML
+
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
 
 
 When I had finished lunch I started to make my way back down the
@@ -94,11 +133,13 @@ to its summit. Just after I crossed the ladder style at the start of
 the fence, I met another man who was sitting admiring the view. In the
 whole day I only saw three people.
 
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Aran Benllyn from Aran Fawddwy." href="/images/2013-06-03_arans/IMG_7256.JPG"><img
+ width="200" alt="Aran Benllyn from Aran Fawddwy." title="Aran Benllyn from Aran Fawddwy." src="/images/2013-06-03_arans/thumb.IMG_7256.JPG" /></a>
 
-*@@html: <p class="caption"><b>Aran Benllyn from Aran Fawddwy</b></p>@@*
-*@@html: <a href="/galleries/2013-06-03_arans/IMG_7256.JPG" class="rounded
-float-left" alt="Aran Benllyn from Aran Fawddwy"><img src="/galleries/2013-06-03_arans/IMG_7256.JPG"></a>@@*
-
+</div>
+#+END_HTML
 
 Luckily the ground was fairly dry, with only a couple of the boarded
 sections over the bogs covering significantly wet sections. It seemed
@@ -121,10 +162,17 @@ was a perfect flat grassy patch that was near to the ladder style. I
 soon had the tent pitched and lay down inside to escape from the sun
 for a few minutes and rest.
 
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tent near Llyn Figyn." href="/images/2013-06-03_arans/IMG_7269.JPG"><img
+ width="200" alt="Tent near Llyn Figyn." title="Tent near Llyn Figyn." src="/images/2013-06-03_arans/thumb.IMG_7269.JPG" /></a>
 
-*@@html: <p class="caption"><b>Tent near Llyn Figyn</b></p>@@*
-*@@html: <a href="/galleries/2013-06-03_arans/IMG_7269.JPG" class="rounded
-float-left" alt="Tent near Llyn Figyn"><img src="/galleries/2013-06-03_arans/IMG_7269.JPG"></a>@@*
+</div>
+#+END_HTML
+
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
 
 There was plenty of daylight left, so once I had eaten tea I set off
 around the summit to explore. Although it had been a warm day, there
@@ -134,10 +182,17 @@ the sunset, which was around 9:30pm. Shortly after nine I got out of
 the tent and wandered around taking photos. Finally I sat next to the
 summit cairn and watched the sun drop below the horizon.
 
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunset." href="/images/2013-06-03_arans/IMG_7311.JPG"><img
+ width="200" alt="Sunset." title="Sunset." src="/images/2013-06-03_arans/thumb.IMG_7311.JPG" /></a>
 
-*@@html: <p class="caption"><b>Sunset</b></p>@@*
-*@@html: <a href="/galleries/2013-06-03_arans/IMG_7311.JPG" class="rounded
-float-left" alt="Sunset"><img src="/galleries/2013-06-03_arans/IMG_7311.JPG"></a>@@*
+</div>
+#+END_HTML
+
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
 
 Crawling back into the tent, I fell asleep almost immediately. When I
 woke up it was light. Glancing at my watch it was shortly after
@@ -157,10 +212,17 @@ interesting shapes over the valley. Lost in my own thoughts I walked
 straight past the car park, not realizing my mistake for about a
 quarter of a mile.
 
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunrise over Aran Fawddwy." href="/images/2013-06-03_arans/IMG_7315.JPG"><img
+ width="200" alt="Sunrise over Aran Fawddwy." title="Sunrise over Aran Fawddwy." src="/images/2013-06-03_arans/thumb.IMG_7315.JPG" /></a>
 
-*@@html: <p class="caption"><b>Sunrise over Aran Fawddwy</b></p>@@*
-*@@html: <a href="/galleries/2013-06-03_arans/IMG_7315.JPG" class="rounded
-float-left" alt="Sunrise over Aran Fawddwy"><img src="/galleries/2013-06-03_arans/IMG_7315.JPG"></a>@@*
+</div>
+#+END_HTML
+
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*
 
 
 It had been a memorable trip. Perfect weather, a perfect wild camping
@@ -171,3 +233,18 @@ tent. I didn't want to be late back and it was obviously going to be
 another hot day, so I was packed up and ready to descend shortly after
 6:00am. Taking my time, so I could enjoy the views I retraced my line
 of ascent along the fence.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Boards on N
+Ridge of Aran Benllyn." href="/images/2013-06-03_arans/IMG_7219.JPG"><img
+ width="200" alt="Boards on N
+Ridge of Aran Benllyn." title="Boards on N
+Ridge of Aran Benllyn." src="/images/2013-06-03_arans/thumb.IMG_7219.JPG" /></a>
+
+</div>
+#+END_HTML
+
+*@@html: <p class="caption"><b>Looking back along the summit ridge</b></p>@@*
+*@@html: <a href="/galleries/2013-03_moel_siabod/IMG_6795.JPG" class="rounded
+float-left" alt="Looking back along the summit ridge"><img src="/galleries/2013-03_moel_siabod/IMG_6795.JPG"></a>@@*

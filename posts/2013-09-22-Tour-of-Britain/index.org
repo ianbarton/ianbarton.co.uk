@@ -8,12 +8,16 @@
 .. description:
 .. type: text
 #+END_COMMENT
+#+BEGIN_HTML
+<!-- PELICAN_BEGIN_SUMMARY -->
 
-*@@html: <p class="caption"><b>Tour of Britain</b></p>@@*
-*@@html: <a href="/galleries/2013-09_tour_of_britain/IMG_7905.JPG" class="rounded
-float-left" alt="Tour of Britain"><img src="/galleries/2013-09_tour_of_britain/IMG_7905.JPG"></a>@@*
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tour of Britain." href="/static/images/2013-09_tour_of_britain/IMG_7905.JPG"><img
+ width="200" alt="Tour of Britain." title="Tour of Britain." src="/static/images/2013-09_tour_of_britain/thumb.IMG_7905.JPG" /></a>
 
+</div>
 
+#+END_HTML
 As a keen cyclist I was pleased to hear that stage four of the [[http://tourofbritian.co.uk][Tour of
 Britain]] was passing within a couple of miles of where I lived. I
 decided that the best place to get a good view was outside the local
@@ -22,6 +26,10 @@ to pass the pub about 12:00pm, so I left home shortly after eleven on
 the 20 minute ride, to give my self plenty of time to find a good
 spot.
 
+
+#+BEGIN_HTML
+<!-- PELICAN_END_SUMMARY -->
+#+END_HTML
 
 Even though we were in the depths of the Shropshire countryside there
 was a good turn out of spectators, many of whom arrived by cycle. I
