@@ -112,11 +112,23 @@ Need to add content!
 - State "DONE"       from "TODO"       [2019-09-02 Mon 17:06]
 :END:
 
-** TODO -rw-r--r--  1 ian ian 11738 Aug 23 10:14  2010-06-02-glyders_photos.org
+** DONE -rw-r--r--  1 ian ian 11738 Aug 23 10:14  2010-06-02-glyders_photos.org
+   CLOSED: [2020-02-16 Sun 15:24]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:24]
+   :END:
 
-** TODO -rw-r--r--  1 ian ian 28591 Aug 26 18:11  2010-06-02-glyders-traverse-photos.org
+** DONE -rw-r--r--  1 ian ian 28591 Aug 26 18:11  2010-06-02-glyders-traverse-photos.org
+   CLOSED: [2020-02-16 Sun 15:24]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:24]
+   :END:
 
-** TODO -rw-r--r--  1 ian ian  7030 Aug 23 10:14  2010-06-02-traverse-of-the-glyders-from-capel-curig-to-nant-peris.org
+** DONE -rw-r--r--  1 ian ian  7030 Aug 23 10:14  2010-06-02-traverse-of-the-glyders-from-capel-curig-to-nant-peris.org
+   CLOSED: [2020-02-16 Sun 15:24]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:24]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian  2343 Aug 23 10:14  2010-06-08-bryn-tyrch-hotel.org
    CLOSED: [2019-09-29 Sun 14:15]
@@ -196,7 +208,11 @@ Need to add content!
 - State "DONE"       from "TODO"       [2019-09-02 Mon 17:10]
 :END:
 
-** TODO -rw-r--r--  1 ian ian  3875 Aug 23 10:16  2010-09-03-casio-protrek-watch.org
+** DONE -rw-r--r--  1 ian ian  3875 Aug 23 10:16  2010-09-03-casio-protrek-watch.org
+   CLOSED: [2020-02-16 Sun 15:24]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:24]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian  3797 Aug 23 10:17  2011-01-09-lowe-alpine-cap-vs-trekmates-ice-gtx-cap-vs-paramo.org
    CLOSED: [2020-02-11 Tue 14:49]
@@ -204,11 +220,23 @@ Need to add content!
    - State "DONE"       from "TODO"       [2020-02-11 Tue 14:49]
    :END:
 
-** TODO -rw-r--r--  1 ian ian  3040 Aug 23 10:17  2011-01-16-backpacking-in-wales-by-showell-styles.org
+** DONE -rw-r--r--  1 ian ian  3040 Aug 23 10:17  2011-01-16-backpacking-in-wales-by-showell-styles.org
+   CLOSED: [2020-02-16 Sun 15:24]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:24]
+   :END:
 
-** TODO -rw-r--r--  1 ian ian  2754 Aug 23 10:17  2011-01-20-alpkit-gamma-headtorch.org
+** DONE -rw-r--r--  1 ian ian  2754 Aug 23 10:17  2011-01-20-alpkit-gamma-headtorch.org
+   CLOSED: [2020-02-16 Sun 15:24]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:24]
+   :END:
 
-** TODO -rw-r--r--  1 ian ian  4468 Aug 23 10:17  2011-02-24-llanberis.circuit.org
+** DONE -rw-r--r--  1 ian ian  4468 Aug 23 10:17  2011-02-24-llanberis.circuit.org
+   CLOSED: [2020-02-16 Sun 15:24]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:24]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian  1701 Aug 23 10:17  2011-03-04-ortlieb-map-case.org
    CLOSED: [2020-02-11 Tue 14:53]
@@ -216,13 +244,29 @@ Need to add content!
    - State "DONE"       from "TODO"       [2020-02-11 Tue 14:53]
    :END:
 
-** TODO -rw-r--r--  1 ian ian  4309 Aug 23 10:17  2011-03-13-february-climb-on-tryfan-bach.org
+** DONE -rw-r--r--  1 ian ian  4309 Aug 23 10:17  2011-03-13-february-climb-on-tryfan-bach.org
+   CLOSED: [2020-02-16 Sun 15:24]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:24]
+   :END:
 
-** TODO -rw-r--r--  1 ian ian  8937 Aug 23 10:18  2011-04-29-carneddau-backpack.org
+** DONE -rw-r--r--  1 ian ian  8937 Aug 23 10:18  2011-04-29-carneddau-backpack.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
-** TODO -rw-r--r--  1 ian ian  2491 Aug 23 10:18  2011-05-03-new-thermos-flasks.org
+** DONE -rw-r--r--  1 ian ian  2491 Aug 23 10:18  2011-05-03-new-thermos-flasks.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
-** TODO -rw-r--r--  1 ian ian  3202 Aug 23 10:18  2011-05-27-adventures-in-kvm-land.org
+** DONE -rw-r--r--  1 ian ian  3202 Aug 23 10:18  2011-05-27-adventures-in-kvm-land.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian  2547 Aug 23 10:18  2011-08-07-inov8-roclite-295.org
    CLOSED: [2019-09-27 Fri 18:33]
@@ -230,8 +274,10 @@ Need to add content!
    - State "DONE"       from "TODO"       [2019-09-27 Fri 18:33]
    :END:
 
-** STARTED -rw-r--r--  1 ian ian  9780 Aug 23 10:18  2011-08-14-zephyros-on-moel-siabod.org
+** DONE -rw-r--r--  1 ian ian  9780 Aug 23 10:18  2011-08-14-zephyros-on-moel-siabod.org
+   CLOSED: [2020-02-16 Sun 15:25]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-02-16 Sun 15:25]
    - Note taken on [2019-09-29 Sun 15:13] \\
      Need to fix url reference to remote page.
    :END:
@@ -242,11 +288,23 @@ Need to add content!
    - State "DONE"       from "TODO"       [2019-09-27 Fri 18:34]
    :END:
 
-** TODO  -rw-r--r--  1 ian ian  9405 Aug 23 10:19  2011-09-05-carneddeau-summit-camp.org
+** DONE -rw-r--r--  1 ian ian  9405 Aug 23 10:19  2011-09-05-carneddeau-summit-camp.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian 10862 Aug 23 10:19  2011-10-29-glyders-wild-camp.org
+** DONE -rw-r--r--  1 ian ian 10862 Aug 23 10:19  2011-10-29-glyders-wild-camp.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  4448 Aug 23 10:19  2011-10-29-tryfan-glyders-photos.org
+** DONE -rw-r--r--  1 ian ian  4448 Aug 23 10:19  2011-10-29-tryfan-glyders-photos.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian  1632 Aug 23 10:19  2012-02-10-solar-maximum-and-minimum-thermometer.org
    CLOSED: [2020-02-11 Tue 14:36]
@@ -254,9 +312,17 @@ Need to add content!
    - State "DONE"       from "TODO"       [2020-02-11 Tue 14:36]
    :END:
 
-** TODO  -rw-r--r--  1 ian ian 12544 Aug 23 10:19  2012-03-05-carneddau-overnighter.org
+** DONE -rw-r--r--  1 ian ian 12544 Aug 23 10:19  2012-03-05-carneddau-overnighter.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian 10871 Aug 23 10:19  2012-04-13-a-trip-over-the-moelwyns.org
+** DONE -rw-r--r--  1 ian ian 10871 Aug 23 10:19  2012-04-13-a-trip-over-the-moelwyns.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian  1148 Aug 23 10:20  2012-04-17-lake-vyrnwy.org
    CLOSED: [2019-09-27 Fri 18:34]
@@ -264,21 +330,53 @@ Need to add content!
    - State "DONE"       from "TODO"       [2019-09-27 Fri 18:34]
    :END:
 
-** TODO  -rw-r--r--  1 ian ian 11424 Aug 23 10:20  2012-04-22-moel-siabod-summit-camp.org
+** DONE -rw-r--r--  1 ian ian 11424 Aug 23 10:20  2012-04-22-moel-siabod-summit-camp.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian 10803 Aug 23 10:20  2012-05-15-carneddau-traverse.org
+** DONE -rw-r--r--  1 ian ian 10803 Aug 23 10:20  2012-05-15-carneddau-traverse.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  8745 Aug 23 10:20  2012-07-21-splashing-about-in-the-arans.org
+** DONE -rw-r--r--  1 ian ian  8745 Aug 23 10:20  2012-07-21-splashing-about-in-the-arans.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian 10416 Aug 25 09:44  2012-08-11-carneddau-horseshoe.org
+** DONE -rw-r--r--  1 ian ian 10416 Aug 25 09:44  2012-08-11-carneddau-horseshoe.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  2115 Aug 23 10:20  2012-09-06-sea-to-summit-xmug.org
+** DONE -rw-r--r--  1 ian ian  2115 Aug 23 10:20  2012-09-06-sea-to-summit-xmug.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  1104 Aug 23 10:21  2012-12-10-website-makeover.org
+** DONE -rw-r--r--  1 ian ian  1104 Aug 23 10:21  2012-12-10-website-makeover.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  4044 Aug 23 10:21  2012-12-14-Circular-Ride-from-Whitchurch.org
+** DONE -rw-r--r--  1 ian ian  4044 Aug 23 10:21  2012-12-14-Circular-Ride-from-Whitchurch.org
+   CLOSED: [2020-02-16 Sun 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:25]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  2779 Aug 23 10:21  2012-12-27-Connemara.org
+** DONE -rw-r--r--  1 ian ian  2779 Aug 23 10:21  2012-12-27-Connemara.org
+   CLOSED: [2020-02-16 Sun 15:26]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:26]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian   405 Aug 23 10:21  2013-01-07-Rab-Vapour-Rise-Lite-Alpine-Jacket.org
    CLOSED: [2019-09-27 Fri 13:10]
@@ -292,19 +390,47 @@ Need to add content!
    - State "DONE"       from "TODO"       [2019-09-27 Fri 13:11]
    :END:
 
-** TODO  -rw-r--r--  1 ian ian  4234 Aug 23 10:21  2013-02-18-Moel_Famau.org
+** DONE -rw-r--r--  1 ian ian  4234 Aug 23 10:21  2013-02-18-Moel_Famau.org
+   CLOSED: [2020-02-16 Sun 15:26]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:26]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  6583 Aug 23 10:22  2013-03-28-moel-siabod-in-winter.org
+** DONE -rw-r--r--  1 ian ian  6583 Aug 23 10:22  2013-03-28-moel-siabod-in-winter.org
+   CLOSED: [2020-02-16 Sun 15:26]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:26]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  1431 Aug 23 10:22  2013-04-05_cross_fell.org
+** DONE -rw-r--r--  1 ian ian  1431 Aug 23 10:22  2013-04-05_cross_fell.org
+   CLOSED: [2020-02-16 Sun 15:26]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:26]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian 10114 Aug 23 10:22  2013-06-10-Arans.org
+** DONE -rw-r--r--  1 ian ian 10114 Aug 23 10:22  2013-06-10-Arans.org
+   CLOSED: [2020-02-16 Sun 15:26]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:26]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  7024 Aug 23 10:22  2013-07-06-moelwyns-cloud-inversion.org
+** DONE -rw-r--r--  1 ian ian  7024 Aug 23 10:22  2013-07-06-moelwyns-cloud-inversion.org
+   CLOSED: [2020-02-16 Sun 15:26]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:26]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  8346 Aug 23 10:22  2013-07-20-Arenigs-Overnighter.org
+** DONE -rw-r--r--  1 ian ian  8346 Aug 23 10:22  2013-07-20-Arenigs-Overnighter.org
+   CLOSED: [2020-02-16 Sun 15:26]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:26]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian  1808 Aug 23 10:22  2013-09-22-Tour-of-Britain.org
+** DONE -rw-r--r--  1 ian ian  1808 Aug 23 10:22  2013-09-22-Tour-of-Britain.org
+   CLOSED: [2020-02-16 Sun 15:26]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:26]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian   834 Aug 23 10:23  2014-01-01-Happy_New_Year.org
    CLOSED: [2019-09-22 Sun 15:04]
@@ -392,9 +518,17 @@ Need to add content!
    - State "DONE"       from "TODO"       [2019-09-27 Fri 13:09]
    :END:
 
-** TODO  -rw-r--r--  1 ian ian  3449 Aug 23 10:25  2015-03-02-decathlon-triban-500SE.org
+** DONE -rw-r--r--  1 ian ian  3449 Aug 23 10:25  2015-03-02-decathlon-triban-500SE.org
+   CLOSED: [2020-02-16 Sun 15:26]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:26]
+   :END:
 
-** TODO  -rw-r--r--  1 ian ian   292 Aug 26 12:10  2015-06-23-Another Summit Camp on Moel Llyfnant..org
+** DONE -rw-r--r--  1 ian ian   292 Aug 26 12:10  2015-06-23-Another Summit Camp on Moel Llyfnant..org
+   CLOSED: [2020-02-16 Sun 15:26]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-02-16 Sun 15:26]
+   :END:
 
 ** DONE -rw-r--r--  1 ian ian  4101 Aug 23 10:25  2015-09-24-backpacking-kit-list.org
    CLOSED: [2019-09-02 Mon 16:51]
