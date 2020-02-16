@@ -16,13 +16,9 @@ them. Mugs take up space in my rucksack. I can try to stuff things
 inside them to try and reduce the dead space, but this isn't always
 possible.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/X-Mug.jpg"  title="Sea to Summit X-Mug" ><img src="/images/X-Mug.jpg" width="200"
-     alt="Sea to Summit X-Mug"/></a></p>
-  <p>Sea to Summit X-Mug</p>
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Sea to Summit X-Mug</b></p>@@*
+*@@html: <a href="/galleries/X-Mug.jpg" title="A title"
+  class="rounded float-left" { alt="Sea to Summit X-Mug"><img src="/galleries/X-Mug.png"></a>@@*
 
 I had read several reviews of Sea to Summits [[http://www.seatosummit.com/products/display/71][X-Mug]] . It's constructed
 from silicone with a rigid rim. Its unique selling point is that it
