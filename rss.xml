@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ian's Blog.</title><link>https://ianbarton.co.uk/</link><description>Ian's Blog.</description><atom:link href="https://ianbarton.co.uk/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:ian@ianbarton.co.uk"&gt;Ian Barton.&lt;/a&gt; </copyright><lastBuildDate>Tue, 11 Feb 2020 14:55:23 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>README and List of Pages to Update.</title><link>https://ianbarton.co.uk/posts/2019-09-26-readme-fixes/</link><dc:creator>Ian Barton.</dc:creator><description></description><category>mountaineering</category><category>tripreport</category><guid>https://ianbarton.co.uk/posts/2019-09-26-readme-fixes/</guid><pubDate>Thu, 26 Sep 2019 17:58:37 GMT</pubDate></item><item><title>Change of Blog url.</title><link>https://ianbarton.co.uk/posts/2019-09-23-changed-url/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ian's Blog.</title><link>https://ianbarton.co.uk/</link><description>Ian's Blog.</description><atom:link href="https://ianbarton.co.uk/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:ian@ianbarton.co.uk"&gt;Ian Barton.&lt;/a&gt; </copyright><lastBuildDate>Sun, 16 Feb 2020 12:12:06 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>README and List of Pages to Update.</title><link>https://ianbarton.co.uk/posts/2019-09-26-readme-fixes/</link><dc:creator>Ian Barton.</dc:creator><description></description><category>mountaineering</category><category>tripreport</category><guid>https://ianbarton.co.uk/posts/2019-09-26-readme-fixes/</guid><pubDate>Thu, 26 Sep 2019 17:58:37 GMT</pubDate></item><item><title>Change of Blog url.</title><link>https://ianbarton.co.uk/posts/2019-09-23-changed-url/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
 I have decided to move my blog from the original &lt;a href="http://ian-barton.com"&gt;http://ian-barton.com&lt;/a&gt; to
 &lt;a href="http://ianbarton.co.uk"&gt;http://ianbarton.co.uk&lt;/a&gt; . All the pages from the original site are here. If you
 go to the old url, you should be automatically be redirected here.
@@ -395,18 +395,12 @@ useless. Can you image trying to fit a tight sleeve round a pot full
 of boiling water without burning your hands?
 &lt;/p&gt;
 
-&lt;div class="HTML"&gt;
 &lt;p&gt;
-&amp;lt;div class="photofloatl"&amp;gt;
-&amp;lt;a class="fancybox-thumb" rel="fancybox-thumb"  title="Alpkit BruPot and MSR kettle." href="/images/2014-10-Brukit/IMG&lt;sub&gt;20141006&lt;/sub&gt;&lt;sub&gt;165911.jpg&lt;/sub&gt;"&amp;gt;&amp;lt;img
- width="200" alt="Alpkit BruPot and MSR kettle." title="Alpkit BruPot and MSR kettle." src="/images/2014-10-Brukit/thumb.IMG&lt;sub&gt;20141006&lt;/sub&gt;&lt;sub&gt;165911.jpg&lt;/sub&gt;" /&amp;gt;&amp;lt;/a&amp;gt;
-&lt;/p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Alpkit BruPot and MSR kettle&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2014-10-Brukit/IMG_20141006_165911.jpg" class="rounded
+float-left" alt="Alpkit BruPot and MSR kettle"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2014-10-Brukit/IMG_20141006_165911.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
 
-&lt;p&gt;
-&amp;lt;/div&amp;gt;
-&lt;/p&gt;
 
-&lt;/div&gt;
 
 &lt;p&gt;
 I decided to do a head to head to see how long each pot would take to
@@ -447,9 +441,9 @@ The Alpkit Brupot weighs 266g, including the bag and my MSR kettle
 weighs 254g.
 &lt;/p&gt;
 
-&lt;div id="outline-container-org21686ba" class="outline-3"&gt;
-&lt;h3 id="org21686ba"&gt;&lt;span class="timestamp-wrapper"&gt;&lt;span class="timestamp"&gt;[2014-10-07 Tue] &lt;/span&gt;&lt;/span&gt; Update.&lt;/h3&gt;
-&lt;div class="outline-text-3" id="text-org21686ba"&gt;
+&lt;div id="outline-container-org41fa373" class="outline-3"&gt;
+&lt;h3 id="org41fa373"&gt;&lt;span class="timestamp-wrapper"&gt;&lt;span class="timestamp"&gt;[2014-10-07 Tue] &lt;/span&gt;&lt;/span&gt; Update.&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-org41fa373"&gt;
 &lt;p&gt;
 It was pointed out to me that I really should also be measuring the
 weight of gas used. In my original experiment I didn't weight the gas
@@ -490,9 +484,9 @@ consumed is.
 &lt;/div&gt;
 
 
-&lt;div id="outline-container-org4cf28a9" class="outline-4"&gt;
-&lt;h4 id="org4cf28a9"&gt;Gas Cylinder Removed Before Weighing.&lt;/h4&gt;
-&lt;div class="outline-text-4" id="text-org4cf28a9"&gt;
+&lt;div id="outline-container-org46c77e9" class="outline-4"&gt;
+&lt;h4 id="org46c77e9"&gt;Gas Cylinder Removed Before Weighing.&lt;/h4&gt;
+&lt;div class="outline-text-4" id="text-org46c77e9"&gt;
 &lt;table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border"&gt;
 &lt;caption class="t-above"&gt;&lt;span class="table-number"&gt;Table 1:&lt;/span&gt; Alpkit BruPot.&lt;/caption&gt;
 
@@ -569,9 +563,9 @@ consumed is.
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org00a903a" class="outline-4"&gt;
-&lt;h4 id="org00a903a"&gt;Gas Cylinder Weighed Without Removing From Flexible Pipe.&lt;/h4&gt;
-&lt;div class="outline-text-4" id="text-org00a903a"&gt;
+&lt;div id="outline-container-org1b66eb7" class="outline-4"&gt;
+&lt;h4 id="org1b66eb7"&gt;Gas Cylinder Weighed Without Removing From Flexible Pipe.&lt;/h4&gt;
+&lt;div class="outline-text-4" id="text-org1b66eb7"&gt;
 &lt;table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border"&gt;
 &lt;caption class="t-above"&gt;&lt;span class="table-number"&gt;Table 3:&lt;/span&gt; First Run.&lt;/caption&gt;
 
@@ -659,9 +653,9 @@ consumed is.
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org88b0770" class="outline-2"&gt;
-&lt;h2 id="org88b0770"&gt;Conclusions.&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org88b0770"&gt;
+&lt;div id="outline-container-orgd1e1e77" class="outline-2"&gt;
+&lt;h2 id="orgd1e1e77"&gt;Conclusions.&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgd1e1e77"&gt;
 &lt;p&gt;
 The difference in performance between the BruPot and the MSR kettle
 are quite small and probably have little effect in real world use. The

@@ -9,17 +9,10 @@
 .. type: text
 #+END_COMMENT
 
-#+BEGIN_HTML
-<!-- PELICAN_BEGIN_SUMMARY -->
 
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb" title="Tremadoc Bay from Moelwyn Bach." href="/images/2013-07-moelwyns/IMG_7584.jpg"><img
- width="200" alt="Tremadoc Bay from Moelwyn Bach." title="Tremadoc Bay from Moelwyn Bach." src="/images/2013-07-moelwyns/IMG_7584.jpg" /></a>
-
-</div>
-
-#+END_HTML
-
+*@@html: <p class="caption"><b>Tremadoc Bay from Moelwyn Bach</b></p>@@*
+*@@html: <a href="/galleries/2013-07-moelwyns/IMG_7584.jpg" class="rounded
+float-left" alt="Tremadoc Bay from Moelwyn Bach"><img src="/galleries/2013-07-moelwyns/IMG_7584.jpg"></a>@@*
 
 My son was doing his D of E Bronze expedition over the weekend,
 starting from Llandegla. The weather forecast was for hot and sunny
@@ -28,10 +21,6 @@ opportunity for an overnight trip, but has to be back home at midday
 on the Saturday morning. However, we wouldn't be
 arriving at Llandegla until about 7:00pm, which left very limited
 time for me to drive into Snowdonia and get up to a summit.
-
-#+BEGIN_HTML
-<!-- PELICAN_END_SUMMARY -->
-#+END_HTML
 
 
 Sunset at this time of year was 9:37pm. The closest mountains,
@@ -42,13 +31,10 @@ and fifteen minutes drive from Llandegla. I would be completing about
 half the walk after sunset, but navigation was simple, just follow
 the ridge and at this time of year it never goes properly dark.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb" title="Nantlle Ridge and Moelwyn Mawr." href="/images/2013-07-moelwyns/IMG_7587.jpg"><img
- width="200" alt="Nantlle Ridge and Moelwyn Mawr." title="Nantlle Ridge and Moelwyn Mawr." src="/images/2013-07-moelwyns/IMG_7587.jpg" /></a>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Nantlle Ridge and Moelwyn Mawr</b></p>@@*
+*@@html: <a href="/galleries/2013-07-moelwyns/IMG_7587.jpg" class="rounded
+float-left" alt="Nantlle Ridge and Moelwyn Mawr"><img src="/galleries/2013-07-moelwyns/IMG_7587.jpg"></a>@@*
 
 I arrived at the car park in Tanygrisiau shortly before 8:30pm. I had
 packed my rucksack before leaving home, so all I needed to do was get
@@ -65,13 +51,10 @@ easy to access Llyn Stwlan from this side, so I collected water from
 the outfall pipe below the dam. Once I had climbed the concrete steps
 at the far side of the dam, I would see that I could easily have
 collected my water from the lake, something to remember for next time.
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb" title="Tremadoc Bay from Moelwyn Bach." href="/images/2013-07-moelwyns/IMG_7620.jpg"><img
- width="200" alt="Tremadoc Bay from Moelwyn Bach." title="Tremadoc Bay from Moelwyn Bach." src="/images/2013-07-moelwyns/IMG_7620.jpg" /></a>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Tremadoc Bay from Moelwyn Bach</b></p>@@*
+*@@html: <a href="/galleries/2013-07-moelwyns/IMG_7620.jpg" class="rounded
+float-left" alt="Tremadoc Bay from Moelwyn Bach"><img src="/galleries/2013-07-moelwyns/IMG_7620.jpg"></a>@@*
 
 The route from Llyn Stwlan follows a fairly direct line over semi
 boggy ground to the col between Moelwyn Mawr and Moelwyn Bach. I
@@ -84,13 +67,10 @@ left my sack in plain view near to the path. There wasn't anyone else
 about at this time and I didn't want to lose sight of it in the
 gathering gloom.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb" title="Sunrise over Moel-yr-hydd." href="/images/2013-07-moelwyns/IMG_7623.jpg"><img
- width="200" alt="Sunrise over Moel-yr-hydd." title="Sunrise over Moel-yr-hydd." src="/images/2013-07-moelwyns/IMG_7623.jpg" /></a>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Sunrise over Moel-yr-hydd</b></p>@@*
+*@@html: <a href="/galleries/2013-07-moelwyns/IMG_7623.jpg" class="rounded
+float-left" alt="Sunrise over Moel-yr-hydd"><img src="/galleries/2013-07-moelwyns/IMG_7623.jpg"></a>@@*
 
 The ascent of Craigysgafn involves a pleasant scramble. Much better
 than my [[http://www.ian-barton.com/posts/2012/Apr/13/a-trip-over-the-moelwyns/][last]] visit when this section was more like a winter climb,
@@ -99,13 +79,10 @@ Mawr was much longer than I remembered and it was 11:00pm when I
 arrived at the summit cairn. Even though the sun had disappeared
 nearly two hours before, it was still light enough to see without a
 head torch.
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb" title="Mist drifting around Moel-yr-hydd." href="/images/2013-07-moelwyns/IMG_7625.jpg"><img
- width="200" alt="Mist drifting around Moel-yr-hydd." title="Mist drifting around Moel-yr-hydd." src="/images/2013-07-moelwyns/IMG_7625.jpg" /></a>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Mist drifting around Moel-yr-hydd</b></p>@@*
+*@@html: <a href="/galleries/2013-07-moelwyns/IMG_7625.jpg" class="rounded
+float-left" alt="Mist drifting around Moel-yr-hydd"><img src="/galleries/2013-07-moelwyns/IMG_7625.jpg"></a>@@*
 
 I set up the tent on a patch of grass close to the summit cairn. As I
 had been climbing towards the summit I had noticed the valleys below
@@ -123,13 +100,10 @@ summit dispersed and I was treated to the best inversion I have seen
 in Wales. I sat outside the tent for a couple of hours watching as
 the heat of the rising sun made caused the mist in below to swirl and
 change shape.
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb" title="Early morning light on Moelwyn Bach." href="/images/2013-07-moelwyns/IMG_7627.jpg"><img
- width="200" alt="Early morning light on Moelwyn Bach." title="Early morning light on Moelwyn Bach." src="/images/2013-07-moelwyns/IMG_7627.jpg" /></a>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Early morning light on Moelwyn Bach</b></p>@@*
+*@@html: <a href="/galleries/2013-07-moelwyns/IMG_7627.jpg" class="rounded
+float-left" alt="Early morning light on Moelwyn Bach"><img src="/galleries/2013-07-moelwyns/IMG_7627.jpg"></a>@@*
 
 I packed up around 7:00am and began to make my way downwards and over
 to Moel-yr-hydd. By the time I had reached the summit the heat of the

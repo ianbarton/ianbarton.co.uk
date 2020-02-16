@@ -17,17 +17,9 @@ well below freezing and plenty of snow. This year we decided to go
 away for the whole week. We were staying at [[http://www.tycochsnowdonia.co.uk/self-catering-sg.asp][Hen Ysgubor]] , which I can
 highly recommend.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-02-tryfan-bach/DSCF1158.JPG"
-
-    title="Ella shelters from the wind.">
-    <img src="/images/2011-02-tryfan-bach/DSCF1158.JPG" width="300"
-     alt="Ella shelters from the wind."></a></p>
-  <p>Ella shelters from the wind.</p>
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Ella shelters from the wind</b></p>@@*
+*@@html: <a href="/galleries/2011-02-tryfan-bach/DSCF1158.JPG" class="rounded
+float-left" alt="Ella shelters from the wind"><img src="/galleries/2011-02-tryfan-bach/DSCF1158.JPG"></a>@@*
 
 Unlike last year the weather was more mixed. Most days started misty
 with showers, but generally cleared by lunchtime. I made my annual
@@ -45,18 +37,9 @@ Ogwen. The plan was to do a climb on Tryfan Bach, which is only 10
 minutes walk from the road, has a selection of easy climbs and an straightforward
 descent.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-02-tryfan-bach/DSCF1165.JPG"
-
-    title="Getting close to the top.">
-    <img src="/images/2011-02-tryfan-bach/DSCF1165.JPG" width="300"
-     alt="Getting close to the top."></a></p>
-  <p>Getting close to the top.</p>
-</div>
-#+END_HTML
-
-
+*@@html: <p class="caption"><b>Getting close to the top</b></p>@@*
+*@@html: <a href="/galleries/2011-02-tryfan-bach/DSCF1165.JPG" class="rounded
+float-left" alt="Getting close to the top"><img src="/galleries/2011-02-tryfan-bach/DSCF1165.JPG"></a>@@*
 
 When we arrived things didn't look promising. Cloud was boiling down
 Cwm Tryfan, although Tryfan Bach was just in the clear. It was also

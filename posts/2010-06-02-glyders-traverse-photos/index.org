@@ -8,8 +8,7 @@
 .. description:
 .. type: text
 #+END_COMMENT
-To read about the walk click [[file:./glyders-wild-camp.html][here]] .
-
+To read about the walk click *@@html: <a href="/posts/2010-06-02-traverse-of-the-glyders-from-capel-curig-to-nant-peris">here </a>@@*
 
 *@@html: <p class="caption"><b>Path behind Joe Brown's shop.</b></p>@@*
 *@@html: <a href="/galleries/2010-06-glyders/DSCF2166.JPG" class="rounded
@@ -59,11 +58,6 @@ float-left" alt="Slope up to Y Foel Goch from Gallt yr Ogof"><img src="/gallerie
 *@@html: <p class="caption"><b>Looking East from Y Foel Goch towards Gallt yr Ogof</b></p>@@*
 *@@html: <a href="/galleries/2010-06-glyders/DSCF2113.JPG" class="rounded
 float-left" alt="Looking East from Y Foel Goch towards Gallt yr Ogof"><img src="/galleries/2010-06-glyders/DSCF2113.JPG"></a>@@*
-
-<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-06-glyders/DSCF2113.JPG"
-    title="Looking East from Y Foel Goch towards Gallt yr Ogof."> <img src="/images/2010-06-glyders/thumb.DSCF2113.JPG" width="200"
-         alt="Looking East from Y Foel Goch towards Gallt yr Ogof."></a>
-
 
 *@@html: <p class="caption"><b>Glyder Fach from summit of Y Foel Goch</b></p>@@*
 *@@html: <a href="/galleries/2010-04_moel_siabod/2010-06-glyders/DSCF2114.JPG" class="rounded

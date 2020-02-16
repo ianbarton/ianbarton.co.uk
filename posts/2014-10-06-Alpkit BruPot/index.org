@@ -44,13 +44,10 @@ cooking. Since the sleeve is a tight fit, it's effectively
 useless. Can you image trying to fit a tight sleeve round a pot full
 of boiling water without burning your hands?
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Alpkit BruPot and MSR kettle." href="/images/2014-10-Brukit/IMG_20141006_165911.jpg"><img
- width="200" alt="Alpkit BruPot and MSR kettle." title="Alpkit BruPot and MSR kettle." src="/images/2014-10-Brukit/thumb.IMG_20141006_165911.jpg" /></a>
+*@@html: <p class="caption"><b>Alpkit BruPot and MSR kettle</b></p>@@*
+*@@html: <a href="/galleries/2014-10-Brukit/IMG_20141006_165911.jpg" class="rounded
+float-left" alt="Alpkit BruPot and MSR kettle"><img src="/galleries/2014-10-Brukit/IMG_20141006_165911.jpg"></a>@@*
 
-</div>
-#+END_HTML
 
 I decided to do a head to head to see how long each pot would take to
 boil 500ml of water. I used my Primus stove with a full 500g
