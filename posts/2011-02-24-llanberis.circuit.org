@@ -30,6 +30,11 @@ a road bike will be fine.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Llyn Padarn and the Glyders</b></p>@@*
+*@@html: <a href="/galleries/cycling/llanberis_circular/DSCF1157.JPG" class="rounded
+float-left" alt="Llyn Padarn and the Glyders"><img src="/galleries/cycling/llanberis_circular/DSCF1157.JPG"></a>@@*
+
+Note to see more photographs from the walk click *@@html: <a href="/posts/2010-06-02-glyders-traverse-photos/">here </a>@@*
 You could start the ride in several places. We have started from the
 Caban at Brynrefail and from the lake at Llanberis. However,
 the parking at Llanberis is Pay and Display, whereas the parking near
@@ -57,6 +62,11 @@ need lights, but it can be quite dark so take care when cycling.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Initial steep hill</b></p>@@*
+*@@html: <a href="/galleries/cycling/llanberis_circular/20022011086.jpg" class="rounded
+float-left" alt="Initial steep hill"><img src="/galleries/cycling/llanberis_circular/20022011086.jpg"></a>@@*
+
+Note to see more photographs from the walk click *@@html: <a href="/posts/2010-06-02-glyders-traverse-photos/">here </a>@@*
 The path follows the shore of Llyn Padarn to emerge at the large car
 park by the main road. Cross the road at the far end of the car park
 and go past (or into) Pete's Eats. The route continues up Goodman
@@ -75,6 +85,11 @@ but nothing really steep.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Summit of Glyder Fach from Castle of the Winds</b></p>@@*
+*@@html: <a href="/galleries/2010-06-glyders/DSCF2134.JPG" class="rounded
+float-left" alt="Summit of Glyder Fach from Castle of the Winds"><img src="/galleries/2010-06-glyders/DSCF2134.JPG"></a>@@*
+
+Note to see more photographs from the walk click *@@html: <a href="/posts/2010-06-02-glyders-traverse-photos/">here </a>@@*
 Make sure that you stop by the quarries and look through the fence
 into their depths. As you continue to climb the views open
 out. Snowdon and the Glyders behind and the coast and Anglesey in
@@ -93,6 +108,11 @@ meet cars coming uphill around the blind bends.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Summit of Glyder Fach from Castle of the Winds</b></p>@@*
+*@@html: <a href="/galleries/2010-06-glyders/DSCF2134.JPG" class="rounded
+float-left" alt="Summit of Glyder Fach from Castle of the Winds"><img src="/galleries/2010-06-glyders/DSCF2134.JPG"></a>@@*
+
+Note to see more photographs from the walk click *@@html: <a href="/posts/2010-06-02-glyders-traverse-photos/">here </a>@@*
 When you reach the castle you pass under an arch formed by the castle
 walls and shortly after turn right. There is a short uphill section
 before the final steep descent, via a couple of hairpins, into Cwm y
@@ -110,7 +130,11 @@ junction with the main road.
 </div>
 #+END_HTML
 
+*@@html: <p class="caption"><b>Summit of Glyder Fach from Castle of the Winds</b></p>@@*
+*@@html: <a href="/galleries/2010-06-glyders/DSCF2134.JPG" class="rounded
+float-left" alt="Summit of Glyder Fach from Castle of the Winds"><img src="/galleries/2010-06-glyders/DSCF2134.JPG"></a>@@*
 
+Note to see more photographs from the walk click *@@html: <a href="/posts/2010-06-02-glyders-traverse-photos/">here </a>@@*
 Cross the road, turning right towards Llanberis. After a short
 distance take the first turn left. This looks like the entrance to an
 industrial estate at first glance. Tun right and follow a track which
