@@ -15,17 +15,11 @@ for an overnight trip over the Arans. However, on Thursday morning the
 forecast was for only 10% chance of clear summits, but with a promise
 of clouds clearing in the evening with Friday still forecast as 70%
 clear.
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Boards on N
-Ridge of Aran Benllyn." href="/images/2012-07-Arans/DSCF2690.jpg"><img
- width="200" alt="Boards on N
-Ridge of Aran Benllyn." title="Boards on N
-Ridge of Aran Benllyn." src="/images/2012-07-Arans/thumb.DSCF2690.jpg" /></a>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Boards on N
+Ridge of Aran Benllyn</b></p>@@*
+*@@html: <a href="/galleries/2012-07-Arans/DSCF2690.jpg" title="A title"
+  class="rounded float-left" { alt="Boards on N Ridge of Aran Benllyn"><img src="/galleries/2012-07-Arans/DSCF2690.jpg"></a>@@*
 
 I decided on a late start from Llanuwchllyn on the Wednesday leaving
 the small car park at the end of the village about 2:00pm. The weather
@@ -38,14 +32,10 @@ much worse than usual, which is still very wet! As I splashed upwards
 through the bogs, I could see that the cloud was descending. I was
 soon in the mist, although it wasn't actually raining.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit of Aran Benllyn." href="/images/2012-07-Arans/DSCF2692.jpg"><img
- width="200" alt="Summit of Aran Benllyn." title="Summit of Aran Benllyn." src="/images/2012-07-Arans/thumb.DSCF2692.jpg" /></a>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Summit of Aran Benllyn</b></p>@@*
+*@@html: <a href="/galleries/2012-07-Arans/DSCF2692.jpg" title="A title"
+  class="rounded float-left" { alt="Summit of Aran Benllyn"><img src="/galleries/2012-07-Arans/DSCF2692.jpg"></a>@@*
 
 For some reason the North ridge always seems an awfully long way to
 the summit (probably because it is). About 200m below the summit I met
@@ -62,14 +52,10 @@ could have proved very tricky. Anticipating this problem I
 had loaded up a track from [[http://v-g.me.uk/][v-g's]] web site into my Garmin GPS, which
 lead me safely down into the cwm.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Camp at Creiglyn Dyfi." href="/images/2012-07-Arans/DSCF2701.jpg"><img
- width="200" alt="Camp at Creiglyn Dyfi." title="Camp at Creiglyn Dyfi." src="/images/2012-07-Arans/thumb.DSCF2701.jpg" /></a>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Camp at Creiglyn Dyfi</b></p>@@*
+*@@html: <a href="/galleries/2012-07-Arans/DSCF2701.jpg" title="A title"
+  class="rounded float-left" { alt="Camp at Creiglyn Dyfi"><img src="/galleries/2012-07-Arans/DSCF2701.jpg"></a>@@*
 
 The clag was well down and I only saw Creiglyn Dyfi when I was a
 couple of hundred feet above it. Casting around for a decent spot to
@@ -89,15 +75,10 @@ life more difficult, there was only a very thin covering of grass over
 the stones, so getting the pegs in was hard work. There were several
 minutes of cursing before I finally got the tent up properly.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Camp at
-Creiglyn Dyfi. Better weather in the morning." href="/images/2012-07-Arans/DSCF2705.jpg"><img
- width="200" alt="Camp at Creiglyn Dyfi. Better weather in the morning." title="Camp at Creiglyn
-Dyfi. Better weather in the morning." src="/images/2012-07-Arans/thumb.DSCF2705.jpg" /></a>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Camp at Creiglyn Dyfi</b></p>@@*
+*@@html: <a href="/galleries/2012-07-Arans/DSCF2705.jpg" title="Camp at Creiglyn Dyfi. Better weather in the morning."
+  class="rounded float-left" { alt="Camp at Creiglyn Dyfi. Better weather in the morning."><img src="/galleries/2012-07-Arans/DSCF2705.jpg"></a>@@*
 
 Of course as soon as I had got the tent up it stopped raining. As I
 was very wet, I decided to go for a bit of a wander round the lake
@@ -109,13 +90,10 @@ some dry clothes and cooked tea. For one the Voyager is super spacious
 and in the poor weather the large porch was great for cooking and
 storing my wet clothes.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cwm Cynlwydd." href="/images/2012-07-Arans/DSCF2720.jpg"><img
- width="200" alt="Cwm Cynlwydd." title="Cwm Cynlwydd." src="/images/2012-07-Arans/thumb.DSCF2720.jpg" /></a>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Cwm Cynlwydd</b></p>@@*
+*@@html: <a href="/galleries/2012-07-Arans/DSCF2720.jpg" title="A title"
+  class="rounded float-left" { alt="Cwm Cynlwydd"><img src="/galleries/2012-07-Arans/DSCF2720.jpg"></a>@@*
 
 During the night there were several heavy showers, but luckily the
 small stream next to me didn't burst its banks. Peering out of the
@@ -125,17 +103,10 @@ back to the car via Cwm Llwydd and Talardd. However, the prospect of
 views from the summit ridge was enticing. I decided to retrace my
 route and savour the views up there.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="View SE from
-Aran Benllyn." href="/images/2012-07-Arans/DSCF2722.jpg"><img
- width="200" alt="View SE from
-Aran Benllyn.." title="View SE from
-Aran Benllyn.." src="/images/2012-07-Arans/thumb.DSCF2722.jpg" /></a>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>View SE from Aran Benllyn</b></p>@@*
+*@@html: <a href="/galleries/2012-07-Arans/DSCF2722.jpg" title="A title"
+  class="rounded float-left" { alt="View SE from Aran Benllyn"><img src="/galleries/2012-07-Arans/DSCF2722.jpg"></a>@@*
 
 I packed away and began the long 1,000ft slog back up the grassy spur
 to Erw y Ddafad-ddu. Inevitably as I climbed back up the steep slope,
@@ -149,16 +120,10 @@ breaks in the mist. In some ways this was much better than unbroken
 horizon to horizon views. Every few minutes a different patch of mist
 would disperse and I would get a new view.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cloud gathering
-over the Aran Ridge." href="/images/2012-07-Arans/DSCF2723.jpg"><img
- width="200" alt="Cloud gathering
-over the Aran Ridge." title="Cloud gathering
-over the Aran Ridge." src="/images/2012-07-Arans/thumb.DSCF2723.jpg" /></a>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Cloud gathering over the Aran Ridge</b></p>@@*
+*@@html: <a href="/galleries/2012-07-Arans/DSCF2723.jpg" title="A title"
+  class="rounded float-left" { alt="Cloud gathering over the Aran Ridge"><img src="/galleries/2012-07-Arans/DSCF2723.jpg"></a>@@*
 
 Dropping down from the summit of Aran Benllyn, I emerged completely
 from the clag. Somehow the descent of the north ridge seemed even
@@ -167,29 +132,18 @@ got into some dry clothes and made a brew before setting off back
 . Although the weather was far from perfect it had been a very
 satisfying trip.
 
-#+BEGIN_HTML
-<div class="thumbnail">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Bala from the ridge." href="/images/2012-07-Arans/DSCF2725.jpg"><img
- width="200" alt="Bala from the ridge." title="Bala from the ridge." src="/images/2012-07-Arans/thumb.DSCF2725.jpg" /></a>
 
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Lake Vyrnwy in
-the distance." href="/images/2012-07-Arans/DSCF2727.jpg"><img
- width="200" alt="Lake Vyrnwy in
-the distance." title="Lake Vyrnwy in
-the distance." src="/images/2012-07-Arans/thumb.DSCF2727.jpg" /></a>
+*@@html: <p class="caption"><b>Bala from the ridge</b></p>@@*
+*@@html: <a href="/galleries/2012-07-Arans/DSCF2725.jpg" title="Bala from the ridge"
+  class="rounded float-left" { alt="Bala from the Ridge"><img src="/galleries/2012-07-Arans/DSCF2725.jpg"></a>@@*
 
+*@@html: <p class="caption"><b>Looking at the
+long descent back down the North ridge</b></p>@@*
+*@@html: <a href="/galleries/2012-07-Arans/DSCF2731.jpg" title="A title"
+  class="rounded float-left" { alt="Looking at the long descent back down the North ridge"><img src="/galleries/2012-07-Arans/DSCF2731.jpg"></a>@@*
 
-</div>
-
-
-<div class="thumbnail">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Looking at the
-long descent back down the North ridge." href="/images/2012-07-Arans/DSCF2731.jpg"><img
- width="200" alt="Looking at the
-long descent back down the North ridge." title="Looking at the
-long descent back down the North ridge." src="/images/2012-07-Arans/thumb.DSCF2731.jpg" /></a>
-
-</div>
-
-
-#+END_HTML
+*@@html: <p class="caption"><b>Lake Vyrnwy in
+the distance</b></p>@@*
+*@@html: <a href="/galleries/2012-07-Arans/DSCF2727.jpg" title="Lake Vyrnwy in
+the distance"
+  class="rounded float-left" { alt="Wild pony"><img src="/galleries/2012-07-Arans/DSCF2727.jpg"></a>@@*
