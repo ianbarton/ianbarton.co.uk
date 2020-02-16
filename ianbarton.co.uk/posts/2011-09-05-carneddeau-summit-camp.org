@@ -13,14 +13,9 @@ the Snowdonia weather forecast was predicting a couple of days of
 cloud free summits. Not deterred by our very windy camp on the summit
 of Moel Siabod, Ella was keen to go on another summit camp.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Wild ponies." href="/images/2011-08-carned/DSCF1822.JPG"><img
- width="200" alt="Wild ponies." title="Wild ponies." src="/images/2011-08-carned/DSCF1822.JPG" /></a>
-
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Wild ponies</b></p>@@*
+*@@html: <a href="/galleries/2011-08-carned/DSCF1822.JPG" class="rounded
+float-left" alt="Wild ponies"><img src="/galleries/2011-08-carned/DSCF1822.JPG"></a>@@*
 
 
 The plan was to climb Carnedd Llewelyn via the road up to Fyffon
@@ -28,13 +23,9 @@ Lllugwy and traversing Craig yr Ysfa, camping on or near to the
 summit. On day two we would traverse the ridge to Pen yr Ole Wen and
 descend the South East ridge back to the valley.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Ffynnon Llugwy." href="/images/2011-08-carned/DSCF1829.JPG"><img
-alt="Ffynnon Llugwy." width="200" alt="Ffynnon Llugwy." title="Ffynnon Llugwy." src="/images/2011-08-carned/DSCF1829.JPG" /></a>
-
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Ffynnon Llugwy</b></p>@@*
+*@@html: <a href="/galleries/2011-08-carned/DSCF1829.JPG" class="rounded
+float-left" alt="Ffynnon Llugwy"><img src="/galleries/2011-08-carned/DSCF1829.JPG"></a>@@*
 
 
 We arrived at Capel Curig at lunch time and went into the Pinnacle
@@ -45,14 +36,10 @@ in cloud. Hoping that the tops would clear later on and that the
 forecast for clear tops tomorrow would be correct, we decided to
 proceed with our plan.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Zephyros on C. Llewelyn" href="/images/2011-08-carned/DSCF1834.JPG"><img
- width="200" alt="Zephyros on C. Llewelyn" title="Zephyros on C. Llewelyn" src="/images/2011-08-carned/DSCF1834.JPG" /></a>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Zephyros on C. Llewelyn</b></p>@@*
+*@@html: <a href="/galleries/2011-08-carned/DSCF1834.JPG" class="rounded
+float-left" alt="Zephyros on C. Llewelyn"><img src="/galleries/2011-08-carned/DSCF1834.JPG"></a>@@*
 
 I had planned to leave the car at one of the two camp sites in the
 valley, as I was a bit concerned that leaving the car on the A5
@@ -100,22 +87,15 @@ as a waypoint in my eTrex, which made locating it much easier in the
 mist. The nearby cairn, overlooking Cwm Eigau, which I remember being
 huge, turned out to be just a small pile of rock.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Ella in the tent." href="/images/2011-08-carned/DSCF1837.JPG"><img
- width="200" alt="Ella in the tent." title="Ella in the tent." src="/images/2011-08-carned/DSCF1837.JPG" /></a>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Ella in the tent</b></p>@@*
+*@@html: <a href="/galleries/2011-08-carned/DSCF1837.JPG" class="rounded
+float-left" alt="Ella in the tent"><img src="/galleries/2011-08-carned/DSCF1837.JPG"></a>@@*
 
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Siabod appears from the mist." href="/images/2011-08-carned/DSCF1847.JPG"><img
- width="200" alt="Moel Siabod appears from the mist." title="Moel Siabod appears from the mist." src="/images/2011-08-carned/DSCF1847.JPG" /></a>
-
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Moel Siabod appears from the mist</b></p>@@*
+*@@html: <a href="/galleries/2011-08-carned/DSCF1847.JPG" class="rounded
+float-left" alt="Moel Siabod appears from the mist"><img src="/galleries/2011-08-carned/DSCF1847.JPG"></a>@@*
 
 It was only about 5:00pm when I set up the tent. Although it was very
 misty, there was no breeze, so I was able to cook in the open on the
@@ -131,13 +111,10 @@ route to Ella, so she could see that there was only a small amount of
 ascent with most of the day being a traverse over the summits. We
 tuned in finally just before it got dark around 9:00pm.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Ella on the summit of Carnedd Llewelyn." href="/images/2011-08-carned/DSCF1852.JPG"><img
- width="200" alt="Ella on the summit of Carnedd Llewelyn." title="Ella on the summit of Carnedd Llewelyn." src="/images/2011-08-carned/DSCF1852.JPG" /></a>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Ella on the summit of Carnedd Llewelyn</b></p>@@*
+*@@html: <a href="/galleries/2011-08-carned/DSCF1852.JPG" class="rounded
+float-left" alt="Ella on the summit of Carnedd Llewelyn"><img src="/galleries/2011-08-carned/DSCF1852.JPG"></a>@@*
 
 
 Unlike our trip up Moel Siabod we slept well and it was after 6:00am
@@ -153,23 +130,15 @@ where we sheltered in one of the many stone shelters. After a brief
 rest we dropped down a short way before the ascent to the final summit
 of Pen yr Ole Wen, where we saw the first person of the day.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="The Black Ladders." href="/images/2011-08-carned/DSCF1858.JPG"><img
- width="200" alt="Wild ponies." title="The Black Ladders." src="/images/2011-08-carned/DSCF1858.JPG" /></a>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>The Black Ladders</b></p>@@*
+*@@html: <a href="/galleries/2011-08-carned/DSCF1858.JPG" class="rounded
+float-left" alt="The Black Ladders"><img src="/galleries/2011-08-carned/DSCF1858.JPG"></a>@@*
 
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Pen yr Ole Wen and Snowdon." href="/images/2011-08-carned/DSCF1860.JPG"><img
- width="200" alt="Pen yr Ole Wen and Snowdon." title="Pen yr Ole Wen and Snowdon." src="/images/2011-08-carned/DSCF1860.JPG" /></a>
-
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Pen yr Ole Wen and Snowdon</b></p>@@*
+*@@html: <a href="/galleries/2011-08-carned/DSCF1860.JPG" class="rounded
+float-left" alt="Pen yr Ole Wen and Snowdon"><img src="/galleries/2011-08-carned/DSCF1860.JPG"></a>@@*
 
 Once we had crossed the summit we were sheltered from the wind as we
 wound our way down the south east ridge. We scrambled down the final
