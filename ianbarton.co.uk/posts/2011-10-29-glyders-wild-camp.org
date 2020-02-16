@@ -10,7 +10,8 @@
 #+END_COMMENT
 ** Day One - a Scramble on Tryfan.
 
-You can see more photos from the trip [[file:./tryfan-glyders-photos.html][here]] .
+You can see more photos from the trip
+*@@html: <a href="/posts/2011-10-29-tryfan-glyders-photos/">here </a>@@*
 
 For some time I had wanted to do a two day backpack around the Arans,
 starting from Cwm Cyarch and climbing Aran Fawddwy, then
@@ -92,16 +93,9 @@ towards the North Ridge, I was pleased to see that he had abandoned
 his attempt and was climbing back up.
 
 
-#+BEGIN_HTML
-<div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2076.JPG"
-  title="Y Garn from Tryfan"> <img src="/images/2011-10_wales/DSCF2076_1.JPG" width="200"
-     alt="Y Garn from Tryfan"></a></p>
-  <p>Y Garn from Tryfan</p>
-
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Y Garn from Tryfan</b></p>@@*
+*@@html: <a href="/galleries/2011-10_wales/DSCF2076.JPG" class="rounded
+float-left" alt="Y Garn from Tryfan"><img src="/galleries/2011-10_wales/DSCF2076.JPG"></a>@@*
 
 By this time the clag had descended and the rest of the ridge was
 misted out. The rock on Tryfan, especially on the popular routes, is
@@ -138,18 +132,12 @@ slept quite well, waking around 6:00am. Sunrise was shortly after
 8:00am and it doesn't really get light enough to do much before
 7:00am, so I spent an hour making drinks and eating breakfast.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2102.JPG" title="Sunrise
-  over Moel Siabdd"> <img src="/images/2011-10_wales/DSCF2102_1.JPG" width="200"
-     alt="Sunrise
-  over Moel Siabdd."></a></p>
-  <p>Sunrise
-  over Moel Siabdd.</p>
 
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Sunrise
+  over Moel Siabod</b></p>@@*
+*@@html: <a href="/galleries/2011-10_wales/DSCF2102.JPG" class="rounded
+float-left" alt="Sunrise
+  over Moel Siabod"><img src="/galleries/2011-10_wales/DSCF2102.JPG"></a>@@*
 
 The weather was perfect. There was only some high cirrus and a slight
 breeze. I was ready to go shortly before 8:00am. I was walking almost
@@ -159,15 +147,10 @@ pain my leg was fine. The main summits of the Glyders are justifiably
 very popular. However, it's unusual to see anyone on the section
 between Glyder Fach and Capel Curig.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2104.JPG"  title="Snowdon
-  Horseshoe"> <img src="/images/2011-10_wales/DSCF2104_1.JPG" width="200"
-     alt="Snowdon Horseshoe."></a></p>
-  <p>Snowdon Horseshoe.</p>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Snowdon Horseshoe</b></p>@@*
+*@@html: <a href="/galleries/2011-10_wales/DSCF2104.JPG" class="rounded
+float-left" alt="Snowdon Horseshoe"><img src="/galleries/2011-10_wales/DSCF2104.JPG"></a>@@*
 
 There is a small rock outcrop near to the lake, which provides a great
 viewpoint over the east face of Tryfan. Readers of Poucher's guide
@@ -181,18 +164,9 @@ minutes taking photographs, I made my way over towards Galtt yr
 Ogof. It's possible to bypass this summit, but it's well worth the
 short detour for the excellent views.
 
-#+BEGIN_HTML
-<div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2105.JPG"
-
-  title="Glyder fach and Bristly Ridge."
-  > <img src="/images/2011-10_wales/DSCF2105_1.JPG" width="200"
-     alt="Glyder fach and Bristly Ridge."></a></p>
-  <p>Glyder fach and Bristly Ridge.</p>
-
-</div>
-#+END_HTML
-
+*@@html: <p class="caption"><b>Glyder fach and Bristly Ridge</b></p>@@*
+*@@html: <a href="/galleries/2011-10_wales/DSCF2099.JPG" class="rounded
+float-left" alt="Glyder fach and Bristly Ridge"><img src="/galleries//2011-10_wales/DSCF2099.JPG"></a>@@*
 
 Leaving the summit of Galtt yr OgofI, I began the long descent towards
 Cefyn y Capel. This is a long flat ridge which ends above Capel
@@ -204,16 +178,10 @@ very boggy. My old Hi Trek boots are distinctly non waterproof and my
 feet were soon very damp. I was glad that I hadn't decided to wear
 trail shoes.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2128.JPG"
-  title="Cefyn y Capel."
-  > <img src="/images/2011-10_wales/DSCF2128_1.JPG" width="200"
-     alt="Cefyn y Capel."></a></p>
-  <p>Cefyn y Capel.</p>
 
-</div>
-#+END_HTML
+*@@html: <p class="caption"><b>Cefyn y Capel</b></p>@@*
+*@@html: <a href="/galleries/2011-10_wales/DSCF2128.JPG" class="rounded
+float-left" alt="Cefyn y Capel"><img src="/galleries/2011-10_wales/DSCF2128.JPG"></a>@@*
 
 There are a number of paths you could follow, but essentially you just
 follow the crest of the ridge to its end. Finally the path drops down
