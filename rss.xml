@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ian's Blog.</title><link>https://ianbarton.co.uk/</link><description>Ian's Blog.</description><atom:link href="https://ianbarton.co.uk/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:ian@ianbarton.co.uk"&gt;Ian Barton.&lt;/a&gt; </copyright><lastBuildDate>Sun, 16 Feb 2020 12:12:06 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>README and List of Pages to Update.</title><link>https://ianbarton.co.uk/posts/2019-09-26-readme-fixes/</link><dc:creator>Ian Barton.</dc:creator><description></description><category>mountaineering</category><category>tripreport</category><guid>https://ianbarton.co.uk/posts/2019-09-26-readme-fixes/</guid><pubDate>Thu, 26 Sep 2019 17:58:37 GMT</pubDate></item><item><title>Change of Blog url.</title><link>https://ianbarton.co.uk/posts/2019-09-23-changed-url/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ian's Blog.</title><link>https://ianbarton.co.uk/</link><description>Ian's Blog.</description><atom:link href="https://ianbarton.co.uk/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:ian@ianbarton.co.uk"&gt;Ian Barton.&lt;/a&gt; </copyright><lastBuildDate>Mon, 24 Feb 2020 17:17:15 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Change of Blog url.</title><link>https://ianbarton.co.uk/posts/2019-09-23-changed-url/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
 I have decided to move my blog from the original &lt;a href="http://ian-barton.com"&gt;http://ian-barton.com&lt;/a&gt; to
 &lt;a href="http://ianbarton.co.uk"&gt;http://ianbarton.co.uk&lt;/a&gt; . All the pages from the original site are here. If you
 go to the old url, you should be automatically be redirected here.
@@ -441,9 +441,9 @@ The Alpkit Brupot weighs 266g, including the bag and my MSR kettle
 weighs 254g.
 &lt;/p&gt;
 
-&lt;div id="outline-container-org41fa373" class="outline-3"&gt;
-&lt;h3 id="org41fa373"&gt;&lt;span class="timestamp-wrapper"&gt;&lt;span class="timestamp"&gt;[2014-10-07 Tue] &lt;/span&gt;&lt;/span&gt; Update.&lt;/h3&gt;
-&lt;div class="outline-text-3" id="text-org41fa373"&gt;
+&lt;div id="outline-container-orgf1dd881" class="outline-3"&gt;
+&lt;h3 id="orgf1dd881"&gt;&lt;span class="timestamp-wrapper"&gt;&lt;span class="timestamp"&gt;[2014-10-07 Tue] &lt;/span&gt;&lt;/span&gt; Update.&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-orgf1dd881"&gt;
 &lt;p&gt;
 It was pointed out to me that I really should also be measuring the
 weight of gas used. In my original experiment I didn't weight the gas
@@ -484,9 +484,9 @@ consumed is.
 &lt;/div&gt;
 
 
-&lt;div id="outline-container-org46c77e9" class="outline-4"&gt;
-&lt;h4 id="org46c77e9"&gt;Gas Cylinder Removed Before Weighing.&lt;/h4&gt;
-&lt;div class="outline-text-4" id="text-org46c77e9"&gt;
+&lt;div id="outline-container-org4b22b3a" class="outline-4"&gt;
+&lt;h4 id="org4b22b3a"&gt;Gas Cylinder Removed Before Weighing.&lt;/h4&gt;
+&lt;div class="outline-text-4" id="text-org4b22b3a"&gt;
 &lt;table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border"&gt;
 &lt;caption class="t-above"&gt;&lt;span class="table-number"&gt;Table 1:&lt;/span&gt; Alpkit BruPot.&lt;/caption&gt;
 
@@ -563,9 +563,9 @@ consumed is.
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org1b66eb7" class="outline-4"&gt;
-&lt;h4 id="org1b66eb7"&gt;Gas Cylinder Weighed Without Removing From Flexible Pipe.&lt;/h4&gt;
-&lt;div class="outline-text-4" id="text-org1b66eb7"&gt;
+&lt;div id="outline-container-orgd5fe6e3" class="outline-4"&gt;
+&lt;h4 id="orgd5fe6e3"&gt;Gas Cylinder Weighed Without Removing From Flexible Pipe.&lt;/h4&gt;
+&lt;div class="outline-text-4" id="text-orgd5fe6e3"&gt;
 &lt;table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border"&gt;
 &lt;caption class="t-above"&gt;&lt;span class="table-number"&gt;Table 3:&lt;/span&gt; First Run.&lt;/caption&gt;
 
@@ -653,9 +653,9 @@ consumed is.
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-orgd1e1e77" class="outline-2"&gt;
-&lt;h2 id="orgd1e1e77"&gt;Conclusions.&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgd1e1e77"&gt;
+&lt;div id="outline-container-org8da9600" class="outline-2"&gt;
+&lt;h2 id="org8da9600"&gt;Conclusions.&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org8da9600"&gt;
 &lt;p&gt;
 The difference in performance between the BruPot and the MSR kettle
 are quite small and probably have little effect in real world use. The
@@ -1706,4 +1706,89 @@ a separate residents lounge and kitchen.
 After a short rest, we wandered down into the village to join the
 others at the pub. We had an enjoyable meal and a few drinks before
 wandering back up the road to our beds.
-&lt;/p&gt;</description><category>cycling</category><guid>https://ianbarton.co.uk/posts/2014-08-23-C2C-Day-Two/</guid><pubDate>Sat, 23 Aug 2014 17:58:18 GMT</pubDate></item></channel></rss>
+&lt;/p&gt;</description><category>cycling</category><guid>https://ianbarton.co.uk/posts/2014-08-23-C2C-Day-Two/</guid><pubDate>Sat, 23 Aug 2014 17:58:18 GMT</pubDate></item><item><title>C2c Day Three</title><link>https://ianbarton.co.uk/posts/2014-08-23-C2C-Day-Three/</link><dc:creator>Ian Barton.</dc:creator><description>&lt;p&gt;
+&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="caption"&gt;&lt;b&gt;Sculpture on the outskirts of Consett&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt; &lt;a href="https://ianbarton.co.uk/galleries/2014-08-C2C/IMG_20140814_11312.jpg" class="rounded
+float-left" alt="Sculpture on the outskirts of Consett"&gt;&lt;img src="https://ianbarton.co.uk/galleries/2014-08-C2C/IMG_20140814_11312.jpg"&gt;&lt;/a&gt;&lt;/b&gt;
+
+
+&lt;p&gt;
+When I got up in the morning, I felt slightly sick and couldn't eat
+much of the excellent breakfast. Luckily I recovered after a couple of
+hours on the bike, but was a bit worried about how the day might go.
+I wanted to get to Newcastle as early as possible, so I would be able
+to get back to Whitehaven in time to drive home. I was also worried
+about not being able to get my bike on the train.
+&lt;/p&gt;
+
+&lt;p&gt;
+Almost as soon as I left the village there was a steep hill. This lead
+through a series of tight bends and was hemmed in by forestry. Just
+what you don't need first thing when not feeling too well! However, I
+made it to the top, where a van was disgorging the beaters for the
+days grouse shooting. The following downhill section to Rookhope was
+the most enjoyable descent of the whole trip. It's just the right
+gradient to coast, with the occasional boost from the pedals.
+&lt;/p&gt;
+
+&lt;p&gt;
+In Rookhope I ignored the off road section and continued on along the
+road to Stanhope. The climb out of Stanhope was without question the
+toughest of the whole C2C.  Overall the hill wasn't too bad, but there
+are two sections of 1 in 3 or 1 in 4 near the start. I managed the
+first section, but gave up and walked on the second one. Eventually
+the road reaches the start of the Waskerley Way. I wasn't sure about
+doing this on a road bike, although my son took this route and said it
+was fine. I needed to do even more climbing before I reached a small B
+road that descended parallel to the Waskerley Way. This was a great
+descent, most of it just coasting along. At the end there was a bit of
+ascent to rejoin the Waskerley Way.
+&lt;/p&gt;
+
+&lt;p&gt;
+On the outskirts on Consett I stopped for a breather and the others
+caught me up. We cycled past the old smelt wagon at Widgetts Junction
+and missed out turn off to Newcastle. Luckily a local cyclist helped
+us out with directions and we were soon back on the right route. Most
+of the rest of the route follows an old railway with a good surface. I
+just wanted to get to the end, so just put my head down and pushed
+on. Finally I emerged next to the river and got a bit confused when I
+seemed to be cycling the wrong way. However, it turned out OK as I
+needed to reach the A695 road bridge to cross the river. From here the
+C2C shares the route with the Hadrians Way cycle path.
+&lt;/p&gt;
+
+&lt;p&gt;
+I could seen some rain blowing up the river towards me and about two
+miles from the end I was engulfed in a downpour. There was no point in
+stopping to get out waterproofs, as I was soaked in a few seconds. I
+ploughed on, stopping only to ask someone in a bus shelter how to get
+to the station. His directions were spot on, but finding the entrance
+was problematic. I met up with my brother in law, who was having the
+same problem! Eventually, we got into the station where a very helpful
+member of staff told us that there was a train to Carlisle leaving in
+about 10 minutes. We raced onto the platform, where we discovered that
+this train had space for six bikes and all the slots were empty, so we
+had at least got our bikes onto this train OK.
+&lt;/p&gt;
+
+&lt;p&gt;
+Once I sat down I started to feel very cold. I had no spare clothes,
+so just dripped and shivered all the way to Carlisle. There was a
+train to Whitehaven ready to depart. This train does only have two
+bike spaces, but the guard was fine about me just sitting and holding
+onto my bike. Finally I was back in Whitehaven in the early
+afternoon. I went to Tescos for a hot drink and some food before
+cycling back to &lt;a href="http://www.chestnuts-whitehaven.com"&gt;Chestnuts&lt;/a&gt; to pick up the car. I had a brief chat with
+the owners before setting off back home. Unfortunately, junction 16 on
+the M6 was closed at night for repairs. I could have come off at an
+earlier junction, but there were no signs before junction 16
+indicating that it was closed! This added an unnecessary extra 30
+miles to my journey.
+&lt;/p&gt;
+
+&lt;p&gt;
+I spite of the drenching and extra unnecessary 30 miles driving home,
+I had enjoyed the last day. I would like to do the route again, but
+next time I'll try and do in two days.
+&lt;/p&gt;</description><category>cycling</category><guid>https://ianbarton.co.uk/posts/2014-08-23-C2C-Day-Three/</guid><pubDate>Sat, 23 Aug 2014 17:58:10 GMT</pubDate></item></channel></rss>
